@@ -1,0 +1,98 @@
+﻿Territoire-Spécialité;Unnamed: 1;Unnamed: 2;Total;Genre;Unnamed: 5;Femme;Unnamed: 7;Unnamed: 8;Unnamed: 9;Unnamed: 10;Unnamed: 11;Unnamed: 12;Unnamed: 13;Unnamed: 14;Unnamed: 15;Homme;Unnamed: 17;Unnamed: 18;Unnamed: 19;Unnamed: 20;Unnamed: 21;Unnamed: 22;Unnamed: 23;Unnamed: 24
+;;;;Femme;Homme;-25;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64;65+;-25;25-29;30-34;35-39;40-44;45-49;50-54;55-59;60-64
+;Belgique;"Toutes les
+sages-femmes";11732.0;11627;105;885;2248;1609;1326;1021;1009;1058;1081;586;804;2;5;6;6;12;16;20;25;13
+;Région flamande;"Toutes les
+sages-femmes";7991.0;7923;68;649;1489;1076;995;721;655;732;756;378;472;0;3;5;2;5;11;18;17;7
+;Région wallonne;"Toutes les
+sages-femmes";2926.0;2898;28;173;531;366;277;253;320;262;276;178;262;1;1;0;2;6;3;2;8;5
+;"Région de Bruxelles
+Capitale";"Toutes les
+sages-femmes";815.0;806;9;63;228;167;54;47;34;64;49;30;70;1;1;1;2;1;2;0;0;1
+;Brabant flamand;"Toutes les
+sages-femmes";1507.0;1489;18;96;299;211;163;129;125;156;142;64;104;0;1;1;0;2;2;4;5;3
+;Flandre occidentale;"Toutes les
+sages-femmes";1595.0;1584;11;157;304;198;174;143;132;148;145;97;86;0;1;0;0;0;3;0;5;2
+;Flandre orientale;"Toutes les
+sages-femmes";1624.0;1607;17;129;342;238;248;151;149;133;130;47;40;0;0;1;1;2;2;8;3;0
+;Anvers;"Toutes les
+sages-femmes";2163.0;2148;15;159;371;286;273;197;163;205;226;111;157;0;1;3;1;1;2;3;2;2
+;Limbourg;"Toutes les
+sages-femmes";1102.0;1095;7;108;173;143;137;101;86;90;113;59;85;0;0;0;0;0;2;3;2;0
+;Brabant Wallon;"Toutes les
+sages-femmes";395.0;391;4;16;60;55;32;33;41;39;48;26;41;0;0;0;0;0;0;1;2;1
+;Hainaut;"Toutes les
+sages-femmes";879.0;868;11;56;155;98;89;81;115;86;70;72;46;1;0;0;1;1;2;0;3;3
+;Liège;"Toutes les
+sages-femmes";895.0;885;10;46;165;143;86;82;77;70;75;52;89;0;0;0;1;5;1;1;2;0
+;Namur;"Toutes les
+sages-femmes";512.0;511;1;27;110;52;52;36;57;35;57;17;68;0;0;0;0;0;0;0;1;0
+;Luxembourg;"Toutes les
+sages-femmes";245.0;243;2;28;41;18;18;21;30;32;26;11;18;0;1;0;0;0;0;0;0;1
+;"Région de Bruxelles
+Capitale";"Toutes les
+sages-femmes";815.0;806;9;63;228;167;54;47;34;64;49;30;70;1;1;1;2;1;2;0;0;1
+;Belgique;"Sans habilitation à
+prescrire";10866.0;10767;99;697;1954;1511;1232;965;963;1015;1049;577;804;2;3;5;6;12;15;20;24;12
+;Région flamande;"Sans habilitation à
+prescrire";7556.0;7492;64;567;1348;1030;931;688;636;707;738;375;472;0;1;4;2;5;10;18;17;7
+;Région wallonne;"Sans habilitation à
+prescrire";2607.0;2581;26;90;423;334;255;237;297;245;263;175;262;1;1;0;2;6;3;2;7;4
+;"Région de Bruxelles
+Capitale";"Sans habilitation à
+prescrire";703.0;694;9;40;183;147;46;40;30;63;48;27;70;1;1;1;2;1;2;0;0;1
+;Brabant flamand;"Sans habilitation à
+prescrire";1398.0;1380;18;76;266;201;148;117;121;147;137;63;104;0;1;1;0;2;2;4;5;3
+;Flandre occidentale;"Sans habilitation à
+prescrire";1525.0;1515;10;139;282;193;165;136;130;145;143;96;86;0;0;0;0;0;3;0;5;2
+;Flandre orientale;"Sans habilitation à
+prescrire";1511.0;1494;17;108;308;224;229;148;140;128;123;46;40;0;0;1;1;2;2;8;3;0
+;Anvers;"Sans habilitation à
+prescrire";2067.0;2055;12;146;341;270;260;189;159;199;223;111;157;0;0;2;1;1;1;3;2;2
+;Limbourg;"Sans habilitation à
+prescrire";1055.0;1048;7;98;151;142;129;98;86;88;112;59;85;0;0;0;0;0;2;3;2;0
+;Brabant Wallon;"Sans habilitation à
+prescrire";358.0;354;4;9;47;51;30;30;35;39;46;26;41;0;0;0;0;0;0;1;2;1
+;Hainaut;"Sans habilitation à
+prescrire";758.0;749;9;22;120;84;81;77;107;74;66;72;46;1;0;0;1;1;2;0;2;2
+;Liège;"Sans habilitation à
+prescrire";836.0;826;10;27;147;139;83;79;73;66;73;50;89;0;0;0;1;5;1;1;2;0
+;Namur;"Sans habilitation à
+prescrire";451.0;450;1;17;82;46;43;33;55;35;55;16;68;0;0;0;0;0;0;0;1;0
+;Luxembourg;"Sans habilitation à
+prescrire";204.0;202;2;15;27;14;18;18;27;31;23;11;18;0;1;0;0;0;0;0;0;1
+;"Région de Bruxelles
+Capitale";"Sans habilitation à
+prescrire";703.0;694;9;40;183;147;46;40;30;63;48;27;70;1;1;1;2;1;2;0;0;1
+;Belgique;"Prescription de
+médicaments";866.0;860;6;188;294;98;94;56;46;43;32;9;0;0;2;1;0;0;1;0;1;1
+;Région flamande;"Prescription de
+médicaments";435.0;431;4;82;141;46;64;33;19;25;18;3;0;0;2;1;0;0;1;0;0;0
+;Région wallonne;"Prescription de
+médicaments";319.0;317;2;83;108;32;22;16;23;17;13;3;0;0;0;0;0;0;0;0;1;1
+;"Région de Bruxelles
+Capitale";"Prescription de
+médicaments";112.0;112;0;23;45;20;8;7;4;1;1;3;0;0;0;0;0;0;0;0;0;0
+;Brabant flamand;"Prescription de
+médicaments";109.0;109;0;20;33;10;15;12;4;9;5;1;0;0;0;0;0;0;0;0;0;0
+;Flandre occidentale;"Prescription de
+médicaments";70.0;69;1;18;22;5;9;7;2;3;2;1;0;0;1;0;0;0;0;0;0;0
+;Flandre orientale;"Prescription de
+médicaments";113.0;113;0;21;34;14;19;3;9;5;7;1;0;0;0;0;0;0;0;0;0;0
+;Anvers;"Prescription de
+médicaments";96.0;93;3;13;30;16;13;8;4;6;3;0;0;0;1;1;0;0;1;0;0;0
+;Limbourg;"Prescription de
+médicaments";47.0;47;0;10;22;1;8;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0
+;Brabant Wallon;"Prescription de
+médicaments";37.0;37;0;7;13;4;2;3;6;0;2;0;0;0;0;0;0;0;0;0;0;0
+;Hainaut;"Prescription de
+médicaments";121.0;119;2;34;35;14;8;4;8;12;4;0;0;0;0;0;0;0;0;0;1;1
+;Liège;"Prescription de
+médicaments";59.0;59;0;19;18;4;3;3;4;4;2;2;0;0;0;0;0;0;0;0;0;0
+;Namur;"Prescription de
+médicaments";61.0;61;0;10;28;6;9;3;2;0;2;1;0;0;0;0;0;0;0;0;0;0
+;Luxembourg;"Prescription de
+médicaments";41.0;41;0;13;14;4;0;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0
+;"Région de Bruxelles
+Capitale";"Prescription de
+médicaments";112.0;112;0;23;45;20;8;7;4;1;1;3;0;0;0;0;0;0;0;0;0;0
