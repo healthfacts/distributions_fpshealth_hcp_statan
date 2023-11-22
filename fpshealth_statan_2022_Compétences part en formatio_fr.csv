@@ -1,0 +1,152 @@
+﻿Territoire-Spécialité;Unnamed: 1;Total;Genre;Unnamed: 4;Femme;Unnamed: 6;Unnamed: 7;Unnamed: 8;Unnamed: 9;Unnamed: 10;Homme;Unnamed: 12;Unnamed: 13;Unnamed: 14;Unnamed: 15;Unnamed: 16;Unnamed: 17
+;;;Femme;Homme;25-29;30-34;35-39;40-44;45-49;50-54;25-29;30-34;35-39;40-44;45-49;50-54;55-59
+Belgique;Toutes les spécialités;220.0;112;108;1;87;15;4;4;1;1;82;10;6;5;3;1
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";42.0;24;18;0;11;9;1;3;0;0;7;4;1;4;1;1
+;Chirurgie orale et maxillo-faciale;13.0;2;11;0;2;0;0;0;0;1;10;0;0;0;0;0
+;Soins intensifs;68.0;25;43;1;23;1;0;0;0;0;36;4;1;1;1;0
+;Neurologie pédiatrique;12.0;9;3;0;7;1;1;0;0;0;3;0;0;0;0;0
+;Néphrologie;11.0;5;6;0;5;0;0;0;0;0;6;0;0;0;0;0
+;Médecine d'urgence;18.0;8;10;0;4;1;1;1;1;0;6;1;2;0;1;0
+;Endocrino-diabétologie;11.0;8;3;0;7;0;1;0;0;0;2;0;1;0;0;0
+;Néonatologie;9.0;8;1;0;7;1;0;0;0;0;0;0;1;0;0;0
+;Oncologie;10.0;7;3;0;7;0;0;0;0;0;2;1;0;0;0;0
+;Hématologie et oncologie pédiatrique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie clinique;15.0;9;6;0;9;0;0;0;0;0;6;0;0;0;0;0
+;Psychiatrie médico-légale;1.0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+;Infectiologie clinique;8.0;4;4;0;3;1;0;0;0;0;4;0;0;0;0;0
+;Microbiologie médicale;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Région flamande;Toutes les spécialités;149.0;83;66;1;66;10;3;2;1;0;54;4;3;3;1;1
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";27.0;14;13;0;7;5;0;2;0;0;7;2;1;2;0;1
+;Chirurgie orale et maxillo-faciale;8.0;2;6;0;2;0;0;0;0;0;6;0;0;0;0;0
+;Soins intensifs;48.0;18;30;1;17;0;0;0;0;0;27;1;0;1;1;0
+;Neurologie pédiatrique;9.0;8;1;0;6;1;1;0;0;0;1;0;0;0;0;0
+;Néphrologie;5.0;2;3;0;2;0;0;0;0;0;3;0;0;0;0;0
+;Médecine d'urgence;13.0;7;6;0;4;1;1;0;1;0;4;1;1;0;0;0
+;Endocrino-diabétologie;10.0;7;3;0;6;0;1;0;0;0;2;0;1;0;0;0
+;Néonatologie;7.0;7;0;0;6;1;0;0;0;0;0;0;0;0;0;0
+;Oncologie;8.0;7;1;0;7;0;0;0;0;0;1;0;0;0;0;0
+;Hématologie et oncologie pédiatrique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie clinique;6.0;4;2;0;4;0;0;0;0;0;2;0;0;0;0;0
+;Psychiatrie médico-légale;1.0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+;Infectiologie clinique;5.0;4;1;0;3;1;0;0;0;0;1;0;0;0;0;0
+;Microbiologie médicale;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Région wallonne;Toutes les spécialités;39.0;18;21;0;12;4;0;2;0;1;12;4;1;1;2;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";10.0;7;3;0;2;4;0;1;0;0;0;1;0;1;1;0
+;Chirurgie orale et maxillo-faciale;3.0;0;3;0;0;0;0;0;0;1;2;0;0;0;0;0
+;Soins intensifs;7.0;2;5;0;2;0;0;0;0;0;3;2;0;0;0;0
+;Neurologie pédiatrique;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+;Néphrologie;4.0;2;2;0;2;0;0;0;0;0;2;0;0;0;0;0
+;Médecine d'urgence;5.0;1;4;0;0;0;0;1;0;0;2;0;1;0;1;0
+;Néonatologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Oncologie;1.0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0
+;Hématologie clinique;6.0;4;2;0;4;0;0;0;0;0;2;0;0;0;0;0
+"Région de Bruxelles
+Capitale";Toutes les spécialités;32.0;11;21;0;9;1;1;0;0;0;16;2;2;1;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";5.0;3;2;0;2;0;1;0;0;0;0;1;0;1;0;0
+;Chirurgie orale et maxillo-faciale;2.0;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0
+;Soins intensifs;13.0;5;8;0;4;1;0;0;0;0;6;1;1;0;0;0
+;Neurologie pédiatrique;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Néphrologie;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+;Endocrino-diabétologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Néonatologie;1.0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0
+;Oncologie;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Hématologie clinique;3.0;1;2;0;1;0;0;0;0;0;2;0;0;0;0;0
+;Infectiologie clinique;3.0;0;3;0;0;0;0;0;0;0;3;0;0;0;0;0
+Brabant flamand;Toutes les spécialités;51.0;27;24;0;23;2;1;1;0;0;21;1;0;1;1;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";6.0;4;2;0;2;1;0;1;0;0;1;0;0;1;0;0
+;Chirurgie orale et maxillo-faciale;4.0;1;3;0;1;0;0;0;0;0;3;0;0;0;0;0
+;Soins intensifs;16.0;5;11;0;5;0;0;0;0;0;10;0;0;0;1;0
+;Neurologie pédiatrique;4.0;4;0;0;3;0;1;0;0;0;0;0;0;0;0;0
+;Néphrologie;4.0;2;2;0;2;0;0;0;0;0;2;0;0;0;0;0
+;Médecine d'urgence;2.0;0;2;0;0;0;0;0;0;0;1;1;0;0;0;0
+;Endocrino-diabétologie;4.0;3;1;0;3;0;0;0;0;0;1;0;0;0;0;0
+;Néonatologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Oncologie;3.0;2;1;0;2;0;0;0;0;0;1;0;0;0;0;0
+;Hématologie clinique;4.0;3;1;0;3;0;0;0;0;0;1;0;0;0;0;0
+;Psychiatrie médico-légale;1.0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+;Infectiologie clinique;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+Flandre occidentale;Toutes les spécialités;15.0;8;7;0;5;3;0;0;0;0;5;2;0;0;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";5.0;2;3;0;2;0;0;0;0;0;1;2;0;0;0;0
+;Soins intensifs;5.0;2;3;0;2;0;0;0;0;0;3;0;0;0;0;0
+;Neurologie pédiatrique;1.0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+;Néphrologie;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Médecine d'urgence;1.0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+;Néonatologie;2.0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Toutes les spécialités;37.0;21;16;0;14;4;1;1;1;0;11;1;3;1;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";10.0;5;5;0;1;3;0;1;0;0;4;0;1;0;0;0
+;Chirurgie orale et maxillo-faciale;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+;Soins intensifs;7.0;2;5;0;2;0;0;0;0;0;3;1;0;1;0;0
+;Médecine d'urgence;5.0;3;2;0;2;0;0;0;1;0;1;0;1;0;0;0
+;Endocrino-diabétologie;5.0;3;2;0;2;0;1;0;0;0;1;0;1;0;0;0
+;Néonatologie;2.0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+;Oncologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie clinique;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Infectiologie clinique;3.0;3;0;0;2;1;0;0;0;0;0;0;0;0;0;0
+;Microbiologie médicale;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Anvers;Toutes les spécialités;35.0;22;13;1;20;1;0;0;0;0;12;0;0;1;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";4.0;3;1;0;2;1;0;0;0;0;0;0;0;1;0;0
+;Chirurgie orale et maxillo-faciale;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Soins intensifs;14.0;6;8;1;5;0;0;0;0;0;8;0;0;0;0;0
+;Neurologie pédiatrique;4.0;3;1;0;3;0;0;0;0;0;1;0;0;0;0;0
+;Médecine d'urgence;3.0;1;2;0;1;0;0;0;0;0;2;0;0;0;0;0
+;Endocrino-diabétologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Néonatologie;2.0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0
+;Oncologie;4.0;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie et oncologie pédiatrique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie clinique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Toutes les spécialités;11.0;5;6;0;4;0;1;0;0;0;5;0;0;0;0;1
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";2.0;0;2;0;0;0;0;0;0;0;1;0;0;0;0;1
+;Chirurgie orale et maxillo-faciale;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Soins intensifs;6.0;3;3;0;3;0;0;0;0;0;3;0;0;0;0;0
+;Médecine d'urgence;2.0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Toutes les spécialités;10.0;5;5;0;3;2;0;0;0;0;1;1;0;1;2;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";5.0;3;2;0;1;2;0;0;0;0;0;0;0;1;1;0
+;Neurologie pédiatrique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Médecine d'urgence;2.0;0;2;0;0;0;0;0;0;0;1;0;0;0;1;0
+;Oncologie;1.0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0
+;Hématologie clinique;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Toutes les spécialités;2.0;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0
+;Soins intensifs;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Hématologie clinique;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+Liège;Toutes les spécialités;18.0;10;8;0;8;1;0;1;0;0;6;1;1;0;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";3.0;2;1;0;1;1;0;0;0;0;0;1;0;0;0;0
+;Chirurgie orale et maxillo-faciale;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Soins intensifs;3.0;2;1;0;2;0;0;0;0;0;1;0;0;0;0;0
+;Neurologie pédiatrique;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Néphrologie;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+;Médecine d'urgence;3.0;1;2;0;0;0;0;1;0;0;1;0;1;0;0;0
+;Néonatologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Hématologie clinique;4.0;3;1;0;3;0;0;0;0;0;1;0;0;0;0;0
+Namur;Toutes les spécialités;7.0;3;4;0;1;1;0;1;0;1;1;2;0;0;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";2.0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0
+;Chirurgie orale et maxillo-faciale;1.0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+;Soins intensifs;3.0;0;3;0;0;0;0;0;0;0;1;2;0;0;0;0
+;Néphrologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Toutes les spécialités;2.0;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0
+;Chirurgie orale et maxillo-faciale;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Néphrologie;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+"Région de Bruxelles
+Capitale";Toutes les spécialités;32.0;11;21;0;9;1;1;0;0;0;16;2;2;1;0;0
+;"Réadaptation fonctionnelle et professionnelle des
+handicapés";5.0;3;2;0;2;0;1;0;0;0;0;1;0;1;0;0
+;Chirurgie orale et maxillo-faciale;2.0;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0
+;Soins intensifs;13.0;5;8;0;4;1;0;0;0;0;6;1;1;0;0;0
+;Neurologie pédiatrique;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Néphrologie;2.0;1;1;0;1;0;0;0;0;0;1;0;0;0;0;0
+;Endocrino-diabétologie;1.0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+;Néonatologie;1.0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0
+;Oncologie;1.0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+;Hématologie clinique;3.0;1;2;0;1;0;0;0;0;0;2;0;0;0;0;0
+;Infectiologie clinique;3.0;0;3;0;0;0;0;0;0;0;3;0;0;0;0;0
