@@ -1,0 +1,196 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_min25;femme_25-29;femme_30-34;femme_35-39;femme_40-44;femme_45-49;femme_50-54;femme_55-59;femme_60-64;femme_65plus;homme_min25;homme_25-29;homme_30-34;homme_35-39;homme_40-44;homme_45-49;homme_50-54;homme_55-59;homme_60-64;homme_65plus
+Belgique;Tous les paramédicaux;80812;68243;12569;6761;12575;11354;8177;6789;5284;4210;4702;4143;4248;1100;2419;2092;1287;1073;936;771;854;867;1170
+Région flamande;Tous les paramédicaux;49762;42425;7337;4690;8433;7340;4980;4053;3190;2426;2756;2357;2200;729;1515;1198;640;597;499;421;489;501;748
+Région wallonne;Tous les paramédicaux;25594;21377;4217;1582;3128;3177;2690;2340;1829;1566;1718;1591;1756;284;700;695;520;374;363;296;307;315;363
+Région de Bruxelles Capitale;Tous les paramédicaux;5456;4441;1015;489;1014;837;507;396;265;218;228;195;292;87;204;199;127;102;74;54;58;51;59
+Brabant flamand;Tous les paramédicaux;8315;6898;1417;643;1319;1120;845;701;540;417;458;443;412;129;262;219;105;119;117;79;104;129;154
+Flandre occidentale;Tous les paramédicaux;10114;8580;1534;979;1631;1529;970;852;650;446;581;486;456;142;285;245;138;104;110;105;122;103;180
+Flandre orientale;Tous les paramédicaux;12256;10530;1726;1225;2234;1802;1181;992;756;595;642;526;577;170;397;269;157;159;110;94;110;95;165
+Anvers;Tous les paramédicaux;12745;10959;1786;1315;2272;1880;1263;955;792;613;709;628;532;194;382;300;169;145;94;100;108;123;171
+Limbourg;Tous les paramédicaux;6332;5458;874;528;977;1009;721;553;452;355;366;274;223;94;189;165;71;70;68;43;45;51;78
+Brabant Wallon;Tous les paramédicaux;2967;2468;499;141;319;340;314;262;226;193;207;224;242;20;63;71;72;48;38;51;37;47;52
+Hainaut;Tous les paramédicaux;8863;7204;1659;547;1106;1097;855;777;614;553;580;505;570;139;301;272;222;138;133;100;106;110;138
+Liège;Tous les paramédicaux;8172;6975;1197;509;1013;1038;903;743;586;510;566;532;575;76;221;205;130;100;111;87;74;90;103
+Namur;Tous les paramédicaux;3831;3180;651;220;453;481;431;379;261;218;246;234;257;32;83;113;77;69;66;42;72;51;46
+Luxembourg;Tous les paramédicaux;1761;1550;211;165;237;221;187;179;142;92;119;96;112;17;32;34;19;19;15;16;18;17;24
+Région de Bruxelles Capitale;Tous les paramédicaux;5456;4441;1015;489;1014;837;507;396;265;218;228;195;292;87;204;199;127;102;74;54;58;51;59
+Belgique;Assistant pharmaceutico-technique;15438;13472;1966;1548;1902;1994;1468;1269;1044;1201;1081;906;1059;369;398;407;188;130;126;95;78;66;109
+Région flamande;Assistant pharmaceutico-technique;8059;6870;1189;902;1078;1038;659;608;481;591;565;469;479;231;249;255;94;80;66;50;53;35;76
+Région wallonne;Assistant pharmaceutico-technique;6207;5590;617;486;662;744;678;558;502;554;463;407;536;112;121;120;78;38;44;31;20;26;27
+Région de Bruxelles Capitale;Assistant pharmaceutico-technique;1172;1012;160;160;162;212;131;103;61;56;53;30;44;26;28;32;16;12;16;14;5;5;6
+Brabant flamand;Assistant pharmaceutico-technique;1284;1046;238;122;157;157;121;109;67;94;82;75;62;56;43;50;12;14;14;10;13;14;12
+Flandre occidentale;Assistant pharmaceutico-technique;1407;1216;191;149;151;162;89;103;101;118;119;101;123;33;26;42;17;17;15;11;6;5;19
+Flandre orientale;Assistant pharmaceutico-technique;1523;1290;233;159;235;202;108;104;86;113;104;86;93;38;63;43;13;20;11;10;13;9;13
+Anvers;Assistant pharmaceutico-technique;2516;2142;374;383;350;319;184;159;130;155;172;145;145;88;95;79;35;16;16;12;15;6;12
+Limbourg;Assistant pharmaceutico-technique;1329;1176;153;89;185;198;157;133;97;111;88;62;56;16;22;41;17;13;10;7;6;1;20
+Brabant Wallon;Assistant pharmaceutico-technique;314;275;39;13;21;18;31;20;27;32;36;30;47;2;7;4;5;1;4;4;1;4;7
+Hainaut;Assistant pharmaceutico-technique;2373;2106;267;200;243;287;219;187;174;234;183;151;228;69;53;43;27;21;18;11;6;12;7
+Liège;Assistant pharmaceutico-technique;2110;1930;180;142;234;254;274;205;192;175;153;146;155;22;35;36;27;9;14;10;10;6;11
+Namur;Assistant pharmaceutico-technique;966;871;95;73;115;133;111;101;76;81;60;53;68;12;17;31;14;3;7;6;3;2;0
+Luxembourg;Assistant pharmaceutico-technique;444;408;36;58;49;52;43;45;33;32;31;27;38;7;9;6;5;4;1;0;0;2;2
+Région de Bruxelles Capitale;Assistant pharmaceutico-technique;1172;1012;160;160;162;212;131;103;61;56;53;30;44;26;28;32;16;12;16;14;5;5;6
+Belgique;Audiologue;1720;1508;212;187;501;387;151;86;61;48;33;31;23;21;50;51;18;13;14;12;10;10;13
+Région flamande;Audiologue;1452;1338;114;160;454;363;140;81;52;34;24;15;15;11;28;32;11;7;6;6;5;3;5
+Région wallonne;Audiologue;166;105;61;15;22;10;6;4;8;11;7;15;7;4;11;10;6;3;4;5;4;7;7
+Région de Bruxelles Capitale;Audiologue;102;65;37;12;25;14;5;1;1;3;2;1;1;6;11;9;1;3;4;1;1;0;1
+Brabant flamand;Audiologue;210;192;18;18;83;33;24;15;8;4;5;1;1;1;6;3;1;1;2;1;1;1;1
+Flandre occidentale;Audiologue;342;308;34;45;99;98;30;17;7;3;4;4;1;2;10;11;1;2;3;1;2;0;2
+Flandre orientale;Audiologue;419;379;40;51;127;111;32;22;13;11;7;2;3;3;9;13;7;3;1;2;1;1;0
+Anvers;Audiologue;371;354;17;36;120;90;38;22;19;9;7;7;6;3;3;4;2;1;0;2;0;0;2
+Limbourg;Audiologue;110;105;5;10;25;31;16;5;5;7;1;1;4;2;0;1;0;0;0;0;1;1;0
+Brabant Wallon;Audiologue;40;22;18;1;4;2;3;1;3;2;4;1;1;2;2;2;3;0;0;2;0;5;2
+Hainaut;Audiologue;63;44;19;7;10;5;2;1;2;4;2;7;4;1;7;1;1;1;2;1;1;0;4
+Liège;Audiologue;24;14;10;2;6;0;1;0;2;2;1;0;0;0;2;3;1;1;1;1;0;0;1
+Namur;Audiologue;33;21;12;4;1;3;0;1;1;2;0;7;2;1;0;4;1;0;1;1;2;2;0
+Luxembourg;Audiologue;6;4;2;1;1;0;0;1;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0
+Région de Bruxelles Capitale;Audiologue;102;65;37;12;25;14;5;1;1;3;2;1;1;6;11;9;1;3;4;1;1;0;1
+Belgique;Logopède;17364;16843;521;1286;2936;2770;2011;1752;1622;1024;1148;1104;1190;19;29;31;17;31;33;27;63;73;198
+Région flamande;Logopède;9900;9605;295;773;1678;1704;1227;1030;976;539;607;534;537;9;10;13;7;15;24;8;32;46;131
+Région wallonne;Logopède;6209;6018;191;400;946;842;664;625;563;430;488;507;553;7;15;8;6;15;9;18;29;22;62
+Région de Bruxelles Capitale;Logopède;1255;1220;35;113;312;224;120;97;83;55;53;63;100;3;4;10;4;1;0;1;2;5;5
+Brabant flamand;Logopède;1686;1650;36;116;298;272;234;177;187;80;82;98;106;1;1;4;1;1;2;2;2;11;11
+Flandre occidentale;Logopède;2093;2009;84;175;328;362;251;223;219;112;140;105;94;0;4;0;1;2;6;1;14;15;41
+Flandre orientale;Logopède;2782;2701;81;219;509;461;341;304;251;151;152;146;167;3;3;6;3;6;9;1;12;8;30
+Anvers;Logopède;2366;2299;67;199;405;433;279;226;219;130;151;131;126;3;2;2;1;4;6;2;4;9;34
+Limbourg;Logopède;973;946;27;64;138;176;122;100;100;66;82;54;44;2;0;1;1;2;1;2;0;3;15
+Brabant Wallon;Logopède;906;883;23;62;122;118;110;73;97;60;56;81;104;0;4;0;2;2;1;5;3;0;6
+Hainaut;Logopède;1734;1663;71;109;276;241;178;158;169;128;131;135;138;4;6;5;4;1;1;5;12;13;20
+Liège;Logopède;2119;2063;56;131;324;278;215;220;169;164;177;188;197;0;5;2;0;3;4;8;9;7;18
+Namur;Logopède;891;860;31;54;139;138;101;102;72;42;73;70;69;1;0;0;0;7;2;0;4;2;15
+Luxembourg;Logopède;559;549;10;44;85;67;60;72;56;36;51;33;45;2;0;1;0;2;1;0;1;0;3
+Région de Bruxelles Capitale;Logopède;1255;1220;35;113;312;224;120;97;83;55;53;63;100;3;4;10;4;1;0;1;2;5;5
+Belgique;Orthoptiste-optométriste;1114;760;354;52;155;112;109;61;69;82;62;38;20;2;33;33;41;47;44;49;51;37;17
+Région flamande;Orthoptiste-optométriste;992;670;322;44;136;100;99;55;59;74;53;35;15;2;28;30;36;44;38;47;47;35;15
+Région wallonne;Orthoptiste-optométriste;78;58;20;7;11;7;7;2;6;5;7;2;4;0;2;0;2;2;6;2;2;2;2
+Région de Bruxelles Capitale;Orthoptiste-optométriste;44;32;12;1;8;5;3;4;4;3;2;1;1;0;3;3;3;1;0;0;2;0;0
+Brabant flamand;Orthoptiste-optométriste;176;113;63;6;17;18;14;10;12;14;8;8;6;1;9;6;6;11;5;6;9;7;3
+Flandre occidentale;Orthoptiste-optométriste;210;138;72;13;30;8;19;11;14;12;20;8;3;1;7;7;7;6;11;11;10;8;4
+Flandre orientale;Orthoptiste-optométriste;214;141;73;8;29;20;20;14;14;20;8;5;3;0;6;8;6;11;11;14;8;5;4
+Anvers;Orthoptiste-optométriste;254;171;83;10;41;32;27;12;11;20;9;8;1;0;4;8;14;10;8;12;14;9;4
+Limbourg;Orthoptiste-optométriste;138;107;31;7;19;22;19;8;8;8;8;6;2;0;2;1;3;6;3;4;6;6;0
+Brabant Wallon;Orthoptiste-optométriste;13;7;6;0;0;1;1;1;2;1;0;0;1;0;0;0;1;0;3;1;0;1;0
+Hainaut;Orthoptiste-optométriste;21;19;2;0;3;3;2;0;2;1;6;0;2;0;0;0;0;0;2;0;0;0;0
+Liège;Orthoptiste-optométriste;29;22;7;6;4;2;3;1;1;2;1;1;1;0;2;0;1;1;1;0;0;1;1
+Namur;Orthoptiste-optométriste;7;5;2;1;1;1;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;1
+Luxembourg;Orthoptiste-optométriste;8;5;3;0;3;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;2;0;0
+Région de Bruxelles Capitale;Orthoptiste-optométriste;44;32;12;1;8;5;3;4;4;3;2;1;1;0;3;3;3;1;0;0;2;0;0
+Belgique;Podologue;1137;759;378;122;214;147;83;77;55;20;22;10;9;53;138;62;37;40;15;15;9;5;4
+Région flamande;Podologue;822;576;246;106;173;119;62;49;45;6;8;3;5;46;109;36;21;13;11;6;1;0;3
+Région wallonne;Podologue;197;111;86;6;19;20;19;17;7;5;13;3;2;0;17;16;13;21;4;7;4;4;0
+Région de Bruxelles Capitale;Podologue;118;72;46;10;22;8;2;11;3;9;1;4;2;7;12;10;3;6;0;2;4;1;1
+Brabant flamand;Podologue;93;67;26;12;15;13;11;8;2;0;3;1;2;1;7;4;5;2;2;3;1;0;1
+Flandre occidentale;Podologue;256;195;61;37;71;37;23;13;12;0;2;0;0;17;27;6;4;4;2;1;0;0;0
+Flandre orientale;Podologue;345;226;119;38;70;53;15;20;19;5;3;1;2;22;62;19;9;3;3;1;0;0;0
+Anvers;Podologue;87;61;26;13;14;14;10;4;3;1;0;1;1;3;10;5;1;3;3;1;0;0;0
+Limbourg;Podologue;41;27;14;6;3;2;3;4;9;0;0;0;0;3;3;2;2;1;1;0;0;0;2
+Brabant Wallon;Podologue;55;27;28;0;2;5;7;3;3;2;5;0;0;0;4;3;3;9;1;5;3;0;0
+Hainaut;Podologue;63;34;29;4;8;7;6;3;3;0;0;2;1;0;6;7;4;8;0;1;0;3;0
+Liège;Podologue;29;19;10;1;2;3;1;3;0;2;5;1;1;0;2;1;2;1;2;0;1;1;0
+Namur;Podologue;34;22;12;0;5;5;4;5;0;1;2;0;0;0;3;4;2;2;1;0;0;0;0
+Luxembourg;Podologue;16;9;7;1;2;0;1;3;1;0;1;0;0;0;2;1;2;1;0;1;0;0;0
+Région de Bruxelles Capitale;Podologue;118;72;46;10;22;8;2;11;3;9;1;4;2;7;12;10;3;6;0;2;4;1;1
+Belgique;Ergothérapeute;14478;12937;1541;1600;2789;2194;1782;1487;960;427;627;615;456;181;414;268;113;131;115;46;55;89;129
+Région flamande;Ergothérapeute;10933;9761;1172;1322;2190;1669;1328;994;689;331;459;464;315;163;326;202;86;85;64;30;41;74;101
+Région wallonne;Ergothérapeute;2878;2580;298;198;439;435;396;434;231;79;135;127;106;12;66;54;21;39;42;13;12;14;25
+Région de Bruxelles Capitale;Ergothérapeute;667;596;71;80;160;90;58;59;40;17;33;24;35;6;22;12;6;7;9;3;2;1;3
+Brabant flamand;Ergothérapeute;1249;1106;143;138;235;195;148;116;80;45;56;52;41;20;37;33;10;11;9;3;8;3;9
+Flandre occidentale;Ergothérapeute;2587;2293;294;304;467;392;307;263;169;63;123;122;83;30;65;51;24;22;15;9;14;26;38
+Flandre orientale;Ergothérapeute;2944;2613;331;384;597;447;333;245;164;82;128;128;105;54;77;47;25;26;21;11;13;23;34
+Anvers;Ergothérapeute;2482;2269;213;311;570;359;323;212;153;75;91;113;62;26;77;36;15;15;8;3;6;14;13
+Limbourg;Ergothérapeute;1671;1480;191;185;321;276;217;158;123;66;61;49;24;33;70;35;12;11;11;4;0;8;7
+Brabant Wallon;Ergothérapeute;390;353;37;25;51;59;48;61;33;11;18;29;18;1;7;5;3;8;4;1;1;5;2
+Hainaut;Ergothérapeute;1018;894;124;64;183;165;116;152;73;31;47;39;24;6;31;26;7;11;17;8;4;5;9
+Liège;Ergothérapeute;830;743;87;58;104;129;130;131;69;22;38;29;33;1;16;15;9;12;13;2;5;3;11
+Namur;Ergothérapeute;428;394;34;28;66;46;69;60;40;11;24;23;27;2;8;4;2;7;5;1;2;1;2
+Luxembourg;Ergothérapeute;212;196;16;23;35;36;33;30;16;4;8;7;4;2;4;4;0;1;3;1;0;0;1
+Région de Bruxelles Capitale;Ergothérapeute;667;596;71;80;160;90;58;59;40;17;33;24;35;6;22;12;6;7;9;3;2;1;3
+Belgique;Diététicien;7650;7019;631;735;1529;1507;917;600;394;353;351;278;355;63;197;141;56;45;35;18;22;22;32
+Région flamande;Diététicien;4892;4486;406;541;1014;968;533;342;225;205;223;192;243;46;131;101;33;27;15;9;10;11;23
+Région wallonne;Diététicien;2244;2062;182;161;398;417;307;223;149;132;108;76;91;15;51;31;18;14;19;9;8;9;8
+Région de Bruxelles Capitale;Diététicien;514;471;43;33;117;122;77;35;20;16;20;10;21;2;15;9;5;4;1;0;4;2;1
+Brabant flamand;Diététicien;996;915;81;107;194;200;110;70;56;41;47;42;48;10;23;17;4;9;4;4;2;2;6
+Flandre occidentale;Diététicien;896;808;88;93;178;195;80;74;31;36;34;32;55;11;23;17;8;4;6;2;3;5;9
+Flandre orientale;Diététicien;1089;987;102;137;249;174;115;72;48;52;53;37;50;8;39;31;6;6;2;2;4;3;1
+Anvers;Diététicien;1386;1276;110;149;308;280;167;89;68;52;59;49;55;12;44;26;12;6;1;1;1;1;6
+Limbourg;Diététicien;525;500;25;55;85;119;61;37;22;24;30;32;35;5;2;10;3;2;2;0;0;0;1
+Brabant Wallon;Diététicien;355;333;22;18;66;62;48;41;22;23;21;13;19;1;3;7;5;0;1;1;2;1;1
+Hainaut;Diététicien;769;711;58;58;138;144;92;94;60;42;39;23;21;8;19;6;6;3;8;1;1;2;4
+Liège;Diététicien;704;640;64;56;109;139;100;52;41;46;31;31;35;3;19;10;2;8;8;6;4;3;1
+Namur;Diététicien;256;237;19;13;47;45;44;23;17;20;9;8;11;2;5;5;2;2;1;1;1;0;0
+Luxembourg;Diététicien;160;141;19;16;38;27;23;13;9;1;8;1;5;1;5;3;3;1;1;0;0;3;2
+Région de Bruxelles Capitale;Diététicien;514;471;43;33;117;122;77;35;20;16;20;10;21;2;15;9;5;4;1;0;4;2;1
+Belgique;Audicien;2254;1856;398;187;500;428;237;201;109;56;63;34;41;21;50;49;32;30;34;20;22;42;98
+Région flamande;Audicien;1840;1626;214;160;452;396;219;184;89;37;44;18;27;11;28;29;19;17;11;8;8;16;67
+Région wallonne;Audicien;277;148;129;15;23;16;11;12;18;15;14;12;12;4;11;11;9;9;15;9;13;19;29
+Région de Bruxelles Capitale;Audicien;137;82;55;12;25;16;7;5;2;4;5;4;2;6;11;9;4;4;8;3;1;7;2
+Brabant flamand;Audicien;274;233;41;18;83;38;31;33;12;4;6;3;5;1;6;4;3;2;4;1;1;5;14
+Flandre occidentale;Audicien;423;372;51;45;99;103;47;41;11;4;13;6;3;2;10;7;3;3;4;1;3;2;16
+Flandre orientale;Audicien;536;462;74;51;126;122;50;47;24;14;12;5;11;3;9;12;10;8;2;3;2;4;21
+Anvers;Audicien;455;423;32;36;119;98;65;46;33;11;7;3;5;3;3;5;3;3;0;2;1;1;11
+Limbourg;Audicien;152;136;16;10;25;35;26;17;9;4;6;1;3;2;0;1;0;1;1;1;1;4;5
+Brabant Wallon;Audicien;63;33;30;1;5;2;3;3;5;2;7;4;1;2;2;2;4;2;1;3;0;9;5
+Hainaut;Audicien;82;45;37;7;10;6;3;3;6;4;2;3;1;1;7;1;3;1;5;2;4;4;9
+Liège;Audicien;70;37;33;2;6;5;2;4;6;4;3;2;3;0;2;4;1;3;5;2;3;2;11
+Namur;Audicien;45;24;21;4;1;3;1;1;0;3;2;3;6;1;0;4;1;1;3;2;3;4;2
+Luxembourg;Audicien;17;9;8;1;1;0;2;1;1;2;0;0;1;0;0;0;0;2;1;0;3;0;2
+Région de Bruxelles Capitale;Audicien;137;82;55;12;25;16;7;5;2;4;5;4;2;6;11;9;4;4;8;3;1;7;2
+Belgique;Technologue de laboratoire médical;13075;9967;3108;714;1486;1276;1064;968;748;798;1066;916;931;192;611;513;361;268;220;177;214;268;284
+Région flamande;Technologue de laboratoire médical;7322;5858;1464;498;930;710;530;537;439;502;664;537;511;135;337;238;124;106;80;64;85;135;160
+Région wallonne;Technologue de laboratoire médical;4822;3448;1374;169;415;477;463;367;269;253;353;332;350;45;219;231;202;124;120;95;110;119;109
+Région de Bruxelles Capitale;Technologue de laboratoire médical;931;661;270;47;141;89;71;64;40;43;49;47;70;12;55;44;35;38;20;18;19;14;15
+Brabant flamand;Technologue de laboratoire médical;1623;1232;391;80;174;135;100;121;87;113;146;143;133;27;75;52;29;24;33;20;29;49;53
+Flandre occidentale;Technologue de laboratoire médical;1215;956;259;79;150;132;90;81;63;84;104;86;87;35;62;46;30;8;10;16;17;16;19
+Flandre orientale;Technologue de laboratoire médical;1646;1364;282;134;208;149;130;121;111;120;154;105;132;26;67;36;24;26;15;11;13;23;41
+Anvers;Technologue de laboratoire médical;1907;1545;362;128;261;188;127;146;120;131;183;148;113;30;75;61;30;39;17;15;19;37;39
+Limbourg;Technologue de laboratoire médical;931;761;170;77;137;106;83;68;58;54;77;55;46;17;58;43;11;9;5;2;7;10;8
+Brabant Wallon;Technologue de laboratoire médical;538;394;144;10;29;47;53;41;26;50;45;51;42;3;12;23;28;12;12;16;13;9;16
+Hainaut;Technologue de laboratoire médical;1856;1312;544;65;179;170;187;144;104;83;135;119;126;20;92;89;92;46;44;34;45;39;43
+Liège;Technologue de laboratoire médical;1446;1041;405;52;143;155;138;107;76;63;107;87;113;16;79;75;52;40;34;20;19;41;29
+Namur;Technologue de laboratoire médical;774;536;238;25;50;78;74;65;47;43;49;50;55;5;31;38;27;23;27;19;28;24;16
+Luxembourg;Technologue de laboratoire médical;208;165;43;17;14;27;11;10;16;14;17;25;14;1;5;6;3;3;3;6;5;6;5
+Région de Bruxelles Capitale;Technologue de laboratoire médical;931;661;270;47;141;89;71;64;40;43;49;47;70;12;55;44;35;38;20;18;19;14;15
+Belgique;Technologue en imagerie médicale;2964;1772;1192;148;321;334;203;139;79;107;167;145;129;50;185;225;150;103;62;61;101;111;144
+Région flamande;Technologue en imagerie médicale;1110;734;376;65;170;160;106;70;34;38;38;32;21;19;75;73;52;37;16;11;25;31;37
+Région wallonne;Technologue en imagerie médicale;1486;843;643;68;117;122;74;56;34;59;119;102;92;24;86;111;70;53;37;43;67;66;86
+Région de Bruxelles Capitale;Technologue en imagerie médicale;368;195;173;15;34;52;23;13;11;10;10;11;16;7;24;41;28;13;9;7;9;14;21
+Brabant flamand;Technologue en imagerie médicale;359;201;158;13;40;43;39;19;9;10;14;9;5;4;30;25;17;14;6;4;11;21;26
+Flandre occidentale;Technologue en imagerie médicale;152;109;43;16;26;22;18;7;4;4;4;7;1;4;10;8;9;3;0;2;3;1;3
+Flandre orientale;Technologue en imagerie médicale;251;169;82;15;48;33;20;21;7;12;7;3;3;2;20;14;16;11;7;2;6;3;1
+Anvers;Technologue en imagerie médicale;225;165;60;18;38;30;21;11;9;9;11;9;9;4;9;17;8;3;2;2;4;6;5
+Limbourg;Technologue en imagerie médicale;123;90;33;3;18;32;8;12;5;3;2;4;3;5;6;9;2;6;1;1;1;0;2
+Brabant Wallon;Technologue en imagerie médicale;176;97;79;4;11;16;5;12;3;8;15;14;9;1;8;12;10;8;6;6;9;8;11
+Hainaut;Technologue en imagerie médicale;515;246;269;23;40;37;22;21;7;16;30;25;25;14;46;57;28;18;8;15;19;24;40
+Liège;Technologue en imagerie médicale;466;321;145;33;44;45;24;11;15;26;46;42;35;8;22;24;14;10;9;10;13;17;18
+Namur;Technologue en imagerie médicale;262;148;114;8;17;17;19;10;7;9;25;18;18;0;7;13;16;14;12;7;21;14;10
+Luxembourg;Technologue en imagerie médicale;67;31;36;0;5;7;4;2;2;0;3;3;5;1;3;5;2;3;2;5;5;3;7
+Région de Bruxelles Capitale;Technologue en imagerie médicale;368;195;173;15;34;52;23;13;11;10;10;11;16;7;24;41;28;13;9;7;9;14;21
+Belgique;Ambulancier de transport non urgent de patients;3332;1089;2243;77;142;181;140;138;136;93;81;66;35;119;308;306;274;234;237;250;229;144;142
+Région flamande;Ambulancier de transport non urgent de patients;2210;686;1524;34;68;94;72;95;94;69;70;58;32;51;190;184;157;166;167;182;182;115;130
+Région wallonne;Ambulancier de transport non urgent de patients;991;382;609;39;70;84;62;41;42;22;11;8;3;57;100;103;95;55;63;63;38;27;8
+Région de Bruxelles Capitale;Ambulancier de transport non urgent de patients;131;21;110;4;4;3;6;2;0;2;0;0;0;11;18;19;22;13;7;5;9;2;4
+Brabant flamand;Ambulancier de transport non urgent de patients;323;105;218;2;6;12;11;22;17;12;9;11;3;5;25;20;17;30;35;25;27;16;18
+Flandre occidentale;Ambulancier de transport non urgent de patients;494;139;355;3;19;17;15;18;18;10;18;15;6;6;41;49;34;33;38;50;50;25;29
+Flandre orientale;Ambulancier de transport non urgent de patients;449;141;308;5;12;24;16;20;19;15;14;8;8;11;41;40;38;39;28;37;38;16;20
+Anvers;Ambulancier de transport non urgent de patients;635;199;436;17;20;31;22;24;24;20;18;14;9;21;57;55;48;45;33;48;44;40;45
+Limbourg;Ambulancier de transport non urgent de patients;309;102;207;7;11;10;8;11;16;12;11;10;6;8;26;20;20;19;33;22;23;18;18
+Brabant Wallon;Ambulancier de transport non urgent de patients;114;41;73;5;8;10;5;6;5;1;0;1;0;8;14;13;8;6;5;7;5;5;2
+Hainaut;Ambulancier de transport non urgent de patients;363;125;238;5;16;32;28;14;14;10;5;1;0;16;34;37;50;28;28;21;14;8;2
+Liège;Ambulancier de transport non urgent de patients;322;128;194;17;32;27;13;9;15;4;4;5;2;22;36;35;21;11;20;28;10;9;2
+Namur;Ambulancier de transport non urgent de patients;131;58;73;9;11;10;7;10;1;6;2;1;1;8;12;10;12;9;7;5;8;2;0
+Luxembourg;Ambulancier de transport non urgent de patients;61;30;31;3;3;5;9;2;7;1;0;0;0;3;4;8;4;1;3;2;1;3;2
+Région de Bruxelles Capitale;Ambulancier de transport non urgent de patients;131;21;110;4;4;3;6;2;0;2;0;0;0;11;18;19;22;13;7;5;9;2;4
+Belgique;Hygiéniste bucco-dentaire;286;261;25;105;100;24;12;11;7;1;1;0;0;10;6;6;0;1;1;1;0;0;0
+Région flamande;Hygiéniste bucco-dentaire;230;215;15;85;90;19;5;8;7;0;1;0;0;5;4;5;0;0;1;0;0;0;0
+Région wallonne;Hygiéniste bucco-dentaire;39;32;7;18;6;3;3;1;0;1;0;0;0;4;1;0;0;1;0;1;0;0;0
+Région de Bruxelles Capitale;Hygiéniste bucco-dentaire;17;14;3;2;4;2;4;2;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0
+Brabant flamand;Hygiéniste bucco-dentaire;42;38;4;11;17;4;2;1;3;0;0;0;0;2;0;1;0;0;1;0;0;0;0
+Flandre occidentale;Hygiéniste bucco-dentaire;39;37;2;20;13;1;1;1;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0
+Flandre orientale;Hygiéniste bucco-dentaire;58;57;1;24;24;6;1;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Anvers;Hygiéniste bucco-dentaire;61;55;6;15;26;6;0;4;3;0;1;0;0;1;3;2;0;0;0;0;0;0;0
+Limbourg;Hygiéniste bucco-dentaire;30;28;2;15;10;2;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Hygiéniste bucco-dentaire;3;3;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Hygiéniste bucco-dentaire;6;5;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+Liège;Hygiéniste bucco-dentaire;23;17;6;9;5;1;2;0;0;0;0;0;0;4;1;0;0;1;0;0;0;0;0
+Namur;Hygiéniste bucco-dentaire;4;4;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Hygiéniste bucco-dentaire;3;3;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Hygiéniste bucco-dentaire;17;14;3;2;4;2;4;2;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0

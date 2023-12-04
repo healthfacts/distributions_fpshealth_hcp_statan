@@ -1,0 +1,261 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_30-34;femme_35-39;femme_40-44;femme_45-49;femme_50-54;femme_55-59;femme_60-64;femme_65plus;homme_30-34;homme_35-39;homme_40-44;homme_45-49;homme_50-54;homme_55-59;homme_60-64;homme_65plus
+Belgique;Toutes les spécialités;5075;2111;2964;181;329;339;349;318;193;148;254;156;205;228;302;304;374;378;1017
+Belgique;Nucléaire in vitro;191;77;114;0;0;0;2;8;16;28;23;0;2;0;1;3;13;23;72
+Belgique;Réadaptation fonctionnelle et professionnelle des handicapés;988;399;589;13;22;36;65;81;38;35;109;11;21;28;33;41;55;53;347
+Belgique;Gériatrie;136;49;87;0;0;9;8;13;6;7;6;0;0;1;5;4;5;10;62
+Belgique;Chirurgie orale et maxillo-faciale;238;63;175;8;14;14;10;8;2;4;3;15;24;24;22;16;23;17;34
+Belgique;Soins intensifs;1095;378;717;48;88;61;66;55;36;11;13;74;83;79;76;83;96;102;124
+Belgique;Neurologie pédiatrique;117;90;27;14;13;17;14;8;4;3;17;1;2;1;2;3;2;3;13
+Belgique;Néphrologie;398;176;222;25;35;42;24;22;10;5;13;14;19;27;21;21;25;25;70
+Belgique;Médecine d'urgence;506;150;356;9;17;22;29;24;23;7;19;8;18;24;50;56;55;50;95
+Belgique;Endocrino-diabétologie;398;234;164;25;48;36;40;32;19;13;21;8;7;8;23;17;14;15;72
+Belgique;Néonatologie;157;112;45;8;18;22;15;22;14;6;7;1;6;4;7;7;6;6;8
+Belgique;Oncologie;362;151;211;14;38;35;38;12;5;7;2;10;13;13;31;28;36;35;45
+Belgique;Hématologie et oncologie pédiatrique;49;36;13;2;4;7;6;3;3;6;5;1;0;3;1;3;3;0;2
+Belgique;Hématologie clinique;194;103;91;14;26;20;17;9;8;5;4;13;6;5;16;5;19;7;20
+Belgique;Gestion des données de santé;102;29;73;0;0;0;1;4;4;8;12;0;0;1;0;2;11;20;39
+Belgique;Psychiatrie médico-légale;42;14;28;0;2;5;1;3;3;0;0;0;0;1;4;5;4;4;10
+Belgique;Infectiologie clinique;37;16;21;1;2;4;4;4;0;1;0;0;2;4;5;3;2;3;2
+Belgique;Microbiologie médicale;65;34;31;0;2;9;9;10;2;2;0;0;2;5;5;7;5;5;2
+Région flamande;Toutes les spécialités;3128;1320;1808;117;229;238;223;219;119;78;97;114;150;158;192;197;222;219;556
+Région flamande;Nucléaire in vitro;100;34;66;0;0;0;2;6;10;10;6;0;1;0;1;3;8;13;40
+Région flamande;Réadaptation fonctionnelle et professionnelle des handicapés;628;261;367;12;19;31;49;60;27;17;46;11;20;23;22;27;36;27;201
+Région flamande;Gériatrie;92;34;58;0;0;9;5;10;3;4;3;0;0;1;4;2;3;8;40
+Région flamande;Chirurgie orale et maxillo-faciale;173;39;134;4;12;11;3;6;0;1;2;11;18;22;19;10;16;14;24
+Région flamande;Soins intensifs;730;282;448;37;59;50;52;47;24;8;5;55;59;55;51;54;53;57;64
+Région flamande;Neurologie pédiatrique;64;48;16;7;9;8;7;6;3;2;6;0;1;0;2;3;1;2;7
+Région flamande;Néphrologie;214;99;115;15;23;23;13;14;3;4;4;4;13;15;14;10;14;11;34
+Région flamande;Médecine d'urgence;291;88;203;8;17;14;19;15;8;1;6;6;14;18;30;35;31;27;42
+Région flamande;Endocrino-diabétologie;202;126;76;12;33;21;14;16;13;9;8;6;5;3;11;8;6;6;31
+Région flamande;Néonatologie;83;57;26;5;10;11;5;10;10;4;2;0;4;2;2;5;4;5;4
+Région flamande;Oncologie;260;114;146;8;29;27;28;10;5;6;1;9;10;8;19;20;25;25;30
+Région flamande;Hématologie et oncologie pédiatrique;28;21;7;0;2;4;5;1;3;4;2;1;0;1;0;2;2;0;1
+Région flamande;Hématologie clinique;107;57;50;8;12;13;11;5;4;2;2;11;3;2;6;4;8;6;10
+Région flamande;Gestion des données de santé;45;9;36;0;0;0;0;1;1;3;4;0;0;1;0;2;7;7;19
+Région flamande;Psychiatrie médico-légale;31;13;18;0;1;5;1;3;3;0;0;0;0;0;3;3;2;3;7
+Région flamande;Infectiologie clinique;33;14;19;1;2;4;3;3;0;1;0;0;1;4;4;3;2;3;2
+Région flamande;Microbiologie médicale;47;24;23;0;1;7;6;6;2;2;0;0;1;3;4;6;4;5;0
+Région wallonne;Toutes les spécialités;1401;541;860;44;68;63;94;71;52;46;103;27;36;47;82;76;120;126;346
+Région wallonne;Nucléaire in vitro;64;29;35;0;0;0;0;2;5;11;11;0;1;0;0;0;3;7;24
+Région wallonne;Réadaptation fonctionnelle et professionnelle des handicapés;264;99;165;0;2;2;14;16;8;13;44;0;1;4;9;6;18;19;108
+Région wallonne;Gériatrie;35;12;23;0;0;0;3;2;3;2;2;0;0;0;0;2;2;1;18
+Région wallonne;Chirurgie orale et maxillo-faciale;37;11;26;1;2;2;6;0;0;0;0;2;3;1;2;5;6;2;5
+Région wallonne;Soins intensifs;267;62;205;4;21;5;11;5;10;3;3;14;17;15;16;27;33;36;47
+Région wallonne;Neurologie pédiatrique;40;31;9;5;4;5;7;2;0;1;7;1;0;1;0;0;1;1;5
+Région wallonne;Néphrologie;127;52;75;8;8;10;7;7;5;1;6;6;3;6;6;7;8;10;29
+Région wallonne;Médecine d'urgence;174;47;127;1;0;7;8;9;10;4;8;1;4;6;15;15;22;21;43
+Région wallonne;Endocrino-diabétologie;137;78;59;11;9;11;17;16;3;4;7;1;2;3;9;5;6;8;25
+Région wallonne;Néonatologie;44;32;12;3;5;6;4;7;2;1;4;0;1;2;4;1;1;1;2
+Région wallonne;Oncologie;78;27;51;4;7;6;8;0;0;1;1;1;3;3;10;7;8;7;12
+Région wallonne;Hématologie et oncologie pédiatrique;14;10;4;2;1;2;1;1;0;1;2;0;0;1;1;1;1;0;0
+Région wallonne;Hématologie clinique;57;30;27;5;8;5;5;2;3;1;1;1;1;2;8;0;7;1;7
+Région wallonne;Gestion des données de santé;46;14;32;0;0;0;1;0;3;3;7;0;0;0;0;0;3;11;18
+Région wallonne;Psychiatrie médico-légale;6;1;5;0;1;0;0;0;0;0;0;0;0;1;0;0;1;1;2
+Région wallonne;Infectiologie clinique;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+Région wallonne;Microbiologie médicale;10;6;4;0;0;2;2;2;0;0;0;0;0;2;1;0;0;0;1
+Région de Bruxelles Capitale;Toutes les spécialités;546;250;296;20;32;38;32;28;22;24;54;15;19;23;28;31;32;33;115
+Région de Bruxelles Capitale;Nucléaire in vitro;27;14;13;0;0;0;0;0;1;7;6;0;0;0;0;0;2;3;8
+Région de Bruxelles Capitale;Réadaptation fonctionnelle et professionnelle des handicapés;96;39;57;1;1;3;2;5;3;5;19;0;0;1;2;8;1;7;38
+Région de Bruxelles Capitale;Gériatrie;9;3;6;0;0;0;0;1;0;1;1;0;0;0;1;0;0;1;4
+Région de Bruxelles Capitale;Chirurgie orale et maxillo-faciale;28;13;15;3;0;1;1;2;2;3;1;2;3;1;1;1;1;1;5
+Région de Bruxelles Capitale;Soins intensifs;98;34;64;7;8;6;3;3;2;0;5;5;7;9;9;2;10;9;13
+Région de Bruxelles Capitale;Neurologie pédiatrique;13;11;2;2;0;4;0;0;1;0;4;0;1;0;0;0;0;0;1
+Région de Bruxelles Capitale;Néphrologie;57;25;32;2;4;9;4;1;2;0;3;4;3;6;1;4;3;4;7
+Région de Bruxelles Capitale;Médecine d'urgence;41;15;26;0;0;1;2;0;5;2;5;1;0;0;5;6;2;2;10
+Région de Bruxelles Capitale;Endocrino-diabétologie;59;30;29;2;6;4;9;0;3;0;6;1;0;2;3;4;2;1;16
+Région de Bruxelles Capitale;Néonatologie;30;23;7;0;3;5;6;5;2;1;1;1;1;0;1;1;1;0;2
+Région de Bruxelles Capitale;Oncologie;24;10;14;2;2;2;2;2;0;0;0;0;0;2;2;1;3;3;3
+Région de Bruxelles Capitale;Hématologie et oncologie pédiatrique;7;5;2;0;1;1;0;1;0;1;1;0;0;1;0;0;0;0;1
+Région de Bruxelles Capitale;Hématologie clinique;30;16;14;1;6;2;1;2;1;2;1;1;2;1;2;1;4;0;3
+Région de Bruxelles Capitale;Gestion des données de santé;11;6;5;0;0;0;0;3;0;2;1;0;0;0;0;0;1;2;2
+Région de Bruxelles Capitale;Psychiatrie médico-légale;5;0;5;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1
+Région de Bruxelles Capitale;Infectiologie clinique;3;2;1;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Microbiologie médicale;8;4;4;0;1;0;1;2;0;0;0;0;1;0;0;1;1;0;1
+Brabant flamand;Toutes les spécialités;783;359;424;21;66;68;65;54;20;28;37;29;35;41;40;46;48;48;137
+Brabant flamand;Nucléaire in vitro;34;12;22;0;0;0;0;4;0;4;4;0;1;0;1;0;2;2;16
+Brabant flamand;Réadaptation fonctionnelle et professionnelle des handicapés;167;74;93;5;8;9;15;13;5;5;14;1;4;5;3;6;8;5;61
+Brabant flamand;Gériatrie;20;13;7;0;0;3;2;4;1;2;1;0;0;0;1;1;0;2;3
+Brabant flamand;Chirurgie orale et maxillo-faciale;34;13;21;0;5;4;2;0;0;0;2;3;4;4;4;0;1;3;2
+Brabant flamand;Soins intensifs;174;60;114;5;12;12;15;9;3;2;2;18;16;17;9;13;16;12;13
+Brabant flamand;Neurologie pédiatrique;20;14;6;3;1;4;1;2;0;1;2;0;0;0;0;3;0;2;1
+Brabant flamand;Néphrologie;50;26;24;2;12;5;2;4;0;0;1;2;1;6;5;1;1;2;6
+Brabant flamand;Médecine d'urgence;64;23;41;0;4;7;5;3;1;0;3;0;2;3;5;9;5;4;13
+Brabant flamand;Endocrino-diabétologie;58;40;18;2;7;8;5;6;3;5;4;1;1;1;5;2;1;1;6
+Brabant flamand;Néonatologie;27;18;9;0;3;5;1;3;4;2;0;0;2;0;0;1;3;0;3
+Brabant flamand;Oncologie;50;22;28;1;7;5;5;3;0;1;0;1;4;3;3;4;2;5;6
+Brabant flamand;Hématologie et oncologie pédiatrique;13;11;2;0;2;2;4;0;0;3;0;0;0;0;0;1;1;0;0
+Brabant flamand;Hématologie clinique;34;18;16;3;4;3;4;1;1;0;2;3;0;1;2;2;3;1;4
+Brabant flamand;Gestion des données de santé;12;6;6;0;0;0;0;1;1;2;2;0;0;0;0;1;2;1;2
+Brabant flamand;Psychiatrie médico-légale;6;3;3;0;1;0;1;0;1;0;0;0;0;0;0;0;0;2;1
+Brabant flamand;Infectiologie clinique;11;4;7;0;0;0;2;1;0;1;0;0;0;1;1;1;2;2;0
+Brabant flamand;Microbiologie médicale;9;2;7;0;0;1;1;0;0;0;0;0;0;0;1;1;1;4;0
+Flandre occidentale;Toutes les spécialités;555;188;367;20;32;37;25;32;21;5;16;17;17;24;36;41;50;45;137
+Flandre occidentale;Nucléaire in vitro;10;2;8;0;0;0;0;0;0;1;1;0;0;0;0;1;0;2;5
+Flandre occidentale;Réadaptation fonctionnelle et professionnelle des handicapés;131;47;84;1;4;4;4;14;9;1;10;0;3;3;2;7;9;7;53
+Flandre occidentale;Gériatrie;30;11;19;0;0;4;2;3;1;0;1;0;0;0;1;0;1;2;15
+Flandre occidentale;Chirurgie orale et maxillo-faciale;32;3;29;0;1;1;0;1;0;0;0;2;1;4;5;3;8;3;3
+Flandre occidentale;Soins intensifs;128;48;80;9;11;12;7;4;4;1;0;9;5;9;10;11;10;14;12
+Flandre occidentale;Neurologie pédiatrique;7;4;3;1;2;0;1;0;0;0;0;0;0;0;0;0;1;0;2
+Flandre occidentale;Néphrologie;37;13;24;0;1;5;3;2;2;0;0;1;2;1;2;4;1;2;11
+Flandre occidentale;Médecine d'urgence;62;21;41;5;3;2;2;5;2;0;2;2;2;5;5;6;8;4;9
+Flandre occidentale;Endocrino-diabétologie;24;12;12;1;4;1;3;1;1;0;1;0;0;0;1;2;1;1;7
+Flandre occidentale;Néonatologie;13;7;6;1;3;1;1;1;0;0;0;0;1;0;1;2;0;2;0
+Flandre occidentale;Oncologie;53;14;39;2;1;7;2;0;1;1;0;2;3;1;5;2;7;5;14
+Flandre occidentale;Hématologie et oncologie pédiatrique;2;1;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0
+Flandre occidentale;Hématologie clinique;11;3;8;0;2;0;0;0;0;1;0;1;0;0;2;0;2;2;1
+Flandre occidentale;Gestion des données de santé;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3
+Flandre occidentale;Psychiatrie médico-légale;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+Flandre occidentale;Infectiologie clinique;3;0;3;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1
+Flandre occidentale;Microbiologie médicale;6;2;4;0;0;0;0;1;1;0;0;0;0;0;1;2;0;1;0
+Flandre orientale;Toutes les spécialités;705;313;392;36;50;59;57;47;31;13;20;30;39;31;44;48;48;51;101
+Flandre orientale;Nucléaire in vitro;31;9;22;0;0;0;1;0;4;3;1;0;0;0;0;2;4;5;11
+Flandre orientale;Réadaptation fonctionnelle et professionnelle des handicapés;129;60;69;1;3;9;16;11;7;2;11;3;4;6;6;7;10;6;27
+Flandre orientale;Gériatrie;13;4;9;0;0;1;0;1;1;0;1;0;0;0;0;1;1;0;7
+Flandre orientale;Chirurgie orale et maxillo-faciale;41;12;29;0;4;3;1;3;0;1;0;2;5;3;4;2;2;4;7
+Flandre orientale;Soins intensifs;160;61;99;8;17;9;8;13;5;0;1;14;18;7;13;10;12;11;14
+Flandre orientale;Neurologie pédiatrique;15;10;5;3;0;1;1;2;1;1;1;0;1;0;2;0;0;0;2
+Flandre orientale;Néphrologie;58;29;29;8;4;7;3;2;1;3;1;0;4;5;2;3;5;2;8
+Flandre orientale;Médecine d'urgence;54;12;42;2;2;2;4;1;1;0;0;0;3;6;8;8;4;8;5
+Flandre orientale;Endocrino-diabétologie;51;31;20;6;11;4;2;4;3;1;0;4;1;1;1;2;1;3;7
+Flandre orientale;Néonatologie;10;9;1;1;0;2;1;2;2;0;1;0;0;0;0;1;0;0;0
+Flandre orientale;Oncologie;64;32;32;3;6;7;13;2;0;0;1;3;2;2;4;7;6;5;3
+Flandre orientale;Hématologie et oncologie pédiatrique;8;7;1;0;0;2;0;1;3;0;1;0;0;0;0;0;0;0;1
+Flandre orientale;Hématologie clinique;24;16;8;3;3;4;3;1;1;1;0;4;1;0;0;0;0;2;1
+Flandre orientale;Gestion des données de santé;14;1;13;0;0;0;0;0;0;0;1;0;0;0;0;1;3;4;5
+Flandre orientale;Psychiatrie médico-légale;10;5;5;0;0;2;0;1;2;0;0;0;0;0;1;1;0;1;2
+Flandre orientale;Infectiologie clinique;8;4;4;1;0;1;1;1;0;0;0;0;0;1;2;0;0;0;1
+Flandre orientale;Microbiologie médicale;15;11;4;0;0;5;3;2;0;1;0;0;0;0;1;3;0;0;0
+Anvers;Toutes les spécialités;769;342;427;32;55;54;59;62;34;25;21;27;41;37;43;43;57;52;127
+Anvers;Nucléaire in vitro;18;8;10;0;0;0;1;1;4;2;0;0;0;0;0;0;2;3;5
+Anvers;Réadaptation fonctionnelle et professionnelle des handicapés;141;64;77;4;3;7;11;16;6;8;9;3;7;5;5;7;7;4;39
+Anvers;Gériatrie;25;5;20;0;0;0;1;2;0;2;0;0;0;0;2;0;1;4;13
+Anvers;Chirurgie orale et maxillo-faciale;45;9;36;4;2;1;0;2;0;0;0;2;7;7;2;3;4;2;9
+Anvers;Soins intensifs;181;77;104;12;11;12;15;14;8;3;2;10;13;13;15;13;11;12;17
+Anvers;Neurologie pédiatrique;16;14;2;0;3;1;4;2;2;0;2;0;0;0;0;0;0;0;2
+Anvers;Néphrologie;52;27;25;4;5;6;5;4;0;1;2;1;3;2;3;2;3;3;8
+Anvers;Médecine d'urgence;72;19;53;0;5;3;5;3;1;1;1;3;3;3;6;9;11;9;9
+Anvers;Endocrino-diabétologie;53;34;19;2;9;7;3;3;5;2;3;1;3;0;2;1;3;1;8
+Anvers;Néonatologie;30;20;10;2;4;3;2;3;3;2;1;0;1;2;1;1;1;3;1
+Anvers;Oncologie;66;34;32;2;8;7;6;5;4;2;0;3;0;1;4;2;8;8;6
+Anvers;Hématologie et oncologie pédiatrique;4;1;3;0;0;0;1;0;0;0;0;1;0;0;0;1;1;0;0
+Anvers;Hématologie clinique;30;14;16;2;3;3;3;3;0;0;0;3;2;1;1;2;2;1;4
+Anvers;Gestion des données de santé;10;2;8;0;0;0;0;0;0;1;1;0;0;1;0;0;1;1;5
+Anvers;Psychiatrie médico-légale;8;3;5;0;0;2;0;1;0;0;0;0;0;0;2;1;1;0;1
+Anvers;Infectiologie clinique;8;4;4;0;1;2;0;1;0;0;0;0;1;1;0;1;0;1;0
+Anvers;Microbiologie médicale;10;7;3;0;1;0;2;2;1;1;0;0;1;1;0;0;1;0;0
+Limbourg;Toutes les spécialités;316;118;198;8;26;20;17;24;13;7;3;11;18;25;29;19;19;23;54
+Limbourg;Nucléaire in vitro;7;3;4;0;0;0;0;1;2;0;0;0;0;0;0;0;0;1;3
+Limbourg;Réadaptation fonctionnelle et professionnelle des handicapés;60;16;44;1;1;2;3;6;0;1;2;4;2;4;6;0;2;5;21
+Limbourg;Gériatrie;4;1;3;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;2
+Limbourg;Chirurgie orale et maxillo-faciale;21;2;19;0;0;2;0;0;0;0;0;2;1;4;4;2;1;2;3
+Limbourg;Soins intensifs;87;36;51;3;8;5;7;7;4;2;0;4;7;9;4;7;4;8;8
+Limbourg;Neurologie pédiatrique;6;6;0;0;3;2;0;0;0;0;1;0;0;0;0;0;0;0;0
+Limbourg;Néphrologie;17;4;13;1;1;0;0;2;0;0;0;0;3;1;2;0;4;2;1
+Limbourg;Médecine d'urgence;39;13;26;1;3;0;3;3;3;0;0;1;4;1;6;3;3;2;6
+Limbourg;Endocrino-diabétologie;16;9;7;1;2;1;1;2;1;1;0;0;0;1;2;1;0;0;3
+Limbourg;Néonatologie;3;3;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+Limbourg;Oncologie;27;12;15;0;7;1;2;0;0;2;0;0;1;1;3;5;2;2;1
+Limbourg;Hématologie et oncologie pédiatrique;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Limbourg;Hématologie clinique;8;6;2;0;0;3;1;0;2;0;0;0;0;0;1;0;1;0;0
+Limbourg;Gestion des données de santé;5;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4
+Limbourg;Psychiatrie médico-légale;5;2;3;0;0;1;0;1;0;0;0;0;0;0;0;1;0;0;2
+Limbourg;Infectiologie clinique;3;2;1;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0
+Limbourg;Microbiologie médicale;7;2;5;0;0;1;0;1;0;0;0;0;0;2;1;0;2;0;0
+Brabant Wallon;Toutes les spécialités;310;117;193;4;15;11;18;16;13;13;27;5;8;9;15;16;25;31;84
+Brabant Wallon;Nucléaire in vitro;18;10;8;0;0;0;0;0;2;4;4;0;0;0;0;0;0;0;8
+Brabant Wallon;Réadaptation fonctionnelle et professionnelle des handicapés;70;23;47;0;0;0;3;5;1;3;11;0;0;0;3;1;4;6;33
+Brabant Wallon;Gériatrie;9;4;5;0;0;0;1;1;1;0;1;0;0;0;0;1;1;0;3
+Brabant Wallon;Chirurgie orale et maxillo-faciale;10;2;8;0;1;0;1;0;0;0;0;1;1;1;0;2;1;1;1
+Brabant Wallon;Soins intensifs;63;17;46;0;9;0;3;0;2;2;1;2;6;4;3;5;8;11;7
+Brabant Wallon;Neurologie pédiatrique;10;10;0;1;2;1;2;1;0;1;2;0;0;0;0;0;0;0;0
+Brabant Wallon;Néphrologie;36;15;21;1;2;1;2;3;3;1;2;2;1;2;0;2;3;2;9
+Brabant Wallon;Médecine d'urgence;29;8;21;0;0;1;0;3;2;0;2;0;0;0;4;2;3;3;9
+Brabant Wallon;Endocrino-diabétologie;20;5;15;0;0;0;3;1;0;1;0;0;0;0;2;2;2;2;7
+Brabant Wallon;Néonatologie;9;7;2;0;0;2;1;2;0;0;2;0;0;1;0;0;0;1;0
+Brabant Wallon;Oncologie;13;4;9;1;1;1;1;0;0;0;0;0;0;1;1;1;1;4;1
+Brabant Wallon;Hématologie et oncologie pédiatrique;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Hématologie clinique;10;6;4;1;0;2;1;0;2;0;0;0;0;0;1;0;2;0;1
+Brabant Wallon;Gestion des données de santé;7;3;4;0;0;0;0;0;0;1;2;0;0;0;0;0;0;1;3
+Brabant Wallon;Psychiatrie médico-légale;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+Brabant Wallon;Microbiologie médicale;4;2;2;0;0;2;0;0;0;0;0;0;0;0;1;0;0;0;1
+Hainaut;Toutes les spécialités;329;108;221;6;13;11;29;13;5;10;21;7;5;9;13;18;38;41;90
+Hainaut;Nucléaire in vitro;16;3;13;0;0;0;0;0;0;3;0;0;0;0;0;0;1;5;7
+Hainaut;Réadaptation fonctionnelle et professionnelle des handicapés;52;16;36;0;0;1;3;2;1;2;7;0;0;1;1;4;4;4;22
+Hainaut;Gériatrie;13;4;9;0;0;0;1;0;1;1;1;0;0;0;0;1;0;1;7
+Hainaut;Chirurgie orale et maxillo-faciale;10;5;5;0;1;0;4;0;0;0;0;0;0;0;0;0;3;1;1
+Hainaut;Soins intensifs;61;10;51;0;1;1;4;1;1;1;1;4;1;0;3;6;13;10;14
+Hainaut;Neurologie pédiatrique;8;6;2;1;1;1;1;0;0;0;2;0;0;0;0;0;1;0;1
+Hainaut;Néphrologie;28;8;20;1;2;2;2;1;0;0;0;2;1;2;0;0;4;2;9
+Hainaut;Médecine d'urgence;39;7;32;0;0;0;2;2;0;0;3;0;0;2;3;2;7;7;11
+Hainaut;Endocrino-diabétologie;36;22;14;2;4;3;5;4;1;1;2;1;1;1;2;1;0;3;5
+Hainaut;Néonatologie;11;10;1;0;2;0;2;3;1;0;2;0;1;0;0;0;0;0;0
+Hainaut;Oncologie;26;7;19;1;1;1;2;0;0;1;1;0;0;0;4;4;2;2;7
+Hainaut;Hématologie clinique;12;7;5;1;1;2;2;0;0;1;0;0;1;1;0;0;2;0;1
+Hainaut;Gestion des données de santé;14;3;11;0;0;0;1;0;0;0;2;0;0;0;0;0;1;5;5
+Hainaut;Psychiatrie médico-légale;2;0;2;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+Hainaut;Microbiologie médicale;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+Liège;Toutes les spécialités;498;214;284;26;28;28;27;29;23;12;41;11;11;20;32;30;35;38;107
+Liège;Nucléaire in vitro;19;11;8;0;0;0;0;2;3;1;5;0;1;0;0;0;2;1;4
+Liège;Réadaptation fonctionnelle et professionnelle des handicapés;108;45;63;0;1;1;3;9;5;4;22;0;1;3;5;1;5;8;40
+Liège;Gériatrie;8;3;5;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;5
+Liège;Chirurgie orale et maxillo-faciale;5;2;3;1;0;1;0;0;0;0;0;0;0;0;1;0;1;0;1
+Liège;Soins intensifs;91;24;67;2;8;4;4;2;3;0;1;6;5;8;9;9;6;9;15
+Liège;Neurologie pédiatrique;14;9;5;2;1;3;3;0;0;0;0;1;0;0;0;0;0;1;3
+Liège;Néphrologie;39;16;23;3;2;4;2;2;0;0;3;2;1;2;2;3;0;6;7
+Liège;Médecine d'urgence;68;20;48;1;0;2;3;3;7;2;2;1;2;2;5;11;11;6;10
+Liège;Endocrino-diabétologie;57;37;20;9;3;6;5;7;2;1;4;0;1;1;2;2;2;3;9
+Liège;Néonatologie;18;11;7;3;2;3;0;1;1;1;0;0;0;1;3;1;0;0;2
+Liège;Oncologie;23;11;12;2;3;2;4;0;0;0;0;0;0;1;1;2;4;1;3
+Liège;Hématologie et oncologie pédiatrique;12;8;4;1;1;1;1;1;0;1;2;0;0;1;1;1;1;0;0
+Liège;Hématologie clinique;21;11;10;2;6;1;1;1;0;0;0;1;0;1;3;0;2;1;2
+Liège;Gestion des données de santé;12;5;7;0;0;0;0;0;1;2;2;0;0;0;0;0;0;2;5
+Liège;Psychiatrie médico-légale;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+Namur;Toutes les spécialités;200;77;123;5;9;11;15;11;7;9;10;2;10;9;14;11;19;11;47
+Namur;Nucléaire in vitro;8;3;5;0;0;0;0;0;0;2;1;0;0;0;0;0;0;1;4
+Namur;Réadaptation fonctionnelle et professionnelle des handicapés;28;13;15;0;1;0;5;0;0;4;3;0;0;0;0;0;5;1;9
+Namur;Gériatrie;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2
+Namur;Chirurgie orale et maxillo-faciale;10;1;9;0;0;0;1;0;0;0;0;1;2;0;1;3;1;0;1
+Namur;Soins intensifs;40;7;33;0;2;0;0;2;3;0;0;1;4;3;1;6;6;5;7
+Namur;Neurologie pédiatrique;7;5;2;1;0;0;1;1;0;0;2;0;0;1;0;0;0;0;1
+Namur;Néphrologie;18;9;9;2;1;3;1;0;1;0;1;0;0;0;3;2;1;0;3
+Namur;Médecine d'urgence;29;10;19;0;0;4;2;0;1;2;1;0;2;2;3;0;1;3;8
+Namur;Endocrino-diabétologie;16;9;7;0;2;1;1;4;0;1;0;0;0;1;1;0;2;0;3
+Namur;Néonatologie;4;3;1;0;1;1;0;1;0;0;0;0;0;0;1;0;0;0;0
+Namur;Oncologie;11;4;7;0;1;2;1;0;0;0;0;0;2;1;2;0;1;0;1
+Namur;Hématologie et oncologie pédiatrique;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Hématologie clinique;10;6;4;1;1;0;1;1;1;0;1;0;0;0;1;0;0;0;3
+Namur;Gestion des données de santé;9;2;7;0;0;0;0;0;1;0;1;0;0;0;0;0;1;1;5
+Namur;Infectiologie clinique;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+Namur;Microbiologie médicale;5;4;1;0;0;0;2;2;0;0;0;0;0;1;0;0;0;0;0
+Luxembourg;Toutes les spécialités;64;25;39;3;3;2;5;2;4;2;4;2;2;0;8;1;3;5;18
+Luxembourg;Nucléaire in vitro;3;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1
+Luxembourg;Réadaptation fonctionnelle et professionnelle des handicapés;6;2;4;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;4
+Luxembourg;Gériatrie;2;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+Luxembourg;Chirurgie orale et maxillo-faciale;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+Luxembourg;Soins intensifs;12;4;8;2;1;0;0;0;1;0;0;1;1;0;0;1;0;1;4
+Luxembourg;Neurologie pédiatrique;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Luxembourg;Néphrologie;6;4;2;1;1;0;0;1;1;0;0;0;0;0;1;0;0;0;1
+Luxembourg;Médecine d'urgence;9;2;7;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2;5
+Luxembourg;Endocrino-diabétologie;8;5;3;0;0;1;3;0;0;0;1;0;0;0;2;0;0;0;1
+Luxembourg;Néonatologie;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+Luxembourg;Oncologie;5;1;4;0;1;0;0;0;0;0;0;1;1;0;2;0;0;0;0
+Luxembourg;Hématologie clinique;4;0;4;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0
+Luxembourg;Gestion des données de santé;4;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2;0
+Région de Bruxelles Capitale;Toutes les spécialités;546;250;296;20;32;38;32;28;22;24;54;15;19;23;28;31;32;33;115
+Région de Bruxelles Capitale;Nucléaire in vitro;27;14;13;0;0;0;0;0;1;7;6;0;0;0;0;0;2;3;8
+Région de Bruxelles Capitale;Réadaptation fonctionnelle et professionnelle des handicapés;96;39;57;1;1;3;2;5;3;5;19;0;0;1;2;8;1;7;38
+Région de Bruxelles Capitale;Gériatrie;9;3;6;0;0;0;0;1;0;1;1;0;0;0;1;0;0;1;4
+Région de Bruxelles Capitale;Chirurgie orale et maxillo-faciale;28;13;15;3;0;1;1;2;2;3;1;2;3;1;1;1;1;1;5
+Région de Bruxelles Capitale;Soins intensifs;98;34;64;7;8;6;3;3;2;0;5;5;7;9;9;2;10;9;13
+Région de Bruxelles Capitale;Neurologie pédiatrique;13;11;2;2;0;4;0;0;1;0;4;0;1;0;0;0;0;0;1
+Région de Bruxelles Capitale;Néphrologie;57;25;32;2;4;9;4;1;2;0;3;4;3;6;1;4;3;4;7
+Région de Bruxelles Capitale;Médecine d'urgence;41;15;26;0;0;1;2;0;5;2;5;1;0;0;5;6;2;2;10
+Région de Bruxelles Capitale;Endocrino-diabétologie;59;30;29;2;6;4;9;0;3;0;6;1;0;2;3;4;2;1;16
+Région de Bruxelles Capitale;Néonatologie;30;23;7;0;3;5;6;5;2;1;1;1;1;0;1;1;1;0;2
+Région de Bruxelles Capitale;Oncologie;24;10;14;2;2;2;2;2;0;0;0;0;0;2;2;1;3;3;3
+Région de Bruxelles Capitale;Hématologie et oncologie pédiatrique;7;5;2;0;1;1;0;1;0;1;1;0;0;1;0;0;0;0;1
+Région de Bruxelles Capitale;Hématologie clinique;30;16;14;1;6;2;1;2;1;2;1;1;2;1;2;1;4;0;3
+Région de Bruxelles Capitale;Gestion des données de santé;11;6;5;0;0;0;0;3;0;2;1;0;0;0;0;0;1;2;2
+Région de Bruxelles Capitale;Psychiatrie médico-légale;5;0;5;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1
+Région de Bruxelles Capitale;Infectiologie clinique;3;2;1;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Microbiologie médicale;8;4;4;0;1;0;1;2;0;0;0;0;1;0;0;1;1;0;1

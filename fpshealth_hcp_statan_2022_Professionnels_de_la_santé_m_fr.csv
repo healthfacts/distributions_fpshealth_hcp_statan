@@ -1,0 +1,46 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_min25;femme_25-29;femme_30-34;femme_35-39;femme_40-44;femme_45-49;femme_50-54;femme_55-59;femme_60-64;femme_65plus;homme_min25;homme_25-29;homme_30-34;homme_35-39;homme_40-44;homme_45-49;homme_50-54;homme_55-59;homme_60-64;homme_65plus
+Belgique;Tous les professionnels de la santé mentale;16642;14506;2136;702;3099;2909;2321;1963;1476;845;593;386;212;19;235;279;284;269;271;198;215;191;175
+Région flamande;Tous les professionnels de la santé mentale;11333;10002;1331;604;2248;2077;1637;1302;937;513;375;213;96;17;149;173;170;176;158;115;136;131;106
+Région wallonne;Tous les professionnels de la santé mentale;3840;3278;562;77;583;590;503;514;423;236;157;120;75;0;59;61;90;61;81;62;56;42;50
+Région de Bruxelles Capitale;Tous les professionnels de la santé mentale;1469;1226;243;21;268;242;181;147;116;96;61;53;41;2;27;45;24;32;32;21;23;18;19
+Brabant flamand;Tous les professionnels de la santé mentale;2448;2176;272;121;476;392;335;267;238;142;111;64;30;4;27;29;40;34;32;23;26;32;25
+Flandre occidentale;Tous les professionnels de la santé mentale;1588;1401;187;113;318;287;219;186;132;57;53;23;13;4;15;27;15;27;19;14;23;26;17
+Flandre orientale;Tous les professionnels de la santé mentale;3203;2770;433;164;650;530;447;370;277;156;91;57;28;7;54;53;56;60;57;38;45;35;28
+Anvers;Tous les professionnels de la santé mentale;2771;2450;321;127;544;593;403;314;201;118;80;50;20;1;38;46;42;40;38;30;34;28;24
+Limbourg;Tous les professionnels de la santé mentale;1323;1205;118;79;260;275;233;165;89;40;40;19;5;1;15;18;17;15;12;10;8;10;12
+Brabant Wallon;Tous les professionnels de la santé mentale;768;672;96;7;90;119;99;101;95;70;34;37;20;0;4;12;15;11;14;12;10;7;11
+Hainaut;Tous les professionnels de la santé mentale;1005;861;144;31;179;153;112;139;108;65;30;26;18;0;16;15;21;13;24;17;11;8;19
+Liège;Tous les professionnels de la santé mentale;1303;1097;206;28;204;192;197;168;133;61;56;37;21;0;31;16;38;22;29;20;22;19;9
+Namur;Tous les professionnels de la santé mentale;558;468;90;6;74;93;68;84;55;31;30;16;11;0;6;16;13;13;8;9;11;5;9
+Luxembourg;Tous les professionnels de la santé mentale;206;180;26;5;36;33;27;22;32;9;7;4;5;0;2;2;3;2;6;4;2;3;2
+Région de Bruxelles Capitale;Tous les professionnels de la santé mentale;1469;1226;243;21;268;242;181;147;116;96;61;53;41;2;27;45;24;32;32;21;23;18;19
+Belgique;Psychologue clinicien;14641;12646;1995;555;2655;2516;2026;1735;1311;784;524;343;197;17;210;262;267;255;255;191;201;172;165
+Région flamande;Psychologue clinicien;9381;8187;1194;460;1816;1693;1345;1082;776;454;309;170;82;15;125;156;154;164;142;108;122;112;96
+Région wallonne;Psychologue clinicien;3814;3255;559;76;576;588;501;511;420;234;154;120;75;0;58;61;89;60;81;62;56;42;50
+Région de Bruxelles Capitale;Psychologue clinicien;1446;1204;242;19;263;235;180;142;115;96;61;53;40;2;27;45;24;31;32;21;23;18;19
+Brabant flamand;Psychologue clinicien;2073;1825;248;92;405;329;281;229;197;124;93;49;26;4;23;28;33;34;29;23;25;28;21
+Flandre occidentale;Psychologue clinicien;1240;1079;161;85;243;221;174;135;103;48;40;20;10;3;10;24;14;24;17;13;21;21;14
+Flandre orientale;Psychologue clinicien;2668;2281;387;114;523;425;363;324;235;142;81;49;25;6;45;46;51;56;49;37;41;30;26
+Anvers;Psychologue clinicien;2355;2060;295;104;442;510;340;261;170;108;67;40;18;1;34;44;40;36;35;27;29;26;23
+Limbourg;Psychologue clinicien;1045;942;103;65;203;208;187;133;71;32;28;12;3;1;13;14;16;14;12;8;6;7;12
+Brabant Wallon;Psychologue clinicien;759;663;96;7;89;118;99;99;93;69;32;37;20;0;4;12;15;11;14;12;10;7;11
+Hainaut;Psychologue clinicien;999;855;144;30;176;153;111;139;108;65;29;26;18;0;16;15;21;13;24;17;11;8;19
+Liège;Psychologue clinicien;1296;1093;203;28;203;192;196;167;132;61;56;37;21;0;30;16;37;21;29;20;22;19;9
+Namur;Psychologue clinicien;555;465;90;6;73;92;68;84;55;30;30;16;11;0;6;16;13;13;8;9;11;5;9
+Luxembourg;Psychologue clinicien;205;179;26;5;35;33;27;22;32;9;7;4;5;0;2;2;3;2;6;4;2;3;2
+Région de Bruxelles Capitale;Psychologue clinicien;1446;1204;242;19;263;235;180;142;115;96;61;53;40;2;27;45;24;31;32;21;23;18;19
+Belgique;Orthopédagogue clinicien;2001;1860;141;147;444;393;295;228;165;61;69;43;15;2;25;17;17;14;16;7;14;19;10
+Région flamande;Orthopédagogue clinicien;1952;1815;137;144;432;384;292;220;161;59;66;43;14;2;24;17;16;12;16;7;14;19;10
+Région wallonne;Orthopédagogue clinicien;26;23;3;1;7;2;2;3;3;2;3;0;0;0;1;0;1;1;0;0;0;0;0
+Région de Bruxelles Capitale;Orthopédagogue clinicien;23;22;1;2;5;7;1;5;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0
+Brabant flamand;Orthopédagogue clinicien;375;351;24;29;71;63;54;38;41;18;18;15;4;0;4;1;7;0;3;0;1;4;4
+Flandre occidentale;Orthopédagogue clinicien;348;322;26;28;75;66;45;51;29;9;13;3;3;1;5;3;1;3;2;1;2;5;3
+Flandre orientale;Orthopédagogue clinicien;535;489;46;50;127;105;84;46;42;14;10;8;3;1;9;7;5;4;8;1;4;5;2
+Anvers;Orthopédagogue clinicien;416;390;26;23;102;83;63;53;31;10;13;10;2;0;4;2;2;4;3;3;5;2;1
+Limbourg;Orthopédagogue clinicien;278;263;15;14;57;67;46;32;18;8;12;7;2;0;2;4;1;1;0;2;2;3;0
+Brabant Wallon;Orthopédagogue clinicien;9;9;0;0;1;1;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Orthopédagogue clinicien;6;6;0;1;3;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Liège;Orthopédagogue clinicien;7;4;3;0;1;0;1;1;1;0;0;0;0;0;1;0;1;1;0;0;0;0;0
+Namur;Orthopédagogue clinicien;3;3;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Orthopédagogue clinicien;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Orthopédagogue clinicien;23;22;1;2;5;7;1;5;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0

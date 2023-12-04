@@ -1,0 +1,56 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_min25;femme_25-29;femme_30-34;femme_35-39;femme_40-44;femme_45-49;homme_min25;homme_25-29;homme_30-34;homme_35-39;homme_40-44;homme_50-54;homme_55-59;homme_60-64
+Belgique;Toutes les spécialités;354;232;122;105;112;11;2;1;1;26;66;21;3;1;1;3;1
+Belgique;Dentisterie générale;277;179;98;90;76;9;2;1;1;20;53;16;3;1;1;3;1
+Belgique;Parodontologie;27;14;13;6;8;0;0;0;0;3;7;3;0;0;0;0;0
+Belgique;Orthodontie;50;39;11;9;28;2;0;0;0;3;6;2;0;0;0;0;0
+Région flamande;Toutes les spécialités;168;109;59;67;39;2;1;0;0;15;27;14;1;1;1;0;0
+Région flamande;Dentisterie générale;123;78;45;57;19;1;1;0;0;11;20;11;1;1;1;0;0
+Région flamande;Parodontologie;19;8;11;4;4;0;0;0;0;2;6;3;0;0;0;0;0
+Région flamande;Orthodontie;26;23;3;6;16;1;0;0;0;2;1;0;0;0;0;0;0
+Région wallonne;Toutes les spécialités;89;66;23;30;34;2;0;0;0;7;14;2;0;0;0;0;0
+Région wallonne;Dentisterie générale;71;53;18;26;25;2;0;0;0;5;12;1;0;0;0;0;0
+Région wallonne;Parodontologie;6;4;2;1;3;0;0;0;0;1;1;0;0;0;0;0;0
+Région wallonne;Orthodontie;12;9;3;3;6;0;0;0;0;1;1;1;0;0;0;0;0
+Région de Bruxelles Capitale;Toutes les spécialités;97;57;40;8;39;7;1;1;1;4;25;5;2;0;0;3;1
+Région de Bruxelles Capitale;Dentisterie générale;83;48;35;7;32;6;1;1;1;4;21;4;2;0;0;3;1
+Région de Bruxelles Capitale;Parodontologie;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Orthodontie;12;7;5;0;6;1;0;0;0;0;4;1;0;0;0;0;0
+Brabant flamand;Toutes les spécialités;43;23;20;11;11;1;0;0;0;8;9;2;0;0;1;0;0
+Brabant flamand;Dentisterie générale;26;15;11;10;4;1;0;0;0;6;4;0;0;0;1;0;0
+Brabant flamand;Parodontologie;11;3;8;0;3;0;0;0;0;1;5;2;0;0;0;0;0
+Brabant flamand;Orthodontie;6;5;1;1;4;0;0;0;0;1;0;0;0;0;0;0;0
+Flandre occidentale;Toutes les spécialités;29;22;7;16;6;0;0;0;0;2;2;3;0;0;0;0;0
+Flandre occidentale;Dentisterie générale;22;15;7;14;1;0;0;0;0;2;2;3;0;0;0;0;0
+Flandre occidentale;Parodontologie;3;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre occidentale;Orthodontie;4;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Toutes les spécialités;40;26;14;15;10;1;0;0;0;3;7;3;0;1;0;0;0
+Flandre orientale;Dentisterie générale;26;16;10;11;5;0;0;0;0;2;5;2;0;1;0;0;0
+Flandre orientale;Parodontologie;5;2;3;2;0;0;0;0;0;1;1;1;0;0;0;0;0
+Flandre orientale;Orthodontie;9;8;1;2;5;1;0;0;0;0;1;0;0;0;0;0;0
+Anvers;Toutes les spécialités;42;28;14;20;8;0;0;0;0;2;5;6;1;0;0;0;0
+Anvers;Dentisterie générale;37;24;13;18;6;0;0;0;0;1;5;6;1;0;0;0;0
+Anvers;Orthodontie;5;4;1;2;2;0;0;0;0;1;0;0;0;0;0;0;0
+Limbourg;Toutes les spécialités;14;10;4;5;4;0;1;0;0;0;4;0;0;0;0;0;0
+Limbourg;Dentisterie générale;12;8;4;4;3;0;1;0;0;0;4;0;0;0;0;0;0
+Limbourg;Orthodontie;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Toutes les spécialités;11;10;1;5;4;1;0;0;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Dentisterie générale;10;9;1;4;4;1;0;0;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Parodontologie;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Toutes les spécialités;18;11;7;5;5;1;0;0;0;3;4;0;0;0;0;0;0
+Hainaut;Dentisterie générale;14;7;7;5;1;1;0;0;0;3;4;0;0;0;0;0;0
+Hainaut;Parodontologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Orthodontie;3;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0
+Liège;Toutes les spécialités;51;37;14;16;21;0;0;0;0;3;10;1;0;0;0;0;0
+Liège;Dentisterie générale;41;32;9;14;18;0;0;0;0;1;8;0;0;0;0;0;0
+Liège;Parodontologie;3;1;2;0;1;0;0;0;0;1;1;0;0;0;0;0;0
+Liège;Orthodontie;7;4;3;2;2;0;0;0;0;1;1;1;0;0;0;0;0
+Namur;Toutes les spécialités;8;7;1;4;3;0;0;0;0;0;0;1;0;0;0;0;0
+Namur;Dentisterie générale;5;4;1;3;1;0;0;0;0;0;0;1;0;0;0;0;0
+Namur;Parodontologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Orthodontie;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Toutes les spécialités;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Dentisterie générale;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Toutes les spécialités;97;57;40;8;39;7;1;1;1;4;25;5;2;0;0;3;1
+Région de Bruxelles Capitale;Dentisterie générale;83;48;35;7;32;6;1;1;1;4;21;4;2;0;0;3;1
+Région de Bruxelles Capitale;Parodontologie;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Orthodontie;12;7;5;0;6;1;0;0;0;0;4;1;0;0;0;0;0

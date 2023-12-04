@@ -1,0 +1,60 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_min25;femme_25-29;femme_30-34;femme_35-39;femme_40-44;femme_45-49;femme_50-54;femme_55-59;femme_60-64;femme_65plus;homme_min25;homme_25-29;homme_30-34;homme_35-39;homme_40-44;homme_45-49;homme_50-54;homme_55-59;homme_60-64;homme_65plus
+Belgique;Toutes les spécialités;10459;5348;5111;23;536;650;533;315;485;486;553;678;1089;20;222;428;293;234;259;242;420;950;2043
+Belgique;Dentisterie générale;9666;4836;4830;23;514;572;476;271;432;428;472;639;1009;20;211;385;259;209;233;226;395;909;1983
+Belgique;Parodontologie;216;121;95;0;7;22;16;14;19;18;18;3;4;0;6;18;17;9;11;7;12;8;7
+Belgique;Orthodontie;577;391;186;0;15;56;41;30;34;40;63;36;76;0;5;25;17;16;15;9;13;33;53
+Région flamande;Toutes les spécialités;6057;3124;2933;16;274;352;324;178;298;311;344;403;624;10;101;201;157;108;155;114;217;565;1305
+Région flamande;Dentisterie générale;5552;2788;2764;16;261;302;280;153;263;278;288;378;569;10;95;178;137;94;143;100;206;537;1264
+Région flamande;Parodontologie;155;91;64;0;4;16;12;7;15;15;15;3;4;0;5;13;14;4;6;6;5;6;5
+Région flamande;Orthodontie;350;245;105;0;9;34;32;18;20;18;41;22;51;0;1;10;6;10;6;8;6;22;36
+Région wallonne;Toutes les spécialités;3055;1557;1498;4;172;163;150;98;138;133;137;221;341;8;67;109;63;82;68;84;141;299;577
+Région wallonne;Dentisterie générale;2851;1422;1429;4;165;149;138;80;125;112;122;209;318;8;63;100;57;76;63;82;130;288;562
+Région wallonne;Parodontologie;43;22;21;0;2;3;3;6;3;3;2;0;0;0;1;4;2;4;2;1;5;1;1
+Région wallonne;Orthodontie;161;113;48;0;5;11;9;12;10;18;13;12;23;0;3;5;4;2;3;1;6;10;14
+Région de Bruxelles Capitale;Toutes les spécialités;1347;667;680;3;90;135;59;39;49;42;72;54;124;2;54;118;73;44;36;44;62;86;161
+Région de Bruxelles Capitale;Dentisterie générale;1263;626;637;3;88;121;58;38;44;38;62;52;122;2;53;107;65;39;27;44;59;84;157
+Région de Bruxelles Capitale;Parodontologie;18;8;10;0;1;3;1;1;1;0;1;0;0;0;0;1;1;1;3;0;2;1;1
+Région de Bruxelles Capitale;Orthodontie;66;33;33;0;1;11;0;0;4;4;9;2;2;0;1;10;7;4;6;0;1;1;3
+Brabant flamand;Toutes les spécialités;1391;783;608;4;55;75;78;53;79;94;91;107;147;3;30;38;42;25;38;40;52;121;219
+Brabant flamand;Dentisterie générale;1255;693;562;4;53;66;66;46;70;82;77;101;128;3;28;34;37;22;33;35;49;113;208
+Brabant flamand;Parodontologie;42;22;20;0;1;2;4;0;4;5;3;1;2;0;2;3;4;1;2;3;2;1;2
+Brabant flamand;Orthodontie;94;68;26;0;1;7;8;7;5;7;11;5;17;0;0;1;1;2;3;2;1;7;9
+Flandre occidentale;Toutes les spécialités;1077;517;560;3;49;54;57;24;59;51;38;79;103;2;12;24;16;19;20;17;25;109;316
+Flandre occidentale;Dentisterie générale;1005;467;538;3;44;44;52;22;52;48;33;72;97;2;12;23;12;19;17;13;24;104;312
+Flandre occidentale;Parodontologie;26;19;7;0;1;4;3;0;5;2;2;1;1;0;0;1;3;0;1;0;1;1;0
+Flandre occidentale;Orthodontie;46;31;15;0;4;6;2;2;2;1;3;6;5;0;0;0;1;0;2;4;0;4;4
+Flandre orientale;Toutes les spécialités;1358;702;656;5;71;97;60;37;66;69;71;66;160;2;32;61;37;17;39;20;52;114;282
+Flandre orientale;Dentisterie générale;1234;623;611;5;68;84;49;30;59;57;60;62;149;2;29;52;31;13;37;17;47;106;277
+Flandre orientale;Parodontologie;41;23;18;0;2;4;4;2;1;7;3;0;0;0;3;4;5;1;1;2;2;0;0
+Flandre orientale;Orthodontie;83;56;27;0;1;9;7;5;6;5;8;4;11;0;0;5;1;3;1;1;3;8;5
+Anvers;Toutes les spécialités;1486;759;727;2;67;83;94;39;55;66;106;100;147;0;18;53;42;29;40;30;67;151;297
+Anvers;Dentisterie générale;1366;675;691;2;65;69;83;32;45;61;87;96;135;0;17;48;39;25;38;29;65;145;285
+Anvers;Parodontologie;34;20;14;0;0;5;1;5;3;1;4;0;1;0;0;3;2;1;2;0;0;3;3
+Anvers;Orthodontie;86;64;22;0;2;9;10;2;7;4;15;4;11;0;1;2;1;3;0;1;2;3;9
+Limbourg;Toutes les spécialités;745;363;382;2;32;43;35;25;39;31;38;51;67;3;9;25;20;18;18;7;21;70;191
+Limbourg;Dentisterie générale;692;330;362;2;31;39;30;23;37;30;31;47;60;3;9;21;18;15;18;6;21;69;182
+Limbourg;Parodontologie;12;7;5;0;0;1;0;0;2;0;3;1;0;0;0;2;0;1;0;1;0;1;0
+Limbourg;Orthodontie;41;26;15;0;1;3;5;2;0;1;4;3;7;0;0;2;2;2;0;0;0;0;9
+Brabant Wallon;Toutes les spécialités;629;367;262;2;20;33;35;28;31;38;33;46;101;0;6;16;14;19;17;18;26;40;106
+Brabant Wallon;Dentisterie générale;574;331;243;2;20;29;32;25;27;29;29;44;94;0;6;14;12;17;16;18;23;38;99
+Brabant Wallon;Parodontologie;10;3;7;0;0;0;0;2;0;1;0;0;0;0;0;1;0;2;0;0;2;1;1
+Brabant Wallon;Orthodontie;45;33;12;0;0;4;3;1;4;8;4;2;7;0;0;1;2;0;1;0;1;1;6
+Hainaut;Toutes les spécialités;751;363;388;2;30;33;36;26;34;39;27;64;72;3;19;24;21;21;14;21;38;67;160
+Hainaut;Dentisterie générale;719;342;377;2;28;32;36;23;30;35;26;61;69;3;18;23;21;21;14;21;36;63;157
+Hainaut;Parodontologie;4;3;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Hainaut;Orthodontie;28;18;10;0;2;0;0;3;3;3;1;3;3;0;1;1;0;0;0;0;1;4;3
+Liège;Toutes les spécialités;1116;537;579;0;85;60;58;37;50;31;45;77;94;4;29;56;23;31;23;26;47;135;205
+Liège;Dentisterie générale;1029;481;548;0;81;54;50;27;46;27;39;73;84;4;27;50;20;27;21;24;44;131;200
+Liège;Parodontologie;22;11;11;0;1;0;3;4;1;1;1;0;0;0;1;3;2;2;1;1;1;0;0
+Liège;Orthodontie;65;45;20;0;3;6;5;6;3;3;5;4;10;0;1;3;1;2;1;1;2;4;5
+Namur;Toutes les spécialités;370;196;174;0;22;22;18;4;15;19;24;21;51;1;10;9;2;8;8;12;21;31;72
+Namur;Dentisterie générale;351;181;170;0;21;20;17;3;14;15;21;20;50;1;9;9;2;8;7;12;19;31;72
+Namur;Parodontologie;7;5;2;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;1;0;1;0;0
+Namur;Orthodontie;12;10;2;0;0;0;1;1;0;4;2;1;1;0;1;0;0;0;0;0;1;0;0
+Luxembourg;Toutes les spécialités;189;94;95;0;15;15;3;3;8;6;8;13;23;0;3;4;3;3;6;7;9;26;34
+Luxembourg;Dentisterie générale;178;87;91;0;15;14;3;2;8;6;7;11;21;0;3;4;2;3;5;7;8;25;34
+Luxembourg;Orthodontie;11;7;4;0;0;1;0;1;0;0;1;2;2;0;0;0;1;0;1;0;1;1;0
+Région de Bruxelles Capitale;Toutes les spécialités;1347;667;680;3;90;135;59;39;49;42;72;54;124;2;54;118;73;44;36;44;62;86;161
+Région de Bruxelles Capitale;Dentisterie générale;1263;626;637;3;88;121;58;38;44;38;62;52;122;2;53;107;65;39;27;44;59;84;157
+Région de Bruxelles Capitale;Parodontologie;18;8;10;0;1;3;1;1;1;0;1;0;0;0;0;1;1;1;3;0;2;1;1
+Région de Bruxelles Capitale;Orthodontie;66;33;33;0;1;11;0;0;4;4;9;2;2;0;1;10;7;4;6;0;1;1;3

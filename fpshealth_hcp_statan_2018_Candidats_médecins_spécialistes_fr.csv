@@ -1,0 +1,467 @@
+﻿territoire;spécialité;total;genre_femme;genre_homme;femme_min25;femme_25-29;femme_30-34;femme_35-39;femme_40-44;femme_45-49;femme_50-54;femme_60-64;homme_min25;homme_25-29;homme_30-34;homme_35-39;homme_40-44;homme_45-49;homme_50-54;homme_55-59;homme_60-64
+Belgique;Toutes les spécialités;5906;3322;2584;284;2359;575;64;20;15;4;1;214;1769;522;46;14;12;2;3;2
+Belgique;Gériatrie;114;89;25;7;55;24;1;1;1;0;0;1;15;7;1;0;1;0;0;0
+Belgique;Médecine d'urgence;451;231;220;15;144;56;12;1;3;0;0;12;130;58;12;3;4;1;0;0
+Belgique;Médecine légale;7;4;3;1;3;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Belgique;Anesthésie-réanimation;667;286;381;17;208;50;10;1;0;0;0;25;264;82;8;0;2;0;0;0
+Belgique;Chirurgie;372;182;190;16;128;35;2;1;0;0;0;16;133;38;2;1;0;0;0;0
+Belgique;Neurochirurgie;67;22;45;3;13;6;0;0;0;0;0;4;27;14;0;0;0;0;0;0
+Belgique;Chirurgie plastique, reconstructrice et esthétique;58;24;34;1;18;5;0;0;0;0;0;2;16;14;2;0;0;0;0;0
+Belgique;Urologie;138;61;77;5;41;15;0;0;0;0;0;6;56;15;0;0;0;0;0;0
+Belgique;Chirurgie orthopédique;283;86;197;6;57;23;0;0;0;0;0;16;140;39;1;0;1;0;0;0
+Belgique;Neurologie;168;107;61;12;79;15;1;0;0;0;0;8;40;13;0;0;0;0;0;0
+Belgique;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;130;110;20;8;78;21;2;1;0;0;0;3;15;1;1;0;0;0;0;0
+Belgique;Psychiatrie, particulièrement en psychiatrie adulte;259;149;110;10;96;32;6;2;2;1;0;5;83;18;1;1;2;0;0;0
+Belgique;Pneumologie;75;43;32;0;25;18;0;0;0;0;0;0;19;13;0;0;0;0;0;0
+Belgique;Gastro-entérologie;108;61;47;1;34;25;0;1;0;0;0;2;22;22;1;0;0;0;0;0
+Belgique;Cardiologie;139;52;87;2;25;24;0;0;0;0;1;1;35;47;3;1;0;0;0;0
+Belgique;Médecine interne;817;452;365;57;360;29;3;2;1;0;0;56;270;34;4;1;0;0;0;0
+Belgique;Rhumatologie;23;19;4;0;14;5;0;0;0;0;0;0;2;2;0;0;0;0;0;0
+Belgique;Médecine aiguë;28;12;16;1;7;2;1;0;0;1;0;2;13;1;0;0;0;0;0;0
+Belgique;Gynécologie-obstétrique;342;304;38;32;222;47;3;0;0;0;0;6;23;8;1;0;0;0;0;0
+Belgique;Ophtalmologie;158;97;61;5;82;7;2;1;0;0;0;9;45;6;0;0;1;0;0;0
+Belgique;Oto-rhino-laryngologie;124;85;39;10;62;12;0;1;0;0;0;4;28;7;0;0;0;0;0;0
+Belgique;Stomatologie;73;23;50;1;20;2;0;0;0;0;0;4;39;7;0;0;0;0;0;0
+Belgique;Dermato-vénéréologie;105;88;17;13;70;4;0;1;0;0;0;1;13;2;1;0;0;0;0;0
+Belgique;Pédiatrie;465;390;75;42;294;50;4;0;0;0;0;4;63;8;0;0;0;0;0;0
+Belgique;Médecine physique et réadaptation;110;53;57;4;41;6;1;1;0;0;0;3;49;5;0;0;0;0;0;0
+Belgique;Biologie clinique;71;31;40;2;20;6;3;0;0;0;0;5;23;11;0;1;0;0;0;0
+Belgique;Radiodiagnostic;265;92;173;5;72;11;2;1;1;0;0;14;137;21;1;0;0;0;0;0
+Belgique;Radiothérapie - oncologie;49;24;25;3;15;6;0;0;0;0;0;2;15;6;1;1;0;0;0;0
+Belgique;Médecine nucléaire;39;19;20;2;12;5;0;0;0;0;0;1;16;2;1;0;0;0;0;0
+Belgique;Anatomie pathologique;66;41;25;2;33;6;0;0;0;0;0;2;18;3;1;1;0;0;0;0
+Belgique;Oncologie médicale;66;40;26;1;20;19;0;0;0;0;0;0;14;12;0;0;0;0;0;0
+Belgique;Médecine du travail;69;45;24;0;11;9;11;5;7;2;0;0;3;6;4;4;1;1;3;2
+Région flamande;Toutes les spécialités;3071;1715;1356;160;1196;306;33;9;8;3;0;118;936;267;21;6;6;0;2;0
+Région flamande;Gériatrie;40;31;9;1;18;12;0;0;0;0;0;0;3;4;1;0;1;0;0;0
+Région flamande;Médecine d'urgence;196;100;96;9;62;24;5;0;0;0;0;5;57;28;4;0;2;0;0;0
+Région flamande;Médecine légale;6;4;2;1;3;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Région flamande;Anesthésie-réanimation;345;147;198;14;102;24;6;1;0;0;0;14;144;37;2;0;1;0;0;0
+Région flamande;Chirurgie;184;88;96;11;54;20;2;1;0;0;0;8;74;14;0;0;0;0;0;0
+Région flamande;Neurochirurgie;38;11;27;2;5;4;0;0;0;0;0;3;15;9;0;0;0;0;0;0
+Région flamande;Chirurgie plastique, reconstructrice et esthétique;36;14;22;0;11;3;0;0;0;0;0;1;10;9;2;0;0;0;0;0
+Région flamande;Urologie;91;40;51;5;26;9;0;0;0;0;0;5;37;9;0;0;0;0;0;0
+Région flamande;Chirurgie orthopédique;156;45;111;4;29;12;0;0;0;0;0;11;73;26;1;0;0;0;0;0
+Région flamande;Neurologie;95;65;30;6;47;11;1;0;0;0;0;4;22;4;0;0;0;0;0;0
+Région flamande;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;70;61;9;4;45;11;1;0;0;0;0;1;7;0;1;0;0;0;0;0
+Région flamande;Psychiatrie, particulièrement en psychiatrie adulte;144;83;61;9;53;17;3;0;1;0;0;4;45;9;1;1;1;0;0;0
+Région flamande;Pneumologie;32;18;14;0;10;8;0;0;0;0;0;0;8;6;0;0;0;0;0;0
+Région flamande;Gastro-entérologie;59;31;28;0;16;15;0;0;0;0;0;0;11;17;0;0;0;0;0;0
+Région flamande;Cardiologie;65;17;48;0;9;8;0;0;0;0;0;0;18;27;2;1;0;0;0;0
+Région flamande;Médecine interne;448;251;197;37;193;17;2;1;1;0;0;32;144;19;1;1;0;0;0;0
+Région flamande;Rhumatologie;10;8;2;0;4;4;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Région flamande;Médecine aiguë;24;11;13;1;6;2;1;0;0;1;0;2;10;1;0;0;0;0;0;0
+Région flamande;Gynécologie-obstétrique;195;170;25;15;126;26;3;0;0;0;0;4;15;5;1;0;0;0;0;0
+Région flamande;Ophtalmologie;84;53;31;4;45;3;1;0;0;0;0;4;23;3;0;0;1;0;0;0
+Région flamande;Oto-rhino-laryngologie;72;56;16;8;39;8;0;1;0;0;0;3;11;2;0;0;0;0;0;0
+Région flamande;Stomatologie;43;13;30;0;11;2;0;0;0;0;0;2;26;2;0;0;0;0;0;0
+Région flamande;Dermato-vénéréologie;56;48;8;6;39;2;0;1;0;0;0;1;4;2;1;0;0;0;0;0
+Région flamande;Pédiatrie;210;182;28;17;136;26;3;0;0;0;0;2;20;6;0;0;0;0;0;0
+Région flamande;Médecine physique et réadaptation;61;26;35;2;22;1;0;1;0;0;0;2;31;2;0;0;0;0;0;0
+Région flamande;Biologie clinique;34;18;16;0;14;4;0;0;0;0;0;1;12;3;0;0;0;0;0;0
+Région flamande;Radiodiagnostic;133;38;95;1;29;6;0;1;1;0;0;7;78;9;1;0;0;0;0;0
+Région flamande;Radiothérapie - oncologie;27;15;12;1;10;4;0;0;0;0;0;1;8;2;0;1;0;0;0;0
+Région flamande;Médecine nucléaire;20;12;8;1;8;3;0;0;0;0;0;0;7;0;1;0;0;0;0;0
+Région flamande;Anatomie pathologique;35;20;15;1;15;4;0;0;0;0;0;1;14;0;0;0;0;0;0;0
+Région flamande;Oncologie médicale;33;20;13;0;8;12;0;0;0;0;0;0;4;9;0;0;0;0;0;0
+Région flamande;Médecine du travail;29;19;10;0;1;4;5;2;5;2;0;0;2;2;2;2;0;0;2;0
+Région wallonne;Toutes les spécialités;1624;929;695;89;687;126;15;5;6;0;1;69;490;112;10;4;5;2;1;2
+Région wallonne;Gériatrie;50;38;12;6;23;7;0;1;1;0;0;1;9;2;0;0;0;0;0;0
+Région wallonne;Médecine d'urgence;148;73;75;3;55;11;1;0;3;0;0;3;53;13;3;0;2;1;0;0
+Région wallonne;Anesthésie-réanimation;189;76;113;2;63;9;2;0;0;0;0;10;75;24;3;0;1;0;0;0
+Région wallonne;Chirurgie;109;59;50;3;46;10;0;0;0;0;0;7;34;8;0;1;0;0;0;0
+Région wallonne;Neurochirurgie;17;7;10;1;5;1;0;0;0;0;0;1;6;3;0;0;0;0;0;0
+Région wallonne;Chirurgie plastique, reconstructrice et esthétique;12;6;6;1;3;2;0;0;0;0;0;0;5;1;0;0;0;0;0;0
+Région wallonne;Urologie;26;12;14;0;8;4;0;0;0;0;0;1;11;2;0;0;0;0;0;0
+Région wallonne;Chirurgie orthopédique;76;29;47;2;22;5;0;0;0;0;0;3;41;2;0;0;1;0;0;0
+Région wallonne;Neurologie;41;21;20;4;15;2;0;0;0;0;0;4;9;7;0;0;0;0;0;0
+Région wallonne;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;29;21;8;4;14;3;0;0;0;0;0;2;5;1;0;0;0;0;0;0
+Région wallonne;Psychiatrie, particulièrement en psychiatrie adulte;51;31;20;0;21;7;2;1;0;0;0;1;18;1;0;0;0;0;0;0
+Région wallonne;Pneumologie;28;15;13;0;10;5;0;0;0;0;0;0;8;5;0;0;0;0;0;0
+Région wallonne;Gastro-entérologie;31;20;11;1;13;5;0;1;0;0;0;2;8;1;0;0;0;0;0;0
+Région wallonne;Cardiologie;48;22;26;2;12;7;0;0;0;0;1;1;15;10;0;0;0;0;0;0
+Région wallonne;Médecine interne;197;113;84;15;90;6;1;1;0;0;0;15;66;3;0;0;0;0;0;0
+Région wallonne;Rhumatologie;11;9;2;0;9;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Région wallonne;Médecine aiguë;4;1;3;0;1;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Région wallonne;Gynécologie-obstétrique;89;80;9;11;60;9;0;0;0;0;0;2;4;3;0;0;0;0;0;0
+Région wallonne;Ophtalmologie;42;24;18;1;21;1;1;0;0;0;0;3;14;1;0;0;0;0;0;0
+Région wallonne;Oto-rhino-laryngologie;31;21;10;2;16;3;0;0;0;0;0;0;8;2;0;0;0;0;0;0
+Région wallonne;Stomatologie;13;5;8;0;5;0;0;0;0;0;0;1;4;3;0;0;0;0;0;0
+Région wallonne;Dermato-vénéréologie;24;19;5;5;14;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Région wallonne;Pédiatrie;143;122;21;18;90;13;1;0;0;0;0;2;19;0;0;0;0;0;0;0
+Région wallonne;Médecine physique et réadaptation;30;15;15;0;14;1;0;0;0;0;0;1;12;2;0;0;0;0;0;0
+Région wallonne;Biologie clinique;22;10;12;1;5;2;2;0;0;0;0;2;7;2;0;1;0;0;0;0
+Région wallonne;Radiodiagnostic;64;22;42;2;19;1;0;0;0;0;0;5;31;6;0;0;0;0;0;0
+Région wallonne;Radiothérapie - oncologie;14;8;6;2;5;1;0;0;0;0;0;1;2;2;1;0;0;0;0;0
+Région wallonne;Médecine nucléaire;12;5;7;1;3;1;0;0;0;0;0;0;6;1;0;0;0;0;0;0
+Région wallonne;Anatomie pathologique;16;10;6;1;8;1;0;0;0;0;0;1;3;0;1;1;0;0;0;0
+Région wallonne;Oncologie médicale;25;15;10;1;9;5;0;0;0;0;0;0;7;3;0;0;0;0;0;0
+Région wallonne;Médecine du travail;32;20;12;0;8;4;5;1;2;0;0;0;1;3;2;1;1;1;1;2
+Région de Bruxelles Capitale;Toutes les spécialités;1211;678;533;35;476;143;16;6;1;1;0;27;343;143;15;4;1;0;0;0
+Région de Bruxelles Capitale;Gériatrie;24;20;4;0;14;5;1;0;0;0;0;0;3;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine d'urgence;107;58;49;3;27;21;6;1;0;0;0;4;20;17;5;3;0;0;0;0
+Région de Bruxelles Capitale;Médecine légale;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Anesthésie-réanimation;133;63;70;1;43;17;2;0;0;0;0;1;45;21;3;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie;79;35;44;2;28;5;0;0;0;0;0;1;25;16;2;0;0;0;0;0
+Région de Bruxelles Capitale;Neurochirurgie;12;4;8;0;3;1;0;0;0;0;0;0;6;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie plastique, reconstructrice et esthétique;10;4;6;0;4;0;0;0;0;0;0;1;1;4;0;0;0;0;0;0
+Région de Bruxelles Capitale;Urologie;21;9;12;0;7;2;0;0;0;0;0;0;8;4;0;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie orthopédique;51;12;39;0;6;6;0;0;0;0;0;2;26;11;0;0;0;0;0;0
+Région de Bruxelles Capitale;Neurologie;32;21;11;2;17;2;0;0;0;0;0;0;9;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;31;28;3;0;19;7;1;1;0;0;0;0;3;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Psychiatrie, particulièrement en psychiatrie adulte;64;35;29;1;22;8;1;1;1;1;0;0;20;8;0;0;1;0;0;0
+Région de Bruxelles Capitale;Pneumologie;15;10;5;0;5;5;0;0;0;0;0;0;3;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Gastro-entérologie;18;10;8;0;5;5;0;0;0;0;0;0;3;4;1;0;0;0;0;0
+Région de Bruxelles Capitale;Cardiologie;26;13;13;0;4;9;0;0;0;0;0;0;2;10;1;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine interne;172;88;84;5;77;6;0;0;0;0;0;9;60;12;3;0;0;0;0;0
+Région de Bruxelles Capitale;Rhumatologie;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Gynécologie-obstétrique;58;54;4;6;36;12;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Ophtalmologie;32;20;12;0;16;3;0;1;0;0;0;2;8;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Oto-rhino-laryngologie;21;8;13;0;7;1;0;0;0;0;0;1;9;3;0;0;0;0;0;0
+Région de Bruxelles Capitale;Stomatologie;17;5;12;1;4;0;0;0;0;0;0;1;9;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Dermato-vénéréologie;25;21;4;2;17;2;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Pédiatrie;112;86;26;7;68;11;0;0;0;0;0;0;24;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine physique et réadaptation;19;12;7;2;5;4;1;0;0;0;0;0;6;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Biologie clinique;15;3;12;1;1;0;1;0;0;0;0;2;4;6;0;0;0;0;0;0
+Région de Bruxelles Capitale;Radiodiagnostic;68;32;36;2;24;4;2;0;0;0;0;2;28;6;0;0;0;0;0;0
+Région de Bruxelles Capitale;Radiothérapie - oncologie;8;1;7;0;0;1;0;0;0;0;0;0;5;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine nucléaire;7;2;5;0;1;1;0;0;0;0;0;1;3;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Anatomie pathologique;15;11;4;0;10;1;0;0;0;0;0;0;1;3;0;0;0;0;0;0
+Région de Bruxelles Capitale;Oncologie médicale;8;5;3;0;3;2;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine du travail;8;6;2;0;2;1;1;2;0;0;0;0;0;1;0;1;0;0;0;0
+Brabant flamand;Toutes les spécialités;906;509;397;41;350;99;10;4;4;1;0;28;270;90;7;0;0;0;2;0
+Brabant flamand;Gériatrie;10;10;0;1;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant flamand;Médecine d'urgence;39;19;20;3;12;4;0;0;0;0;0;0;12;7;1;0;0;0;0;0
+Brabant flamand;Médecine légale;2;1;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Brabant flamand;Anesthésie-réanimation;101;35;66;1;27;5;2;0;0;0;0;3;45;16;2;0;0;0;0;0
+Brabant flamand;Chirurgie;44;23;21;0;15;8;0;0;0;0;0;0;19;2;0;0;0;0;0;0
+Brabant flamand;Neurochirurgie;14;5;9;1;3;1;0;0;0;0;0;1;4;4;0;0;0;0;0;0
+Brabant flamand;Chirurgie plastique, reconstructrice et esthétique;11;6;5;0;3;3;0;0;0;0;0;0;1;3;1;0;0;0;0;0
+Brabant flamand;Urologie;21;13;8;3;8;2;0;0;0;0;0;2;4;2;0;0;0;0;0;0
+Brabant flamand;Chirurgie orthopédique;34;7;27;0;4;3;0;0;0;0;0;3;17;6;1;0;0;0;0;0
+Brabant flamand;Neurologie;31;23;8;1;15;7;0;0;0;0;0;2;5;1;0;0;0;0;0;0
+Brabant flamand;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;23;18;5;1;15;2;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Brabant flamand;Psychiatrie, particulièrement en psychiatrie adulte;48;27;21;2;16;7;2;0;0;0;0;1;18;2;0;0;0;0;0;0
+Brabant flamand;Pneumologie;12;6;6;0;4;2;0;0;0;0;0;0;3;3;0;0;0;0;0;0
+Brabant flamand;Gastro-entérologie;17;9;8;0;5;4;0;0;0;0;0;0;2;6;0;0;0;0;0;0
+Brabant flamand;Cardiologie;22;7;15;0;3;4;0;0;0;0;0;0;4;10;1;0;0;0;0;0
+Brabant flamand;Médecine interne;133;72;61;13;52;4;1;1;1;0;0;6;46;9;0;0;0;0;0;0
+Brabant flamand;Rhumatologie;4;3;1;0;2;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Brabant flamand;Médecine aiguë;9;3;6;0;2;0;1;0;0;0;0;1;4;1;0;0;0;0;0;0
+Brabant flamand;Gynécologie-obstétrique;52;42;10;2;27;12;1;0;0;0;0;1;8;1;0;0;0;0;0;0
+Brabant flamand;Ophtalmologie;30;18;12;1;15;2;0;0;0;0;0;2;7;3;0;0;0;0;0;0
+Brabant flamand;Oto-rhino-laryngologie;13;13;0;0;11;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant flamand;Stomatologie;15;5;10;0;5;0;0;0;0;0;0;1;7;2;0;0;0;0;0;0
+Brabant flamand;Dermato-vénéréologie;24;21;3;3;17;1;0;0;0;0;0;0;2;0;1;0;0;0;0;0
+Brabant flamand;Pédiatrie;66;63;3;6;50;5;2;0;0;0;0;0;3;0;0;0;0;0;0;0
+Brabant flamand;Médecine physique et réadaptation;19;10;9;1;9;0;0;0;0;0;0;0;8;1;0;0;0;0;0;0
+Brabant flamand;Biologie clinique;5;3;2;0;2;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+Brabant flamand;Radiodiagnostic;41;9;32;1;6;2;0;0;0;0;0;2;27;3;0;0;0;0;0;0
+Brabant flamand;Radiothérapie - oncologie;14;9;5;0;5;4;0;0;0;0;0;1;2;2;0;0;0;0;0;0
+Brabant flamand;Médecine nucléaire;8;5;3;0;5;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Brabant flamand;Anatomie pathologique;13;5;8;1;3;1;0;0;0;0;0;1;7;0;0;0;0;0;0;0
+Brabant flamand;Oncologie médicale;18;10;8;0;4;6;0;0;0;0;0;0;3;5;0;0;0;0;0;0
+Brabant flamand;Médecine du travail;13;9;4;0;0;2;1;2;3;1;0;0;1;1;0;0;0;0;2;0
+Flandre occidentale;Toutes les spécialités;361;192;169;27;138;21;4;0;2;0;0;25;122;20;1;0;1;0;0;0
+Flandre occidentale;Gériatrie;3;2;1;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Flandre occidentale;Médecine d'urgence;25;16;9;2;12;1;1;0;0;0;0;1;4;2;1;0;1;0;0;0
+Flandre occidentale;Anesthésie-réanimation;32;14;18;1;10;3;0;0;0;0;0;3;13;2;0;0;0;0;0;0
+Flandre occidentale;Chirurgie;23;6;17;1;2;2;1;0;0;0;0;3;13;1;0;0;0;0;0;0
+Flandre occidentale;Neurochirurgie;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Flandre occidentale;Chirurgie plastique, reconstructrice et esthétique;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Flandre occidentale;Urologie;14;5;9;0;3;2;0;0;0;0;0;2;7;0;0;0;0;0;0;0
+Flandre occidentale;Chirurgie orthopédique;28;4;24;0;4;0;0;0;0;0;0;1;17;6;0;0;0;0;0;0
+Flandre occidentale;Neurologie;4;3;1;1;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Flandre occidentale;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;5;5;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre occidentale;Psychiatrie, particulièrement en psychiatrie adulte;19;10;9;1;6;1;1;0;1;0;0;0;7;2;0;0;0;0;0;0
+Flandre occidentale;Pneumologie;3;2;1;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Flandre occidentale;Gastro-entérologie;5;3;2;0;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Flandre occidentale;Cardiologie;3;0;3;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0
+Flandre occidentale;Médecine interne;61;34;27;11;23;0;0;0;0;0;0;9;17;1;0;0;0;0;0;0
+Flandre occidentale;Rhumatologie;2;1;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Flandre occidentale;Médecine aiguë;3;2;1;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Flandre occidentale;Gynécologie-obstétrique;28;25;3;3;22;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0
+Flandre occidentale;Ophtalmologie;9;7;2;1;6;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Flandre occidentale;Oto-rhino-laryngologie;12;8;4;2;5;1;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Flandre occidentale;Stomatologie;6;1;5;0;0;1;0;0;0;0;0;1;4;0;0;0;0;0;0;0
+Flandre occidentale;Dermato-vénéréologie;3;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre occidentale;Pédiatrie;16;14;2;2;11;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Flandre occidentale;Médecine physique et réadaptation;10;6;4;0;5;1;0;0;0;0;0;1;3;0;0;0;0;0;0;0
+Flandre occidentale;Biologie clinique;6;2;4;0;2;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Flandre occidentale;Radiodiagnostic;26;9;17;0;8;1;0;0;0;0;0;1;16;0;0;0;0;0;0;0
+Flandre occidentale;Radiothérapie - oncologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre occidentale;Anatomie pathologique;6;4;2;0;3;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Flandre occidentale;Oncologie médicale;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre occidentale;Médecine du travail;4;3;1;0;0;1;1;0;1;0;0;0;0;1;0;0;0;0;0;0
+Flandre orientale;Toutes les spécialités;767;444;323;39;314;76;12;2;1;0;0;22;218;75;7;1;0;0;0;0
+Flandre orientale;Gériatrie;12;9;3;0;5;4;0;0;0;0;0;0;2;1;0;0;0;0;0;0
+Flandre orientale;Médecine d'urgence;61;34;27;1;21;9;3;0;0;0;0;0;16;9;2;0;0;0;0;0
+Flandre orientale;Médecine légale;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Anesthésie-réanimation;77;37;40;3;28;3;3;0;0;0;0;3;27;10;0;0;0;0;0;0
+Flandre orientale;Chirurgie;48;26;22;6;14;4;1;1;0;0;0;3;14;5;0;0;0;0;0;0
+Flandre orientale;Neurochirurgie;9;2;7;1;1;0;0;0;0;0;0;1;3;3;0;0;0;0;0;0
+Flandre orientale;Chirurgie plastique, reconstructrice et esthétique;14;4;10;0;4;0;0;0;0;0;0;0;4;5;1;0;0;0;0;0
+Flandre orientale;Urologie;25;8;17;0;6;2;0;0;0;0;0;1;12;4;0;0;0;0;0;0
+Flandre orientale;Chirurgie orthopédique;39;11;28;1;7;3;0;0;0;0;0;3;17;8;0;0;0;0;0;0
+Flandre orientale;Neurologie;26;18;8;3;15;0;0;0;0;0;0;0;7;1;0;0;0;0;0;0
+Flandre orientale;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;17;15;2;2;9;4;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Flandre orientale;Psychiatrie, particulièrement en psychiatrie adulte;31;22;9;4;16;2;0;0;0;0;0;2;5;2;0;0;0;0;0;0
+Flandre orientale;Pneumologie;6;2;4;0;0;2;0;0;0;0;0;0;2;2;0;0;0;0;0;0
+Flandre orientale;Gastro-entérologie;14;7;7;0;2;5;0;0;0;0;0;0;3;4;0;0;0;0;0;0
+Flandre orientale;Cardiologie;13;2;11;0;2;0;0;0;0;0;0;0;6;4;1;0;0;0;0;0
+Flandre orientale;Médecine interne;116;69;47;5;55;8;1;0;0;0;0;7;38;2;0;0;0;0;0;0
+Flandre orientale;Rhumatologie;3;3;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Médecine aiguë;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Gynécologie-obstétrique;50;46;4;5;35;5;1;0;0;0;0;0;3;1;0;0;0;0;0;0
+Flandre orientale;Ophtalmologie;16;10;6;0;10;0;0;0;0;0;0;1;5;0;0;0;0;0;0;0
+Flandre orientale;Oto-rhino-laryngologie;17;13;4;1;9;3;0;0;0;0;0;0;3;1;0;0;0;0;0;0
+Flandre orientale;Stomatologie;6;2;4;0;2;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Flandre orientale;Dermato-vénéréologie;13;13;0;1;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Flandre orientale;Pédiatrie;59;48;11;3;36;8;1;0;0;0;0;0;8;3;0;0;0;0;0;0
+Flandre orientale;Médecine physique et réadaptation;17;4;13;1;3;0;0;0;0;0;0;0;12;1;0;0;0;0;0;0
+Flandre orientale;Biologie clinique;10;5;5;0;5;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0
+Flandre orientale;Radiodiagnostic;35;13;22;0;10;2;0;1;0;0;0;1;16;4;1;0;0;0;0;0
+Flandre orientale;Radiothérapie - oncologie;7;3;4;1;2;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0
+Flandre orientale;Médecine nucléaire;6;3;3;0;0;3;0;0;0;0;0;0;2;0;1;0;0;0;0;0
+Flandre orientale;Anatomie pathologique;7;5;2;0;4;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Flandre orientale;Oncologie médicale;7;5;2;0;1;4;0;0;0;0;0;0;0;2;0;0;0;0;0;0
+Flandre orientale;Médecine du travail;4;3;1;0;0;0;2;0;1;0;0;0;0;0;1;0;0;0;0;0
+Anvers;Toutes les spécialités;810;451;359;40;305;95;6;3;1;1;0;31;241;74;5;5;3;0;0;0
+Anvers;Gériatrie;13;9;4;0;7;2;0;0;0;0;0;0;0;2;1;0;1;0;0;0
+Anvers;Médecine d'urgence;55;24;31;1;13;9;1;0;0;0;0;4;17;10;0;0;0;0;0;0
+Anvers;Médecine légale;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anvers;Anesthésie-réanimation;100;44;56;8;23;11;1;1;0;0;0;4;44;8;0;0;0;0;0;0
+Anvers;Chirurgie;57;28;29;4;18;6;0;0;0;0;0;2;21;6;0;0;0;0;0;0
+Anvers;Neurochirurgie;11;3;8;0;1;2;0;0;0;0;0;1;5;2;0;0;0;0;0;0
+Anvers;Chirurgie plastique, reconstructrice et esthétique;8;2;6;0;2;0;0;0;0;0;0;0;5;1;0;0;0;0;0;0
+Anvers;Urologie;23;12;11;1;8;3;0;0;0;0;0;0;8;3;0;0;0;0;0;0
+Anvers;Chirurgie orthopédique;42;20;22;3;12;5;0;0;0;0;0;1;17;4;0;0;0;0;0;0
+Anvers;Neurologie;29;18;11;0;13;4;1;0;0;0;0;1;8;2;0;0;0;0;0;0
+Anvers;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;18;16;2;0;11;4;1;0;0;0;0;1;0;0;1;0;0;0;0;0
+Anvers;Psychiatrie, particulièrement en psychiatrie adulte;32;15;17;2;7;6;0;0;0;0;0;0;11;3;1;1;1;0;0;0
+Anvers;Pneumologie;8;6;2;0;3;3;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Anvers;Gastro-entérologie;17;9;8;0;4;5;0;0;0;0;0;0;3;5;0;0;0;0;0;0
+Anvers;Cardiologie;22;6;16;0;4;2;0;0;0;0;0;0;6;9;0;1;0;0;0;0
+Anvers;Médecine interne;110;63;47;6;53;4;0;0;0;0;0;7;31;7;1;1;0;0;0;0
+Anvers;Rhumatologie;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Anvers;Médecine aiguë;9;4;5;1;3;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Anvers;Gynécologie-obstétrique;52;46;6;3;35;7;1;0;0;0;0;1;2;3;0;0;0;0;0;0
+Anvers;Ophtalmologie;20;11;9;1;9;1;0;0;0;0;0;0;8;0;0;0;1;0;0;0
+Anvers;Oto-rhino-laryngologie;22;14;8;3;9;2;0;0;0;0;0;3;4;1;0;0;0;0;0;0
+Anvers;Stomatologie;5;3;2;0;2;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Anvers;Dermato-vénéréologie;13;10;3;1;8;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0
+Anvers;Pédiatrie;62;52;10;5;36;11;0;0;0;0;0;2;6;2;0;0;0;0;0;0
+Anvers;Médecine physique et réadaptation;13;5;8;0;4;0;0;1;0;0;0;1;7;0;0;0;0;0;0;0
+Anvers;Biologie clinique;12;7;5;0;4;3;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Anvers;Radiodiagnostic;27;7;20;0;5;1;0;0;1;0;0;2;16;2;0;0;0;0;0;0
+Anvers;Radiothérapie - oncologie;4;1;3;0;1;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Anvers;Médecine nucléaire;6;4;2;1;3;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Anvers;Anatomie pathologique;5;4;1;0;3;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Anvers;Oncologie médicale;6;3;3;0;2;1;0;0;0;0;0;0;1;2;0;0;0;0;0;0
+Anvers;Médecine du travail;6;2;4;0;0;0;1;0;0;1;0;0;1;0;1;2;0;0;0;0
+Limbourg;Toutes les spécialités;227;119;108;13;89;15;1;0;0;1;0;12;85;8;1;0;2;0;0;0
+Limbourg;Gériatrie;2;1;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Limbourg;Médecine d'urgence;16;7;9;2;4;1;0;0;0;0;0;0;8;0;0;0;1;0;0;0
+Limbourg;Médecine légale;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Limbourg;Anesthésie-réanimation;35;17;18;1;14;2;0;0;0;0;0;1;15;1;0;0;1;0;0;0
+Limbourg;Chirurgie;12;5;7;0;5;0;0;0;0;0;0;0;7;0;0;0;0;0;0;0
+Limbourg;Neurochirurgie;3;1;2;0;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Limbourg;Chirurgie plastique, reconstructrice et esthétique;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Urologie;8;2;6;1;1;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0
+Limbourg;Chirurgie orthopédique;13;3;10;0;2;1;0;0;0;0;0;3;5;2;0;0;0;0;0;0
+Limbourg;Neurologie;5;3;2;1;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+Limbourg;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;7;7;0;0;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Psychiatrie, particulièrement en psychiatrie adulte;14;9;5;0;8;1;0;0;0;0;0;1;4;0;0;0;0;0;0;0
+Limbourg;Pneumologie;3;2;1;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Limbourg;Gastro-entérologie;6;3;3;0;3;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0
+Limbourg;Cardiologie;5;2;3;0;0;2;0;0;0;0;0;0;1;2;0;0;0;0;0;0
+Limbourg;Médecine interne;28;13;15;2;10;1;0;0;0;0;0;3;12;0;0;0;0;0;0;0
+Limbourg;Médecine aiguë;2;1;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+Limbourg;Gynécologie-obstétrique;13;11;2;2;7;2;0;0;0;0;0;1;0;0;1;0;0;0;0;0
+Limbourg;Ophtalmologie;9;7;2;1;5;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0
+Limbourg;Oto-rhino-laryngologie;8;8;0;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Stomatologie;11;2;9;0;2;0;0;0;0;0;0;0;9;0;0;0;0;0;0;0
+Limbourg;Dermato-vénéréologie;3;1;2;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Limbourg;Pédiatrie;7;5;2;1;3;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Limbourg;Médecine physique et réadaptation;2;1;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Limbourg;Biologie clinique;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Radiodiagnostic;4;0;4;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0
+Limbourg;Radiothérapie - oncologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limbourg;Anatomie pathologique;4;2;2;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Limbourg;Médecine du travail;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Toutes les spécialités;290;176;114;19;134;22;0;0;1;0;0;9;87;17;0;0;0;0;1;0
+Brabant Wallon;Gériatrie;13;10;3;3;6;1;0;0;0;0;0;0;2;1;0;0;0;0;0;0
+Brabant Wallon;Médecine d'urgence;30;18;12;1;15;1;0;0;1;0;0;1;8;3;0;0;0;0;0;0
+Brabant Wallon;Anesthésie-réanimation;23;13;10;0;10;3;0;0;0;0;0;0;8;2;0;0;0;0;0;0
+Brabant Wallon;Chirurgie;18;6;12;0;6;0;0;0;0;0;0;1;10;1;0;0;0;0;0;0
+Brabant Wallon;Neurochirurgie;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Urologie;6;3;3;0;1;2;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Brabant Wallon;Chirurgie orthopédique;16;2;14;1;1;0;0;0;0;0;0;1;12;1;0;0;0;0;0;0
+Brabant Wallon;Neurologie;6;2;4;1;1;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0
+Brabant Wallon;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;6;5;1;1;3;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Psychiatrie, particulièrement en psychiatrie adulte;7;4;3;0;3;1;0;0;0;0;0;0;2;1;0;0;0;0;0;0
+Brabant Wallon;Pneumologie;5;3;2;0;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Brabant Wallon;Gastro-entérologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Cardiologie;7;3;4;0;1;2;0;0;0;0;0;0;1;3;0;0;0;0;0;0
+Brabant Wallon;Médecine interne;44;28;16;5;21;2;0;0;0;0;0;2;14;0;0;0;0;0;0;0
+Brabant Wallon;Médecine aiguë;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Gynécologie-obstétrique;19;18;1;2;13;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Brabant Wallon;Ophtalmologie;6;4;2;0;4;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Brabant Wallon;Oto-rhino-laryngologie;4;2;2;0;2;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Brabant Wallon;Stomatologie;4;2;2;0;2;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Brabant Wallon;Dermato-vénéréologie;6;5;1;2;3;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Brabant Wallon;Pédiatrie;36;32;4;3;27;2;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Brabant Wallon;Médecine physique et réadaptation;4;1;3;0;1;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Brabant Wallon;Radiodiagnostic;15;5;10;0;5;0;0;0;0;0;0;2;8;0;0;0;0;0;0;0
+Brabant Wallon;Radiothérapie - oncologie;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Brabant Wallon;Médecine nucléaire;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Anatomie pathologique;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Brabant Wallon;Oncologie médicale;6;4;2;0;2;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Brabant Wallon;Médecine du travail;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+Hainaut;Toutes les spécialités;386;235;151;23;172;31;6;2;1;0;0;14;109;24;2;1;0;0;0;1
+Hainaut;Gériatrie;15;11;4;1;6;2;0;1;1;0;0;1;2;1;0;0;0;0;0;0
+Hainaut;Médecine d'urgence;34;16;18;0;13;3;0;0;0;0;0;1;14;2;1;0;0;0;0;0
+Hainaut;Anesthésie-réanimation;33;15;18;1;14;0;0;0;0;0;0;1;12;5;0;0;0;0;0;0
+Hainaut;Chirurgie;34;24;10;2;18;4;0;0;0;0;0;1;8;1;0;0;0;0;0;0
+Hainaut;Neurochirurgie;4;2;2;0;1;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Hainaut;Chirurgie plastique, reconstructrice et esthétique;5;3;2;0;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Hainaut;Urologie;6;4;2;0;2;2;0;0;0;0;0;1;0;1;0;0;0;0;0;0
+Hainaut;Chirurgie orthopédique;18;11;7;0;11;0;0;0;0;0;0;0;7;0;0;0;0;0;0;0
+Hainaut;Neurologie;12;7;5;1;6;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0
+Hainaut;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;6;4;2;1;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Hainaut;Psychiatrie, particulièrement en psychiatrie adulte;17;10;7;0;6;2;2;0;0;0;0;0;7;0;0;0;0;0;0;0
+Hainaut;Pneumologie;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Gastro-entérologie;3;1;2;0;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Hainaut;Cardiologie;5;3;2;0;1;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Hainaut;Médecine interne;55;27;28;3;23;1;0;0;0;0;0;3;23;2;0;0;0;0;0;0
+Hainaut;Rhumatologie;2;1;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Hainaut;Gynécologie-obstétrique;24;20;4;3;16;1;0;0;0;0;0;1;2;1;0;0;0;0;0;0
+Hainaut;Ophtalmologie;11;6;5;0;5;0;1;0;0;0;0;0;5;0;0;0;0;0;0;0
+Hainaut;Oto-rhino-laryngologie;9;7;2;1;4;2;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Hainaut;Stomatologie;4;3;1;0;3;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Hainaut;Dermato-vénéréologie;6;6;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Hainaut;Pédiatrie;33;26;7;3;19;4;0;0;0;0;0;1;6;0;0;0;0;0;0;0
+Hainaut;Médecine physique et réadaptation;7;3;4;0;3;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0
+Hainaut;Biologie clinique;5;0;5;0;0;0;0;0;0;0;0;1;1;2;0;1;0;0;0;0
+Hainaut;Radiodiagnostic;11;7;4;2;5;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0
+Hainaut;Radiothérapie - oncologie;3;1;2;1;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0
+Hainaut;Médecine nucléaire;3;2;1;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Hainaut;Anatomie pathologique;5;4;1;1;2;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Hainaut;Oncologie médicale;3;1;2;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Hainaut;Médecine du travail;11;8;3;0;3;1;3;1;0;0;0;0;0;2;0;0;0;0;0;1
+Liège;Toutes les spécialités;685;388;297;31;287;58;5;3;3;0;1;31;202;50;7;2;4;1;0;0
+Liège;Gériatrie;15;12;3;1;9;2;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Liège;Médecine d'urgence;65;30;35;2;20;5;1;0;2;0;0;1;22;7;2;0;2;1;0;0
+Liège;Anesthésie-réanimation;101;39;62;1;30;6;2;0;0;0;0;7;36;15;3;0;1;0;0;0
+Liège;Chirurgie;38;20;18;1;15;4;0;0;0;0;0;3;9;5;0;1;0;0;0;0
+Liège;Neurochirurgie;6;1;5;0;1;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0
+Liège;Chirurgie plastique, reconstructrice et esthétique;7;3;4;1;1;1;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Liège;Urologie;12;4;8;0;4;0;0;0;0;0;0;0;7;1;0;0;0;0;0;0
+Liège;Chirurgie orthopédique;25;10;15;1;4;5;0;0;0;0;0;2;13;0;0;0;0;0;0;0
+Liège;Neurologie;16;8;8;2;5;1;0;0;0;0;0;2;3;3;0;0;0;0;0;0
+Liège;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;15;10;5;1;8;1;0;0;0;0;0;2;3;0;0;0;0;0;0;0
+Liège;Psychiatrie, particulièrement en psychiatrie adulte;20;10;10;0;6;3;0;1;0;0;0;1;9;0;0;0;0;0;0;0
+Liège;Pneumologie;17;9;8;0;7;2;0;0;0;0;0;0;5;3;0;0;0;0;0;0
+Liège;Gastro-entérologie;25;16;9;1;11;3;0;1;0;0;0;2;6;1;0;0;0;0;0;0
+Liège;Cardiologie;29;16;13;2;10;3;0;0;0;0;1;1;10;2;0;0;0;0;0;0
+Liège;Médecine interne;58;41;17;5;31;3;1;1;0;0;0;4;13;0;0;0;0;0;0;0
+Liège;Rhumatologie;7;6;1;0;6;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Liège;Médecine aiguë;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Liège;Gynécologie-obstétrique;35;33;2;4;26;3;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Liège;Ophtalmologie;17;10;7;1;8;1;0;0;0;0;0;1;5;1;0;0;0;0;0;0
+Liège;Oto-rhino-laryngologie;16;11;5;1;9;1;0;0;0;0;0;0;5;0;0;0;0;0;0;0
+Liège;Stomatologie;4;0;4;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0
+Liège;Dermato-vénéréologie;6;4;2;0;4;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Liège;Pédiatrie;47;41;6;5;29;7;0;0;0;0;0;0;6;0;0;0;0;0;0;0
+Liège;Médecine physique et réadaptation;16;9;7;0;8;1;0;0;0;0;0;0;5;2;0;0;0;0;0;0
+Liège;Biologie clinique;11;7;4;0;5;1;1;0;0;0;0;1;3;0;0;0;0;0;0;0
+Liège;Radiodiagnostic;29;10;19;0;9;1;0;0;0;0;0;2;14;3;0;0;0;0;0;0
+Liège;Radiothérapie - oncologie;9;7;2;1;5;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Liège;Médecine nucléaire;6;2;4;0;2;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0
+Liège;Anatomie pathologique;9;4;5;0;4;0;0;0;0;0;0;0;3;0;1;1;0;0;0;0
+Liège;Oncologie médicale;13;7;6;1;5;1;0;0;0;0;0;0;5;1;0;0;0;0;0;0
+Liège;Médecine du travail;10;7;3;0;4;2;0;0;1;0;0;0;1;0;1;0;1;0;0;0
+Namur;Toutes les spécialités;201;97;104;14;69;10;4;0;0;0;0;13;67;19;1;1;1;1;0;1
+Namur;Gériatrie;6;4;2;1;2;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Namur;Médecine d'urgence;18;9;9;0;7;2;0;0;0;0;0;0;8;1;0;0;0;0;0;0
+Namur;Anesthésie-réanimation;27;8;19;0;8;0;0;0;0;0;0;2;15;2;0;0;0;0;0;0
+Namur;Chirurgie;14;5;9;0;4;1;0;0;0;0;0;2;6;1;0;0;0;0;0;0
+Namur;Neurochirurgie;4;2;2;1;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Namur;Urologie;2;1;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Namur;Chirurgie orthopédique;12;4;8;0;4;0;0;0;0;0;0;0;6;1;0;0;1;0;0;0
+Namur;Neurologie;7;4;3;0;3;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0
+Namur;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Psychiatrie, particulièrement en psychiatrie adulte;5;5;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Pneumologie;3;1;2;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Namur;Gastro-entérologie;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Cardiologie;6;0;6;0;0;0;0;0;0;0;0;0;1;5;0;0;0;0;0;0
+Namur;Médecine interne;27;11;16;2;9;0;0;0;0;0;0;5;10;1;0;0;0;0;0;0
+Namur;Rhumatologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Gynécologie-obstétrique;7;5;2;2;3;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Namur;Ophtalmologie;6;4;2;0;4;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+Namur;Oto-rhino-laryngologie;2;1;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Namur;Stomatologie;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Namur;Dermato-vénéréologie;4;4;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Pédiatrie;18;15;3;5;9;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0
+Namur;Médecine physique et réadaptation;3;2;1;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Namur;Biologie clinique;5;3;2;1;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0
+Namur;Radiodiagnostic;7;0;7;0;0;0;0;0;0;0;0;0;5;2;0;0;0;0;0;0
+Namur;Radiothérapie - oncologie;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Namur;Médecine nucléaire;2;0;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Namur;Anatomie pathologique;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Oncologie médicale;3;3;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Namur;Médecine du travail;7;2;5;0;0;0;2;0;0;0;0;0;0;1;1;1;0;1;0;1
+Luxembourg;Toutes les spécialités;62;33;29;2;25;5;0;0;1;0;0;2;25;2;0;0;0;0;0;0
+Luxembourg;Gériatrie;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Médecine d'urgence;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Anesthésie-réanimation;5;1;4;0;1;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Luxembourg;Chirurgie;5;4;1;0;3;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Neurochirurgie;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Luxembourg;Chirurgie orthopédique;5;2;3;0;2;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Luxembourg;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Psychiatrie, particulièrement en psychiatrie adulte;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Pneumologie;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Gastro-entérologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Cardiologie;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Médecine interne;13;6;7;0;6;0;0;0;0;0;0;1;6;0;0;0;0;0;0;0
+Luxembourg;Rhumatologie;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Médecine aiguë;2;0;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Luxembourg;Gynécologie-obstétrique;4;4;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Luxembourg;Ophtalmologie;2;0;2;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+Luxembourg;Dermato-vénéréologie;2;0;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0
+Luxembourg;Pédiatrie;9;8;1;2;6;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Biologie clinique;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Luxembourg;Radiodiagnostic;2;0;2;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0
+Luxembourg;Médecine du travail;2;2;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Toutes les spécialités;1211;678;533;35;476;143;16;6;1;1;0;27;343;143;15;4;1;0;0;0
+Région de Bruxelles Capitale;Gériatrie;24;20;4;0;14;5;1;0;0;0;0;0;3;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine d'urgence;107;58;49;3;27;21;6;1;0;0;0;4;20;17;5;3;0;0;0;0
+Région de Bruxelles Capitale;Médecine légale;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Anesthésie-réanimation;133;63;70;1;43;17;2;0;0;0;0;1;45;21;3;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie;79;35;44;2;28;5;0;0;0;0;0;1;25;16;2;0;0;0;0;0
+Région de Bruxelles Capitale;Neurochirurgie;12;4;8;0;3;1;0;0;0;0;0;0;6;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie plastique, reconstructrice et esthétique;10;4;6;0;4;0;0;0;0;0;0;1;1;4;0;0;0;0;0;0
+Région de Bruxelles Capitale;Urologie;21;9;12;0;7;2;0;0;0;0;0;0;8;4;0;0;0;0;0;0
+Région de Bruxelles Capitale;Chirurgie orthopédique;51;12;39;0;6;6;0;0;0;0;0;2;26;11;0;0;0;0;0;0
+Région de Bruxelles Capitale;Neurologie;32;21;11;2;17;2;0;0;0;0;0;0;9;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Psychiatrie, particulièrement en psychiatrie infanto-juvénile;31;28;3;0;19;7;1;1;0;0;0;0;3;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Psychiatrie, particulièrement en psychiatrie adulte;64;35;29;1;22;8;1;1;1;1;0;0;20;8;0;0;1;0;0;0
+Région de Bruxelles Capitale;Pneumologie;15;10;5;0;5;5;0;0;0;0;0;0;3;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Gastro-entérologie;18;10;8;0;5;5;0;0;0;0;0;0;3;4;1;0;0;0;0;0
+Région de Bruxelles Capitale;Cardiologie;26;13;13;0;4;9;0;0;0;0;0;0;2;10;1;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine interne;172;88;84;5;77;6;0;0;0;0;0;9;60;12;3;0;0;0;0;0
+Région de Bruxelles Capitale;Rhumatologie;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Gynécologie-obstétrique;58;54;4;6;36;12;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Ophtalmologie;32;20;12;0;16;3;0;1;0;0;0;2;8;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Oto-rhino-laryngologie;21;8;13;0;7;1;0;0;0;0;0;1;9;3;0;0;0;0;0;0
+Région de Bruxelles Capitale;Stomatologie;17;5;12;1;4;0;0;0;0;0;0;1;9;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Dermato-vénéréologie;25;21;4;2;17;2;0;0;0;0;0;0;4;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Pédiatrie;112;86;26;7;68;11;0;0;0;0;0;0;24;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine physique et réadaptation;19;12;7;2;5;4;1;0;0;0;0;0;6;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Biologie clinique;15;3;12;1;1;0;1;0;0;0;0;2;4;6;0;0;0;0;0;0
+Région de Bruxelles Capitale;Radiodiagnostic;68;32;36;2;24;4;2;0;0;0;0;2;28;6;0;0;0;0;0;0
+Région de Bruxelles Capitale;Radiothérapie - oncologie;8;1;7;0;0;1;0;0;0;0;0;0;5;2;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine nucléaire;7;2;5;0;1;1;0;0;0;0;0;1;3;1;0;0;0;0;0;0
+Région de Bruxelles Capitale;Anatomie pathologique;15;11;4;0;10;1;0;0;0;0;0;0;1;3;0;0;0;0;0;0
+Région de Bruxelles Capitale;Oncologie médicale;8;5;3;0;3;2;0;0;0;0;0;0;3;0;0;0;0;0;0;0
+Région de Bruxelles Capitale;Médecine du travail;8;6;2;0;2;1;1;2;0;0;0;0;0;1;0;1;0;0;0;0

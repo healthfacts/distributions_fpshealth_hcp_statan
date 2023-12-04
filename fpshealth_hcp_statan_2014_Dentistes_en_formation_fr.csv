@@ -1,0 +1,59 @@
+﻿territoire;spécialité;total;total_femmes;total_hommes;femmes_20_24;femmes_25_29;femmes_30_34;femmes_35_39;femmes_40_44;femmes_45_49;femmes_50_54;femmes_55_59;femmes_60_64;femmes_65plus;hommes_20_24;hommes_25_29;hommes_30_34;hommes_35_39;hommes_40_44;hommes_45_49;hommes_50_54;hommes_55_59;hommes_60_64;hommes_65plus
+Belgique;TOUTES SPECIALITES;246;159;87;88;62;4;1;3;1;0;0;0;0;39;41;6;0;0;0;0;1;0;0
+Région Flandre;TOUTES SPECIALITES;136;99;37;59;33;2;1;3;1;0;0;0;0;19;14;4;0;0;0;0;0;0;0
+Région Wallonie;TOUTES SPECIALITES;54;32;22;17;15;0;0;0;0;0;0;0;0;9;11;1;0;0;0;0;1;0;0
+Région Région de Bruxelles-capitale;TOUTES SPECIALITES;56;28;28;12;14;2;0;0;0;0;0;0;0;11;16;1;0;0;0;0;0;0;0
+Prov Brabant flamand;TOUTES SPECIALITES;21;15;6;8;6;1;0;0;0;0;0;0;0;2;3;1;0;0;0;0;0;0;0
+Prov Flandre occidentale;TOUTES SPECIALITES;31;26;5;17;8;0;0;0;1;0;0;0;0;4;1;0;0;0;0;0;0;0;0
+Prov Flandre orientale;TOUTES SPECIALITES;43;29;14;16;11;1;0;1;0;0;0;0;0;6;6;2;0;0;0;0;0;0;0
+Prov Anvers;TOUTES SPECIALITES;25;20;5;12;7;0;0;1;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0
+Prov Limbourg;TOUTES SPECIALITES;16;9;7;6;1;0;1;1;0;0;0;0;0;5;2;0;0;0;0;0;0;0;0
+Prov Brabant wallon;TOUTES SPECIALITES;6;2;4;1;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;1;0;0
+Prov Hainaut;TOUTES SPECIALITES;10;8;2;5;3;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
+Prov Liège;TOUTES SPECIALITES;31;19;12;10;9;0;0;0;0;0;0;0;0;6;6;0;0;0;0;0;0;0;0
+Prov Namur;TOUTES SPECIALITES;5;1;4;1;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0
+Prov Luxembourg;TOUTES SPECIALITES;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Région de Bruxelles-capitale;TOUTES SPECIALITES;56;28;28;12;14;2;0;0;0;0;0;0;0;11;16;1;0;0;0;0;0;0;0
+Belgique;TOUTES SPECIALITES;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Belgique;DENTISTERIE GENERALE;171;108;63;72;27;4;1;3;1;0;0;0;0;32;28;3;0;0;0;0;0;0;0
+Belgique;PARODONTOLOGIE;31;18;13;5;13;0;0;0;0;0;0;0;0;5;6;2;0;0;0;0;0;0;0
+Belgique;ORTHODONTIE;43;33;10;11;22;0;0;0;0;0;0;0;0;2;7;1;0;0;0;0;0;0;0
+Région Flandre;DENTISTERIE GENERALE;91;66;25;48;11;2;1;3;1;0;0;0;0;15;8;2;0;0;0;0;0;0;0
+Région Flandre;PARODONTOLOGIE;21;14;7;5;9;0;0;0;0;0;0;0;0;3;3;1;0;0;0;0;0;0;0
+Région Flandre;ORTHODONTIE;24;19;5;6;13;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0
+Région Wallonie;TOUTES SPECIALITES;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Région Wallonie;DENTISTERIE GENERALE;41;24;17;14;10;0;0;0;0;0;0;0;0;9;7;1;0;0;0;0;0;0;0
+Région Wallonie;PARODONTOLOGIE;4;2;2;0;2;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0
+Région Wallonie;ORTHODONTIE;8;6;2;3;3;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0
+Région Région de Bruxelles-capitale;DENTISTERIE GENERALE;39;18;21;10;6;2;0;0;0;0;0;0;0;8;13;0;0;0;0;0;0;0;0
+Région Région de Bruxelles-capitale;PARODONTOLOGIE;6;2;4;0;2;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0
+Région Région de Bruxelles-capitale;ORTHODONTIE;11;8;3;2;6;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0
+Prov Brabant flamand;DENTISTERIE GENERALE;15;11;4;6;4;1;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0
+Prov Brabant flamand;PARODONTOLOGIE;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+Prov Brabant flamand;ORTHODONTIE;5;4;1;2;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Prov Flandre occidentale;DENTISTERIE GENERALE;20;16;4;15;0;0;0;0;1;0;0;0;0;3;1;0;0;0;0;0;0;0;0
+Prov Flandre occidentale;PARODONTOLOGIE;7;6;1;2;4;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Prov Flandre occidentale;ORTHODONTIE;4;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Flandre orientale;DENTISTERIE GENERALE;25;18;7;13;3;1;0;1;0;0;0;0;0;5;1;1;0;0;0;0;0;0;0
+Prov Flandre orientale;PARODONTOLOGIE;9;5;4;1;4;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0
+Prov Flandre orientale;ORTHODONTIE;9;6;3;2;4;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0
+Prov Anvers;DENTISTERIE GENERALE;17;13;4;9;3;0;0;1;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0
+Prov Anvers;PARODONTOLOGIE;3;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Anvers;ORTHODONTIE;5;4;1;1;3;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Prov Limbourg;DENTISTERIE GENERALE;14;8;6;5;1;0;1;1;0;0;0;0;0;4;2;0;0;0;0;0;0;0;0
+Prov Limbourg;PARODONTOLOGIE;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+Prov Limbourg;ORTHODONTIE;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Brabant wallon;TOUTES SPECIALITES;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+Prov Brabant wallon;DENTISTERIE GENERALE;5;2;3;1;1;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0
+Prov Hainaut;DENTISTERIE GENERALE;9;7;2;5;2;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0
+Prov Hainaut;PARODONTOLOGIE;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Liège;DENTISTERIE GENERALE;22;13;9;7;6;0;0;0;0;0;0;0;0;6;3;0;0;0;0;0;0;0;0
+Prov Liège;PARODONTOLOGIE;3;1;2;0;1;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0
+Prov Liège;ORTHODONTIE;6;5;1;3;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Prov Namur;DENTISTERIE GENERALE;4;1;3;1;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0
+Prov Namur;ORTHODONTIE;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Prov Luxembourg;DENTISTERIE GENERALE;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Luxembourg;ORTHODONTIE;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Prov Région de Bruxelles-capitale;DENTISTERIE GENERALE;39;18;21;10;6;2;0;0;0;0;0;0;0;8;13;0;0;0;0;0;0;0;0
+Prov Région de Bruxelles-capitale;PARODONTOLOGIE;6;2;4;0;2;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0
+Prov Région de Bruxelles-capitale;ORTHODONTIE;11;8;3;2;6;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0

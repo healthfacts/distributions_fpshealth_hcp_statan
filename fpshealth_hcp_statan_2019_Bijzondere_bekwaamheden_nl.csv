@@ -1,0 +1,235 @@
+﻿gebied;specialiteit;totaal;geslacht_vrouw;geslacht_man;vrouw_30-34;vrouw_35-39;vrouw_40-44;vrouw_45-49;vrouw_50-54;vrouw_55-59;vrouw_60-64;vrouw_65plus;man_30-34;man_35-39;man_40-44;man_45-49;man_50-54;man_55-59;man_60-64;man_65plus
+België;Alle specialiteiten;4736;1896;2840;166;286;353;327;245;182;132;205;114;179;233;322;313;379;365;935
+België;Nucleaire in vitro geneeskunde;205;82;123;0;0;2;6;10;24;19;21;1;1;0;3;6;19;30;63
+België;Functionele en professionele revalidatie van gehandicapten;996;385;611;11;23;51;62;66;46;29;97;11;19;28;37;41;58;56;361
+België;Geriatrie;143;50;93;0;6;6;12;9;5;7;5;0;1;2;5;3;7;11;64
+België;Mond-, kaak- en aangezichtschirurgie;214;54;160;7;8;17;9;5;2;5;1;9;17;28;22;20;18;18;28
+België;Intensieve zorgen;990;331;659;41;77;55;73;41;22;12;10;49;79;71;88;82;108;83;99
+België;Pediatrische neurologie;103;76;27;5;11;18;13;6;6;3;14;0;2;1;2;4;1;3;14
+België;Nefrologie;376;159;217;25;31;36;28;11;12;7;9;15;21;23;24;18;31;14;71
+België;Urgentiegeneeskunde;487;139;348;8;14;28;28;25;15;10;11;7;12;26;63;63;47;57;73
+België;Endocrino-diabetologie;376;213;163;26;37;47;30;30;12;15;16;6;7;13;19;18;14;21;65
+België;Neonatologie;145;104;41;9;20;20;18;17;9;7;4;2;3;4;7;8;5;6;6
+België;Oncologie;335;133;202;14;32;42;26;7;6;4;2;8;9;23;32;24;42;33;31
+België;Pediatrische hematologie en oncologie;44;32;12;1;3;8;4;4;7;2;3;0;1;3;1;3;2;0;2
+België;Klinische hematologie;180;95;85;19;21;18;15;7;8;5;2;6;7;9;12;13;13;8;17
+België;Beheer van gezondheidsgegevens;103;29;74;0;0;0;1;5;6;7;10;0;0;1;1;6;11;23;32
+België;Forensische psychiatrie;39;14;25;0;3;5;2;2;2;0;0;0;0;1;6;4;3;2;9
+Vlaams Gewest;Alle specialiteiten;2890;1186;1704;123;197;229;226;159;109;67;76;90;124;155;199;207;215;200;514
+Vlaams Gewest;Nucleaire in vitro geneeskunde;108;38;70;0;0;2;4;8;11;7;6;1;0;0;3;5;12;19;30
+Vlaams Gewest;Functionele en professionele revalidatie van gehandicapten;627;252;375;10;21;42;44;49;31;13;42;11;18;21;26;27;35;28;209
+Vlaams Gewest;Geriatrie;96;34;62;0;6;3;11;5;3;3;3;0;1;2;4;1;4;9;41
+Vlaams Gewest;Mond-, kaak- en aangezichtschirurgie;160;34;126;6;7;9;7;2;0;3;0;7;15;25;17;14;13;15;20
+Vlaams Gewest;Intensieve zorgen;653;250;403;34;55;41;60;32;16;8;4;39;51;48;55;56;51;49;54
+Vlaams Gewest;Pediatrische neurologie;61;43;18;5;5;10;8;5;4;2;4;0;1;0;2;4;1;2;8
+Vlaams Gewest;Nefrologie;207;89;118;15;21;19;17;6;4;5;2;9;14;15;12;12;16;5;35
+Vlaams Gewest;Urgentiegeneeskunde;278;82;196;8;11;20;20;12;4;2;5;6;7;20;40;38;25;28;32
+Vlaams Gewest;Endocrino-diabetologie;190;114;76;18;21;24;14;14;9;10;4;6;4;5;10;8;8;5;30
+Vlaams Gewest;Neonatologie;80;54;26;6;12;7;7;10;8;3;1;2;2;2;3;6;4;4;3
+Vlaams Gewest;Oncologie;236;101;135;10;25;30;19;7;5;4;1;6;6;12;19;19;31;21;21
+Vlaams Gewest;Pediatrische hematologie en oncologie;26;20;6;0;2;6;2;3;5;1;1;0;1;0;0;3;1;0;1
+Vlaams Gewest;Klinische hematologie;94;53;41;11;9;11;11;3;4;4;0;3;4;4;3;8;6;3;10
+Vlaams Gewest;Beheer van gezondheidsgegevens;45;9;36;0;0;0;0;1;3;2;3;0;0;1;1;4;5;11;14
+Vlaams Gewest;Forensische psychiatrie;29;13;16;0;2;5;2;2;2;0;0;0;0;0;4;2;3;1;6
+Waals Gewest;Alle specialiteiten;1325;478;847;29;54;75;84;60;50;41;85;15;42;50;93;78;126;129;314
+Waals Gewest;Nucleaire in vitro geneeskunde;67;30;37;0;0;0;2;1;11;7;9;0;1;0;0;0;5;7;24
+Waals Gewest;Functionele en professionele revalidatie van gehandicapten;270;96;174;1;1;6;16;13;10;12;37;0;1;5;7;9;18;19;115
+Waals Gewest;Geriatrie;39;14;25;0;0;3;1;4;2;2;2;0;0;0;0;2;2;2;19
+Waals Gewest;Mond-, kaak- en aangezichtschirurgie;32;8;24;1;0;5;2;0;0;0;0;1;2;2;4;5;5;0;5
+Waals Gewest;Intensieve zorgen;241;48;193;3;14;4;12;4;6;2;3;7;19;13;27;21;42;28;36
+Waals Gewest;Pediatrische neurologie;31;24;7;0;4;6;5;1;1;0;7;0;0;1;0;0;0;1;5
+Waals Gewest;Nefrologie;115;46;69;6;6;10;7;5;6;1;5;3;5;5;7;5;10;7;27
+Waals Gewest;Urgentiegeneeskunde;171;44;127;0;3;7;7;10;7;6;4;1;5;4;18;20;21;26;32
+Waals Gewest;Endocrino-diabetologie;127;68;59;7;8;14;13;15;1;4;6;0;3;5;7;6;4;13;21
+Waals Gewest;Neonatologie;40;28;12;2;3;6;8;4;0;3;2;0;1;2;4;1;1;1;2
+Waals Gewest;Oncologie;76;24;52;4;5;9;4;0;1;0;1;2;3;7;12;5;7;9;7
+Waals Gewest;Pediatrische hematologie en oncologie;11;7;4;1;0;1;2;0;1;0;2;0;0;2;1;0;1;0;0
+Waals Gewest;Klinische hematologie;53;26;27;4;9;4;4;2;2;0;1;1;2;3;6;2;5;4;4
+Waals Gewest;Beheer van gezondheidsgegevens;46;14;32;0;0;0;1;1;2;4;6;0;0;0;0;1;5;11;15
+Waals Gewest;Forensische psychiatrie;6;1;5;0;1;0;0;0;0;0;0;0;0;1;0;1;0;1;2
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;521;232;289;14;35;49;17;26;23;24;44;9;13;28;30;28;38;36;107
+Brussels Hoofdstedelijk Gewest;Nucleaire in vitro geneeskunde;30;14;16;0;0;0;0;1;2;5;6;0;0;0;0;1;2;4;9
+Brussels Hoofdstedelijk Gewest;Functionele en professionele revalidatie van gehandicapten;99;37;62;0;1;3;2;4;5;4;18;0;0;2;4;5;5;9;37
+Brussels Hoofdstedelijk Gewest;Geriatrie;8;2;6;0;0;0;0;0;0;2;0;0;0;0;1;0;1;0;4
+Brussels Hoofdstedelijk Gewest;Mond-, kaak- en aangezichtschirurgie;22;12;10;0;1;3;0;3;2;2;1;1;0;1;1;1;0;3;3
+Brussels Hoofdstedelijk Gewest;Intensieve zorgen;96;33;63;4;8;10;1;5;0;2;3;3;9;10;6;5;15;6;9
+Brussels Hoofdstedelijk Gewest;Pediatrische neurologie;11;9;2;0;2;2;0;0;1;1;3;0;1;0;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Nefrologie;54;24;30;4;4;7;4;0;2;1;2;3;2;3;5;1;5;2;9
+Brussels Hoofdstedelijk Gewest;Urgentiegeneeskunde;38;13;25;0;0;1;1;3;4;2;2;0;0;2;5;5;1;3;9
+Brussels Hoofdstedelijk Gewest;Endocrino-diabetologie;59;31;28;1;8;9;3;1;2;1;6;0;0;3;2;4;2;3;14
+Brussels Hoofdstedelijk Gewest;Neonatologie;25;22;3;1;5;7;3;3;1;1;1;0;0;0;0;1;0;1;1
+Brussels Hoofdstedelijk Gewest;Oncologie;23;8;15;0;2;3;3;0;0;0;0;0;0;4;1;0;4;3;3
+Brussels Hoofdstedelijk Gewest;Pediatrische hematologie en oncologie;7;5;2;0;1;1;0;1;1;1;0;0;0;1;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Klinische hematologie;33;16;17;4;3;3;0;2;2;1;1;2;1;2;3;3;2;1;3
+Brussels Hoofdstedelijk Gewest;Beheer van gezondheidsgegevens;12;6;6;0;0;0;0;3;1;1;1;0;0;0;0;1;1;1;3
+Brussels Hoofdstedelijk Gewest;Forensische psychiatrie;4;0;4;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1
+Vlaams Brabant;Alle specialiteiten;714;329;385;27;53;68;67;35;29;26;24;23;25;34;41;48;46;41;127
+Vlaams Brabant;Nucleaire in vitro geneeskunde;34;12;22;0;0;0;1;2;1;4;4;1;0;0;1;0;3;5;12
+Vlaams Brabant;Functionele en professionele revalidatie van gehandicapten;170;68;102;3;6;13;12;10;10;4;10;4;3;6;4;8;5;9;63
+Vlaams Brabant;Geriatrie;20;13;7;0;1;2;4;3;0;2;1;0;0;1;1;0;0;3;2
+Vlaams Brabant;Mond-, kaak- en aangezichtschirurgie;30;12;18;2;3;3;2;0;0;2;0;2;1;6;2;0;4;0;3
+Vlaams Brabant;Intensieve zorgen;153;55;98;5;13;11;15;5;2;2;2;11;12;11;12;14;17;8;13
+Vlaams Brabant;Pediatrische neurologie;21;14;7;3;0;5;3;0;1;1;1;0;0;0;0;3;1;1;2
+Vlaams Brabant;Nefrologie;45;23;22;5;8;3;4;2;0;1;0;1;2;5;3;2;2;1;6
+Vlaams Brabant;Urgentiegeneeskunde;63;24;39;1;2;8;6;2;1;1;3;0;2;3;8;7;6;3;10
+Vlaams Brabant;Endocrino-diabetologie;54;36;18;3;6;7;7;4;3;4;2;2;1;0;5;3;0;1;6
+Vlaams Brabant;Neonatologie;26;17;9;1;4;2;2;4;3;1;0;1;1;0;0;4;0;2;1
+Vlaams Brabant;Oncologie;43;21;22;2;6;5;6;1;1;0;0;1;2;2;3;3;3;4;4
+Vlaams Brabant;Pediatrische hematologie en oncologie;12;10;2;0;1;4;2;0;3;0;0;0;0;0;0;1;1;0;0
+Vlaams Brabant;Klinische hematologie;27;15;12;2;2;4;3;1;1;2;0;0;1;0;2;3;1;1;4
+Vlaams Brabant;Beheer van gezondheidsgegevens;11;6;5;0;0;0;0;1;2;2;1;0;0;0;0;0;2;3;0
+Vlaams Brabant;Forensische psychiatrie;5;3;2;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;1
+West-Vlaanderen;Alle specialiteiten;527;171;356;22;30;32;24;26;17;5;15;16;16;29;38;43;43;38;133
+West-Vlaanderen;Nucleaire in vitro geneeskunde;11;3;8;0;0;0;1;0;1;0;1;0;0;0;0;1;0;3;4
+West-Vlaanderen;Functionele en professionele revalidatie van gehandicapten;135;47;88;1;3;6;4;12;9;1;11;0;4;2;6;3;10;6;57
+West-Vlaanderen;Geriatrie;31;11;20;0;4;0;4;1;1;0;1;0;0;0;1;0;1;2;16
+West-Vlaanderen;Mond-, kaak- en aangezichtschirurgie;34;5;29;3;1;0;1;0;0;0;0;3;1;6;5;6;3;2;3
+West-Vlaanderen;Intensieve zorgen;110;39;71;8;9;9;5;5;2;1;0;6;6;9;10;9;11;8;12
+West-Vlaanderen;Pediatrische neurologie;6;3;3;1;1;0;1;0;0;0;0;0;0;0;0;1;0;0;2
+West-Vlaanderen;Nefrologie;40;12;28;0;2;4;3;1;2;0;0;2;1;2;5;3;1;1;13
+West-Vlaanderen;Urgentiegeneeskunde;59;18;41;4;1;3;3;4;1;1;1;2;2;4;7;9;4;7;6
+West-Vlaanderen;Endocrino-diabetologie;22;11;11;2;2;3;1;1;1;1;0;0;0;0;1;2;2;0;6
+West-Vlaanderen;Neonatologie;12;7;5;1;4;0;1;1;0;0;0;0;0;1;0;2;1;1;0
+West-Vlaanderen;Oncologie;48;11;37;1;2;7;0;1;0;0;0;2;1;3;3;4;8;6;10
+West-Vlaanderen;Pediatrische hematologie en oncologie;2;1;1;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0
+West-Vlaanderen;Klinische hematologie;11;3;8;1;1;0;0;0;0;1;0;1;0;2;0;2;1;1;1
+West-Vlaanderen;Beheer van gezondheidsgegevens;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2
+West-Vlaanderen;Forensische psychiatrie;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+Oost-Vlaanderen;Alle specialiteiten;643;272;371;28;47;57;54;33;26;9;18;19;31;35;48;48;51;44;95
+Oost-Vlaanderen;Nucleaire in vitro geneeskunde;34;10;24;0;0;2;0;1;6;0;1;0;0;0;2;3;6;4;9
+Oost-Vlaanderen;Functionele en professionele revalidatie van gehandicapten;130;59;71;1;7;12;11;11;6;1;10;4;3;6;4;9;10;6;29
+Oost-Vlaanderen;Geriatrie;15;4;11;0;0;1;1;0;1;0;1;0;0;0;0;1;1;0;9
+Oost-Vlaanderen;Mond-, kaak- en aangezichtschirurgie;38;10;28;0;2;3;3;1;0;1;0;1;5;3;3;3;1;7;5
+Oost-Vlaanderen;Intensieve zorgen;139;55;84;8;15;7;15;5;4;0;1;6;12;9;12;15;7;13;10
+Oost-Vlaanderen;Pediatrische neurologie;13;7;6;0;0;1;1;2;2;0;1;0;1;0;2;0;0;0;3
+Oost-Vlaanderen;Nefrologie;56;25;31;6;5;4;4;1;2;2;1;2;5;6;1;4;5;0;8
+Oost-Vlaanderen;Urgentiegeneeskunde;52;11;41;2;1;3;3;2;0;0;0;1;1;6;13;4;7;4;5
+Oost-Vlaanderen;Endocrino-diabetologie;46;26;20;5;7;5;2;4;1;2;0;3;1;2;1;1;4;2;6
+Oost-Vlaanderen;Neonatologie;11;9;2;0;1;3;1;2;1;0;1;0;0;0;1;0;0;0;1
+Oost-Vlaanderen;Oncologie;59;28;31;2;5;11;8;0;0;1;1;2;2;3;6;6;7;3;2
+Oost-Vlaanderen;Pediatrische hematologie en oncologie;8;7;1;0;1;1;0;3;1;1;0;0;0;0;0;0;0;0;1
+Oost-Vlaanderen;Klinische hematologie;19;15;4;4;3;2;4;0;1;1;0;0;1;0;0;0;1;1;1
+Oost-Vlaanderen;Beheer van gezondheidsgegevens;14;1;13;0;0;0;0;0;0;0;1;0;0;0;1;2;2;3;5
+Oost-Vlaanderen;Forensische psychiatrie;9;5;4;0;0;2;1;1;1;0;0;0;0;0;2;0;0;1;1
+Antwerpen;Alle specialiteiten;713;311;402;36;46;53;61;49;27;23;16;21;35;32;47;49;54;53;111
+Antwerpen;Nucleaire in vitro geneeskunde;21;10;11;0;0;0;2;3;2;3;0;0;0;0;0;0;3;5;3
+Antwerpen;Functionele en professionele revalidatie van gehandicapten;136;63;73;4;5;7;13;13;6;6;9;3;5;3;7;6;6;4;39
+Antwerpen;Geriatrie;25;5;20;0;0;0;2;1;1;1;0;0;0;0;2;0;2;4;12
+Antwerpen;Mond-, kaak- en aangezichtschirurgie;39;5;34;1;1;1;1;1;0;0;0;1;6;6;3;4;3;4;7
+Antwerpen;Intensieve zorgen;164;66;98;7;10;10;19;10;5;4;1;7;14;11;17;13;10;13;13
+Antwerpen;Pediatrische neurologie;16;14;2;1;2;2;3;3;1;1;1;0;0;0;0;0;0;1;1
+Antwerpen;Nefrologie;51;26;25;4;5;8;4;2;0;2;1;3;3;1;2;2;5;2;7
+Antwerpen;Urgentiegeneeskunde;71;18;53;1;5;4;4;2;1;0;1;2;2;4;7;14;7;11;6
+Antwerpen;Endocrino-diabetologie;51;33;18;7;5;7;2;4;4;2;2;1;2;1;2;1;2;1;8
+Antwerpen;Neonatologie;29;19;10;4;3;2;2;3;3;2;0;1;1;1;2;0;3;1;1
+Antwerpen;Oncologie;60;32;28;3;9;5;5;5;3;2;0;1;0;2;3;3;9;5;5
+Antwerpen;Pediatrische hematologie en oncologie;3;1;2;0;0;1;0;0;0;0;0;0;0;0;0;2;0;0;0
+Antwerpen;Klinische hematologie;29;14;15;4;1;4;3;2;0;0;0;2;2;2;0;3;2;0;4
+Antwerpen;Beheer van gezondheidsgegevens;10;2;8;0;0;0;0;0;1;0;1;0;0;1;0;0;1;2;4
+Antwerpen;Forensische psychiatrie;8;3;5;0;0;2;1;0;0;0;0;0;0;0;2;1;1;0;1
+Limburg;Alle specialiteiten;293;103;190;10;21;19;20;16;10;4;3;11;17;25;25;19;21;24;48
+Limburg;Nucleaire in vitro geneeskunde;8;3;5;0;0;0;0;2;1;0;0;0;0;0;0;1;0;2;2
+Limburg;Functionele en professionele revalidatie van gehandicapten;56;15;41;1;0;4;4;3;0;1;2;0;3;4;5;1;4;3;21
+Limburg;Geriatrie;5;1;4;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;2
+Limburg;Mond-, kaak- en aangezichtschirurgie;19;2;17;0;0;2;0;0;0;0;0;0;2;4;4;1;2;2;2
+Limburg;Intensieve zorgen;87;35;52;6;8;4;6;7;3;1;0;9;7;8;4;5;6;7;6
+Limburg;Pediatrische neurologie;5;5;0;0;2;2;0;0;0;0;1;0;0;0;0;0;0;0;0
+Limburg;Nefrologie;15;3;12;0;1;0;2;0;0;0;0;1;3;1;1;1;3;1;1
+Limburg;Urgentiegeneeskunde;33;11;22;0;2;2;4;2;1;0;0;1;0;3;5;4;1;3;5
+Limburg;Endocrino-diabetologie;17;8;9;1;1;2;2;1;0;1;0;0;0;2;1;1;0;1;4
+Limburg;Neonatologie;2;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+Limburg;Oncologie;26;9;17;2;3;2;0;0;1;1;0;0;1;2;4;3;4;3;0
+Limburg;Pediatrische hematologie en oncologie;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Limburg;Klinische hematologie;8;6;2;0;2;1;1;0;2;0;0;0;0;0;1;0;1;0;0
+Limburg;Beheer van gezondheidsgegevens;6;0;6;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;3
+Limburg;Forensische psychiatrie;5;2;3;0;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+Waals Brabant;Alle specialiteiten;287;98;189;5;7;12;11;14;17;14;18;2;7;11;18;18;26;28;79
+Waals Brabant;Nucleaire in vitro geneeskunde;20;11;9;0;0;0;0;0;6;3;2;0;0;0;0;0;0;0;9
+Waals Brabant;Functionele en professionele revalidatie van gehandicapten;70;22;48;0;0;2;2;4;1;3;10;0;0;1;3;3;2;5;34
+Waals Brabant;Geriatrie;10;4;6;0;0;1;0;2;0;1;0;0;0;0;0;1;1;1;3
+Waals Brabant;Mond-, kaak- en aangezichtschirurgie;7;1;6;1;0;0;0;0;0;0;0;0;0;1;1;2;1;0;1
+Waals Brabant;Intensieve zorgen;53;9;44;1;2;0;2;0;2;1;1;1;5;4;4;6;10;8;6
+Waals Brabant;Pediatrische neurologie;7;7;0;0;1;2;0;1;1;0;2;0;0;0;0;0;0;0;0
+Waals Brabant;Nefrologie;34;16;18;3;2;0;3;2;4;1;1;0;1;1;2;1;4;0;9
+Waals Brabant;Urgentiegeneeskunde;28;6;22;0;1;0;0;2;2;1;0;0;0;0;4;3;3;5;7
+Waals Brabant;Endocrino-diabetologie;21;6;15;0;0;1;2;1;1;1;0;0;0;2;1;1;1;3;7
+Waals Brabant;Neonatologie;10;7;3;0;0;3;2;0;0;2;0;0;1;0;1;0;0;1;0
+Waals Brabant;Oncologie;11;2;9;0;1;1;0;0;0;0;0;0;0;2;1;1;1;4;0
+Waals Brabant;Klinische hematologie;9;4;5;0;0;2;0;2;0;0;0;1;0;0;1;0;2;1;0
+Waals Brabant;Beheer van gezondheidsgegevens;6;3;3;0;0;0;0;0;0;1;2;0;0;0;0;0;1;0;2
+Waals Brabant;Forensische psychiatrie;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+Henegouwen;Alle specialiteiten;318;100;218;4;12;16;23;10;8;6;21;1;7;9;15;22;43;43;78
+Henegouwen;Nucleaire in vitro geneeskunde;19;4;15;0;0;0;0;0;3;1;0;0;0;0;0;0;2;5;8
+Henegouwen;Functionele en professionele revalidatie van gehandicapten;52;15;37;0;0;1;4;0;2;2;6;0;0;0;1;4;6;3;23
+Henegouwen;Geriatrie;14;4;10;0;0;1;0;0;0;1;2;0;0;0;0;1;0;1;8
+Henegouwen;Mond-, kaak- en aangezichtschirurgie;9;4;5;0;0;2;2;0;0;0;0;0;0;0;0;2;2;0;1
+Henegouwen;Intensieve zorgen;58;11;47;0;3;1;3;1;1;1;1;1;1;1;6;4;15;9;10
+Henegouwen;Pediatrische neurologie;6;5;1;0;1;1;1;0;0;0;2;0;0;0;0;0;0;0;1
+Henegouwen;Nefrologie;24;7;17;1;1;2;1;1;0;0;1;0;3;0;0;0;4;2;8
+Henegouwen;Urgentiegeneeskunde;41;7;34;0;0;1;2;1;0;0;3;0;1;1;2;7;8;7;8
+Henegouwen;Endocrino-diabetologie;33;19;14;2;4;4;3;4;0;1;1;0;1;2;1;1;1;4;4
+Henegouwen;Neonatologie;9;9;0;0;0;1;3;3;0;0;2;0;0;0;0;0;0;0;0
+Henegouwen;Oncologie;26;6;20;1;0;1;2;0;1;0;1;0;0;3;5;2;2;4;4
+Henegouwen;Klinische hematologie;11;6;5;0;3;1;1;0;1;0;0;0;1;1;0;0;2;1;0
+Henegouwen;Beheer van gezondheidsgegevens;14;3;11;0;0;0;1;0;0;0;2;0;0;0;0;1;1;6;3
+Henegouwen;Forensische psychiatrie;2;0;2;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+Luik;Alle specialiteiten;466;187;279;14;23;31;31;25;14;13;36;7;17;18;38;27;31;39;102
+Luik;Nucleaire in vitro geneeskunde;19;11;8;0;0;0;2;1;2;1;5;0;1;0;0;0;3;1;3
+Luik;Functionele en professionele revalidatie van gehandicapten;113;45;68;1;0;2;6;8;4;5;19;0;1;4;3;0;6;10;44
+Luik;Geriatrie;9;4;5;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;5
+Luik;Mond-, kaak- en aangezichtschirurgie;5;1;4;0;0;1;0;0;0;0;0;0;1;1;0;0;1;0;1
+Luik;Intensieve zorgen;83;20;63;1;8;3;5;0;2;0;1;3;9;5;12;6;8;5;15
+Luik;Pediatrische neurologie;11;7;4;0;2;3;2;0;0;0;0;0;0;0;0;0;0;1;3
+Luik;Nefrologie;35;12;23;1;0;5;2;1;0;0;3;3;1;1;3;2;2;5;6
+Luik;Urgentiegeneeskunde;60;18;42;0;0;3;2;5;5;2;1;0;2;1;9;10;6;7;7
+Luik;Endocrino-diabetologie;48;28;20;5;1;6;5;6;0;1;4;0;1;1;2;3;1;5;7
+Luik;Neonatologie;15;8;7;1;3;1;1;1;0;1;0;0;0;1;3;1;0;0;2
+Luik;Oncologie;24;11;13;2;3;4;2;0;0;0;0;1;0;1;3;2;3;1;2
+Luik;Pediatrische hematologie en oncologie;11;7;4;1;0;1;2;0;1;0;2;0;0;2;1;0;1;0;0
+Luik;Klinische hematologie;18;9;9;2;5;1;1;0;0;0;0;0;1;1;2;2;0;1;2
+Luik;Beheer van gezondheidsgegevens;12;5;7;0;0;0;0;1;0;3;1;0;0;0;0;0;0;3;4
+Luik;Forensische psychiatrie;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+Namen;Alle specialiteiten;195;72;123;4;11;12;16;7;8;7;7;4;9;10;15;10;21;12;42
+Namen;Nucleaire in vitro geneeskunde;6;2;4;0;0;0;0;0;0;1;1;0;0;0;0;0;0;1;3
+Namen;Functionele en professionele revalidatie van gehandicapten;30;13;17;0;1;1;4;0;3;2;2;0;0;0;0;2;4;1;10
+Namen;Geriatrie;4;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;2
+Namen;Mond-, kaak- en aangezichtschirurgie;9;1;8;0;0;1;0;0;0;0;0;1;1;0;3;1;1;0;1
+Namen;Intensieve zorgen;40;7;33;1;1;0;2;2;1;0;0;1;3;3;5;4;8;4;5
+Namen;Pediatrische neurologie;6;4;2;0;0;0;2;0;0;0;2;0;0;1;0;0;0;0;1
+Namen;Nefrologie;17;8;9;0;3;3;1;0;1;0;0;0;0;2;2;2;0;0;3
+Namen;Urgentiegeneeskunde;31;11;20;0;2;2;3;1;0;3;0;1;2;2;2;0;4;3;6
+Namen;Endocrino-diabetologie;17;10;7;0;3;1;1;4;0;1;0;0;1;0;1;1;1;1;2
+Namen;Neonatologie;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0
+Namen;Oncologie;11;4;7;1;0;3;0;0;0;0;0;1;2;1;1;0;1;0;1
+Namen;Klinische hematologie;11;7;4;2;1;0;2;0;1;0;1;0;0;0;1;0;0;1;2
+Namen;Beheer van gezondheidsgegevens;10;2;8;0;0;0;0;0;1;0;1;0;0;0;0;0;1;1;6
+Luxemburg;Alle specialiteiten;59;21;38;2;1;4;3;4;3;1;3;1;2;2;7;1;5;7;13
+Luxemburg;Nucleaire in vitro geneeskunde;3;2;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1
+Luxemburg;Functionele en professionele revalidatie van gehandicapten;5;1;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;4
+Luxemburg;Geriatrie;2;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+Luxemburg;Mond-, kaak- en aangezichtschirurgie;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+Luxemburg;Intensieve zorgen;7;1;6;0;0;0;0;1;0;0;0;1;1;0;0;1;1;2;0
+Luxemburg;Pediatrische neurologie;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Luxemburg;Nefrologie;5;3;2;1;0;0;0;1;1;0;0;0;0;1;0;0;0;0;1
+Luxemburg;Urgentiegeneeskunde;11;2;9;0;0;1;0;1;0;0;0;0;0;0;1;0;0;4;4
+Luxemburg;Endocrino-diabetologie;8;5;3;0;0;2;2;0;0;0;1;0;0;0;2;0;0;0;1
+Luxemburg;Neonatologie;3;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+Luxemburg;Oncologie;4;1;3;0;1;0;0;0;0;0;0;0;1;0;2;0;0;0;0
+Luxemburg;Klinische hematologie;4;0;4;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0
+Luxemburg;Beheer van gezondheidsgegevens;4;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;2;1;0
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;521;232;289;14;35;49;17;26;23;24;44;9;13;28;30;28;38;36;107
+Brussels Hoofdstedelijk Gewest;Nucleaire in vitro geneeskunde;30;14;16;0;0;0;0;1;2;5;6;0;0;0;0;1;2;4;9
+Brussels Hoofdstedelijk Gewest;Functionele en professionele revalidatie van gehandicapten;99;37;62;0;1;3;2;4;5;4;18;0;0;2;4;5;5;9;37
+Brussels Hoofdstedelijk Gewest;Geriatrie;8;2;6;0;0;0;0;0;0;2;0;0;0;0;1;0;1;0;4
+Brussels Hoofdstedelijk Gewest;Mond-, kaak- en aangezichtschirurgie;22;12;10;0;1;3;0;3;2;2;1;1;0;1;1;1;0;3;3
+Brussels Hoofdstedelijk Gewest;Intensieve zorgen;96;33;63;4;8;10;1;5;0;2;3;3;9;10;6;5;15;6;9
+Brussels Hoofdstedelijk Gewest;Pediatrische neurologie;11;9;2;0;2;2;0;0;1;1;3;0;1;0;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Nefrologie;54;24;30;4;4;7;4;0;2;1;2;3;2;3;5;1;5;2;9
+Brussels Hoofdstedelijk Gewest;Urgentiegeneeskunde;38;13;25;0;0;1;1;3;4;2;2;0;0;2;5;5;1;3;9
+Brussels Hoofdstedelijk Gewest;Endocrino-diabetologie;59;31;28;1;8;9;3;1;2;1;6;0;0;3;2;4;2;3;14
+Brussels Hoofdstedelijk Gewest;Neonatologie;25;22;3;1;5;7;3;3;1;1;1;0;0;0;0;1;0;1;1
+Brussels Hoofdstedelijk Gewest;Oncologie;23;8;15;0;2;3;3;0;0;0;0;0;0;4;1;0;4;3;3
+Brussels Hoofdstedelijk Gewest;Pediatrische hematologie en oncologie;7;5;2;0;1;1;0;1;1;1;0;0;0;1;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Klinische hematologie;33;16;17;4;3;3;0;2;2;1;1;2;1;2;3;3;2;1;3
+Brussels Hoofdstedelijk Gewest;Beheer van gezondheidsgegevens;12;6;6;0;0;0;0;3;1;1;1;0;0;0;0;1;1;1;3
+Brussels Hoofdstedelijk Gewest;Forensische psychiatrie;4;0;4;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1

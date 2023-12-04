@@ -1,0 +1,60 @@
+﻿gebied;specialiteit;totaal;geslacht_vrouw;geslacht_man;vrouw_min25;vrouw_25-29;vrouw_30-34;vrouw_35-39;vrouw_40-44;vrouw_45-49;vrouw_50-54;vrouw_55-59;vrouw_60-64;vrouw_65plus;man_min25;man_25-29;man_30-34;man_35-39;man_40-44;man_45-49;man_50-54;man_55-59;man_60-64;man_65plus
+België;Alle specialiteiten;9846;4907;4939;40;489;544;358;408;503;475;661;755;674;9;247;304;211;252;228;287;780;1101;1520
+België;Algemeen tandarts;9109;4430;4679;40;462;478;309;360;449;399;598;709;626;9;232;267;188;225;205;273;734;1061;1485
+België;Parodontologie;197;107;90;0;6;20;16;16;14;22;9;3;1;0;10;17;11;15;8;9;12;3;5
+België;Orthodontie;540;370;170;0;21;46;33;32;40;54;54;43;47;0;5;20;12;12;15;5;34;37;30
+Vlaams Gewest;Alle specialiteiten;5752;2890;2862;26;261;320;201;238;342;272;421;471;338;6;125;155;95;135;129;135;454;707;921
+Vlaams Gewest;Algemeen tandarts;5288;2584;2704;26;246;273;173;210;308;223;378;435;312;6;114;136;79;119;117;126;428;680;899
+Vlaams Gewest;Parodontologie;144;82;62;0;5;16;8;11;13;18;7;3;1;0;8;12;9;8;6;5;8;2;4
+Vlaams Gewest;Orthodontie;320;224;96;0;10;31;20;17;21;31;36;33;25;0;3;7;7;8;6;4;18;25;18
+Waals Gewest;Alle specialiteiten;2858;1407;1451;12;135;132;109;117;120;141;182;225;234;1;61;70;68;73;67;97;240;308;466
+Waals Gewest;Algemeen tandarts;2674;1284;1390;12;126;123;93;104;104;122;168;217;215;1;61;62;64;68;62;93;226;296;457
+Waals Gewest;Parodontologie;34;18;16;0;1;2;5;4;1;4;1;0;0;0;0;3;2;3;2;3;2;1;0
+Waals Gewest;Orthodontie;150;105;45;0;8;7;11;9;15;15;13;8;19;0;0;5;2;2;3;1;12;11;9
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;1236;610;626;2;93;92;48;53;41;62;58;59;102;2;61;79;48;44;32;55;86;86;133
+Brussels Hoofdstedelijk Gewest;Algemeen tandarts;1147;562;585;2;90;82;43;46;37;54;52;57;99;2;57;69;45;38;26;54;80;85;129
+Brussels Hoofdstedelijk Gewest;Parodontologie;19;7;12;0;0;2;3;1;0;0;1;0;0;0;2;2;0;4;0;1;2;0;1
+Brussels Hoofdstedelijk Gewest;Orthodontie;70;41;29;0;3;8;2;6;4;8;5;2;3;0;2;8;3;2;6;0;4;1;3
+Vlaams Brabant;Alle specialiteiten;1292;721;571;5;47;62;56;61;95;87;111;117;80;2;24;34;25;31;39;30;108;129;149
+Vlaams Brabant;Algemeen tandarts;1169;638;531;5;44;55;50;53;82;72;100;105;72;2;22;29;23;25;35;28;103;122;142
+Vlaams Brabant;Parodontologie;39;20;19;0;0;2;2;0;6;5;2;3;0;0;2;4;1;3;3;1;2;1;2
+Vlaams Brabant;Orthodontie;84;63;21;0;3;5;4;8;7;10;9;9;8;0;0;1;1;3;1;1;3;6;5
+West-Vlaanderen;Alle specialiteiten;1058;486;572;4;47;58;33;48;60;32;62;87;55;1;21;16;15;21;15;20;68;156;239
+West-Vlaanderen;Algemeen tandarts;996;447;549;4;45;49;32;42;57;27;56;83;52;1;19;15;13;18;12;18;63;154;236
+West-Vlaanderen;Parodontologie;22;15;7;0;1;5;0;3;2;3;1;0;0;0;2;0;2;1;0;1;1;0;0
+West-Vlaanderen;Orthodontie;40;24;16;0;1;4;1;3;1;2;5;4;3;0;0;1;0;2;3;1;4;2;3
+Oost-Vlaanderen;Alle specialiteiten;1279;652;627;7;83;75;33;48;82;57;78;93;96;2;33;46;14;29;33;35;93;145;197
+Oost-Vlaanderen;Algemeen tandarts;1160;577;583;7;78;60;26;43;70;44;72;87;90;2;29;37;9;24;31;32;85;141;193
+Oost-Vlaanderen;Parodontologie;40;22;18;0;2;5;3;2;4;6;0;0;0;0;2;6;4;2;1;2;1;0;0
+Oost-Vlaanderen;Orthodontie;79;53;26;0;3;10;4;3;8;7;6;6;6;0;2;3;1;3;1;1;7;4;4
+Antwerpen;Alle specialiteiten;1412;694;718;7;52;90;57;46;64;69;121;109;79;1;30;39;29;35;29;41;124;181;209
+Antwerpen;Algemeen tandarts;1302;617;685;7;48;77;48;39;59;55;108;103;73;1;29;37;24;34;26;40;117;174;203
+Antwerpen;Parodontologie;31;18;13;0;2;3;3;4;1;3;1;0;1;0;0;2;2;1;2;0;3;1;2
+Antwerpen;Orthodontie;79;59;20;0;2;10;6;3;4;11;12;6;5;0;1;0;3;0;1;1;4;6;4
+Limburg;Alle specialiteiten;711;337;374;3;32;35;22;35;41;27;49;65;28;0;17;20;12;19;13;9;61;96;127
+Limburg;Algemeen tandarts;661;305;356;3;31;32;17;33;40;25;42;57;25;0;15;18;10;18;13;8;60;89;125
+Limburg;Parodontologie;12;7;5;0;0;1;0;2;0;1;3;0;0;0;2;0;0;1;0;1;1;0;0
+Limburg;Orthodontie;38;25;13;0;1;2;5;0;1;1;4;8;3;0;0;2;2;0;0;0;0;7;2
+Waals Brabant;Alle specialiteiten;596;330;266;4;18;27;23;27;33;35;33;61;69;0;6;18;16;14;19;19;37;49;88
+Waals Brabant;Algemeen tandarts;549;299;250;4;16;24;22;24;26;30;30;60;63;0;6;16;15;13;18;17;35;45;85
+Waals Brabant;Parodontologie;8;2;6;0;0;0;0;1;0;1;0;0;0;0;0;1;1;1;0;2;0;1;0
+Waals Brabant;Orthodontie;39;29;10;0;2;3;1;2;7;4;3;1;6;0;0;1;0;0;1;0;2;3;3
+Henegouwen;Alle specialiteiten;712;338;374;1;24;28;32;25;33;33;53;58;51;0;13;16;19;14;19;24;54;89;126
+Henegouwen;Algemeen tandarts;683;319;364;1;24;27;30;24;29;30;51;55;48;0;13;16;19;14;19;23;51;84;125
+Henegouwen;Parodontologie;4;3;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0
+Henegouwen;Orthodontie;25;16;9;0;0;0;2;1;3;2;2;3;3;0;0;0;0;0;0;0;3;5;1
+Luik;Alle specialiteiten;1034;487;547;5;72;52;42;46;36;44;54;71;65;1;32;29;25;30;14;36;100;114;166
+Luik;Algemeen tandarts;952;431;521;5;65;47;31;39;33;37;50;67;57;1;32;25;22;27;11;36;94;111;162
+Luik;Parodontologie;18;11;7;0;1;1;5;2;0;2;0;0;0;0;0;2;1;1;2;0;1;0;0
+Luik;Orthodontie;64;45;19;0;6;4;6;5;3;5;4;4;8;0;0;2;2;2;1;0;5;3;4
+Namen;Alle specialiteiten;343;169;174;1;10;19;10;12;14;18;27;22;36;0;8;3;5;11;10;10;31;33;63
+Namen;Algemeen tandarts;327;157;170;1;10;19;9;10;12;15;24;22;35;0;8;3;5;10;10;10;29;33;62
+Namen;Parodontologie;4;2;2;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0
+Namen;Orthodontie;12;10;2;0;0;0;1;1;2;3;2;0;1;0;0;0;0;0;0;0;1;0;1
+Luxemburg;Alle specialiteiten;173;83;90;1;11;6;2;7;4;11;15;13;13;0;2;4;3;4;5;8;18;23;23
+Luxemburg;Algemeen tandarts;163;78;85;1;11;6;1;7;4;10;13;13;12;0;2;2;3;4;4;7;17;23;23
+Luxemburg;Orthodontie;10;5;5;0;0;0;1;0;0;1;2;0;1;0;0;2;0;0;1;1;1;0;0
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;1236;610;626;2;93;92;48;53;41;62;58;59;102;2;61;79;48;44;32;55;86;86;133
+Brussels Hoofdstedelijk Gewest;Algemeen tandarts;1147;562;585;2;90;82;43;46;37;54;52;57;99;2;57;69;45;38;26;54;80;85;129
+Brussels Hoofdstedelijk Gewest;Parodontologie;19;7;12;0;0;2;3;1;0;0;1;0;0;0;2;2;0;4;0;1;2;0;1
+Brussels Hoofdstedelijk Gewest;Orthodontie;70;41;29;0;3;8;2;6;4;8;5;2;3;0;2;8;3;2;6;0;4;1;3

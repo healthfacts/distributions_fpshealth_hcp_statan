@@ -1,0 +1,564 @@
+﻿gebied;specialiteit;totaal;geslacht_vrouw;geslacht_man;vrouw_25-29;vrouw_30-34;vrouw_35-39;vrouw_40-44;vrouw_45-49;vrouw_50-54;vrouw_55-59;vrouw_60-64;vrouw_65plus;man_25-29;man_30-34;man_35-39;man_40-44;man_45-49;man_50-54;man_55-59;man_60-64;man_65plus
+België;Alle specialiteiten;29560;12691;16869;35;1681;1713;1906;1918;1543;1255;949;1691;13;1063;1070;1427;1627;1587;2116;2079;5887
+België;Geriatrie;368;238;130;0;47;34;41;49;27;18;11;11;0;6;11;9;11;10;15;26;42
+België;Urgentiegeneeskunde;254;123;131;0;45;49;12;8;6;3;0;0;0;39;35;20;18;9;5;4;1
+België;Gerechtelijke geneeskunde;16;5;11;0;3;0;1;1;0;0;0;0;0;0;4;3;0;0;1;1;2
+België;Beheer van gezondheidsgegevens;58;22;36;0;0;0;0;1;6;8;6;1;0;0;0;1;4;5;8;12;6
+België;Anesthesie-reanimatie;2723;1127;1596;3;173;155;155;177;137;97;65;165;2;177;146;183;198;196;201;176;317
+België;Heelkunde;1801;386;1415;0;63;68;64;66;35;27;33;30;0;69;102;120;135;135;159;169;526
+België;Neurochirurgie;250;32;218;0;8;7;1;7;5;3;1;0;0;19;24;29;32;20;19;25;50
+België;Plastische, reconstructieve en esthetische heelkunde;286;73;213;0;9;16;8;10;5;9;10;6;0;11;20;29;23;28;34;16;52
+België;Urologie;512;76;436;0;18;15;17;7;10;4;5;0;0;40;44;37;57;32;51;41;134
+België;Orthopedische heelkunde;1276;144;1132;0;31;27;15;21;18;15;7;10;0;81;100;125;113;119;158;139;297
+België;Neurologie;659;325;334;0;50;66;59;41;47;23;19;20;1;31;22;37;44;37;49;42;71
+België;Psychiatrie;951;433;518;0;1;10;16;72;110;91;48;85;0;0;5;10;57;71;80;64;231
+België;Neuropsychiatrie;221;52;169;0;0;0;0;0;0;4;7;41;0;0;0;0;0;0;2;11;156
+België;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;388;307;81;0;42;71;73;59;17;13;6;26;0;11;8;15;11;4;7;8;17
+België;Psychiatrie, meer bepaald volwassenpsychiatrie;832;412;420;0;59;82;100;69;18;14;24;46;0;30;26;63;51;12;17;54;167
+België;Pneumologie;649;278;371;0;39;53;68;48;24;17;9;20;0;27;20;34;34;35;54;66;101
+België;Gastro-enterologie;808;282;526;0;50;65;49;42;24;19;11;22;0;32;30;59;54;57;77;68;149
+België;Cardiologie;1315;316;999;0;38;62;56;49;40;25;24;22;0;63;79;118;115;111;132;104;277
+België;Inwendige geneeskunde;1950;772;1178;1;116;132;164;119;79;51;48;62;1;57;63;70;124;106;145;107;505
+België;Reumatologie;284;132;152;0;11;19;16;22;18;15;8;23;0;5;7;9;7;11;21;18;74
+België;Acute geneeskunde;312;137;175;2;9;12;19;39;27;10;14;5;0;5;11;17;35;44;30;17;16
+België;Gynaecologie-verloskunde;1767;979;788;0;191;141;152;133;119;85;73;85;0;24;28;45;62;68;95;108;358
+België;Oftalmologie;1313;806;507;12;96;83;100;93;80;85;70;187;8;34;26;39;44;43;57;56;200
+België;Otorhinolaryngologie;774;344;430;2;49;50;50;43;54;36;22;38;0;23;20;25;38;33;60;67;164
+België;Stomatologie;386;101;285;0;17;10;19;17;10;5;10;13;0;28;22;29;26;27;29;31;93
+België;Dermato-venereologie;901;650;251;14;83;59;87;87;86;65;44;125;1;10;15;12;19;17;35;30;112
+België;Pediatrie;2016;1348;668;1;201;177;213;192;151;134;69;210;0;36;32;45;41;59;43;73;339
+België;Fysische geneeskunde en revalidatie;615;289;326;0;44;25;44;40;42;38;24;32;0;24;24;21;24;21;43;43;126
+België;Klinische biologie;725;354;371;0;21;23;36;41;35;37;43;118;0;9;15;16;15;26;39;52;199
+België;Rontgendiagnose;1923;582;1341;0;76;81;78;72;91;75;41;68;0;111;92;107;101;132;211;179;408
+België;Radiotherapie - oncologie;254;144;110;0;17;20;21;26;18;17;11;14;0;11;11;17;12;11;11;20;17
+België;Nucleaire geneeskunde;355;128;227;0;11;17;18;13;19;26;8;16;0;15;10;11;20;16;25;19;111
+België;Pathologische anatomie;417;229;188;0;24;27;29;35;31;27;20;36;0;15;6;20;18;10;22;25;72
+België;Medische oncologie;304;171;133;0;30;36;24;28;22;12;8;11;0;15;7;9;22;23;20;12;25
+België;Klinische genetica;73;45;28;0;0;4;8;14;6;5;3;5;0;0;2;6;6;5;4;3;2
+België;Arbeidsgeneeskunde;1186;652;534;0;9;15;88;154;89;111;92;94;0;5;3;34;43;28;83;89;249
+België;Verzekeringsgeneeskunde en medische expertise;638;197;441;0;0;2;5;23;37;31;55;44;0;0;0;3;13;26;74;104;221
+Vlaams Gewest;Alle specialiteiten;16132;6777;9355;19;987;919;1101;1108;863;677;437;666;3;646;605;859;951;878;1221;1165;3027
+Vlaams Gewest;Geriatrie;220;130;90;0;26;15;19;30;16;9;8;7;0;5;8;5;6;7;12;17;30
+Vlaams Gewest;Urgentiegeneeskunde;119;67;52;0;26;26;6;5;3;1;0;0;0;26;11;6;6;1;1;1;0
+Vlaams Gewest;Gerechtelijke geneeskunde;6;2;4;0;2;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;1
+Vlaams Gewest;Beheer van gezondheidsgegevens;26;9;17;0;0;0;0;1;0;5;2;1;0;0;0;0;3;3;1;7;3
+Vlaams Gewest;Anesthesie-reanimatie;1572;654;918;1;115;85;95;98;91;63;38;68;2;113;77;106;113;114;117;99;177
+Vlaams Gewest;Heelkunde;1002;214;788;0;41;38;44;38;17;10;11;15;0;42;67;73;84;80;85;94;263
+Vlaams Gewest;Neurochirurgie;160;18;142;0;5;3;0;5;4;1;0;0;0;10;17;24;20;14;11;14;32
+Vlaams Gewest;Plastische, reconstructieve en esthetische heelkunde;167;40;127;0;4;10;2;6;3;4;7;4;0;5;8;18;14;17;23;9;33
+Vlaams Gewest;Urologie;315;49;266;0;14;12;8;4;7;2;2;0;0;24;28;23;38;19;35;27;72
+Vlaams Gewest;Orthopedische heelkunde;755;81;674;0;21;14;9;10;13;8;2;4;0;54;55;87;71;71;98;86;152
+Vlaams Gewest;Neurologie;357;176;181;0;35;40;30;18;27;9;8;9;0;17;12;21;26;13;26;24;42
+Vlaams Gewest;Psychiatrie;267;138;129;0;0;0;2;28;58;38;5;7;0;0;0;3;24;42;35;10;15
+Vlaams Gewest;Neuropsychiatrie;122;26;96;0;0;0;0;0;0;3;6;17;0;0;0;0;0;0;0;9;87
+Vlaams Gewest;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;262;217;45;0;30;40;57;44;11;11;5;19;0;3;5;6;8;1;6;4;12
+Vlaams Gewest;Psychiatrie, meer bepaald volwassenpsychiatrie;582;258;324;0;33;51;68;35;7;8;18;38;0;20;12;31;36;2;13;50;160
+Vlaams Gewest;Pneumologie;352;154;198;0;24;32;42;25;12;11;4;4;0;18;13;16;18;17;29;38;49
+Vlaams Gewest;Gastro-enterologie;438;155;283;0;31;39;30;26;13;6;5;5;0;22;20;35;30;29;43;38;66
+Vlaams Gewest;Cardiologie;676;129;547;0;15;29;23;26;17;9;3;7;0;38;51;77;67;67;66;56;125
+Vlaams Gewest;Inwendige geneeskunde;943;375;568;1;58;70;76;64;32;27;29;18;0;29;30;30;57;49;61;38;274
+Vlaams Gewest;Reumatologie;145;65;80;0;8;9;9;10;10;7;5;7;0;2;6;7;5;5;8;9;38
+Vlaams Gewest;Acute geneeskunde;140;57;83;1;7;7;12;14;8;3;4;1;0;4;8;14;18;21;8;7;3
+Vlaams Gewest;Gynaecologie-verloskunde;875;471;404;0;105;60;88;73;63;37;25;20;0;11;13;23;30;34;58;54;181
+Vlaams Gewest;Oftalmologie;759;478;281;8;56;45;60;65;54;55;41;94;1;12;13;21;21;21;36;31;125
+Vlaams Gewest;Otorhinolaryngologie;416;182;234;1;29;30;27;21;27;20;11;16;0;12;15;16;26;16;28;43;78
+Vlaams Gewest;Stomatologie;231;57;174;0;11;9;9;13;5;2;5;3;0;19;15;25;18;17;22;19;39
+Vlaams Gewest;Dermato-venereologie;498;363;135;6;48;33;55;57;50;33;23;58;0;7;9;6;13;9;19;17;55
+Vlaams Gewest;Pediatrie;999;666;333;1;102;85;103;106;87;73;30;79;0;21;12;23;20;30;24;45;158
+Vlaams Gewest;Fysische geneeskunde en revalidatie;373;165;208;0;26;13;26;23;24;25;17;11;0;19;16;11;19;14;31;20;78
+Vlaams Gewest;Klinische biologie;380;174;206;0;9;16;25;29;21;20;15;39;0;7;9;11;12;22;24;30;91
+Vlaams Gewest;Rontgendiagnose;1067;298;769;0;44;42;40;49;45;36;14;28;0;70;51;70;66;73;138;105;196
+Vlaams Gewest;Radiotherapie - oncologie;157;87;70;0;13;9;19;17;14;10;3;2;0;7;7;12;5;6;10;15;8
+Vlaams Gewest;Nucleaire geneeskunde;179;62;117;0;8;11;10;7;13;7;2;4;0;9;5;7;11;11;15;9;50
+Vlaams Gewest;Pathologische anatomie;261;132;129;0;14;17;23;21;18;15;12;12;0;7;4;16;16;7;13;15;51
+Vlaams Gewest;Medische oncologie;147;89;58;0;19;14;17;16;9;8;4;2;0;9;3;4;11;11;9;3;8
+Vlaams Gewest;Klinische genetica;46;27;19;0;0;1;5;9;2;5;3;2;0;0;2;3;3;5;2;3;1
+Vlaams Gewest;Arbeidsgeneeskunde;776;408;368;0;8;12;59;99;58;74;48;50;0;4;2;28;30;15;67;63;159
+Vlaams Gewest;Verzekeringsgeneeskunde en medische expertise;342;104;238;0;0;2;3;16;24;22;22;15;0;0;0;1;6;15;46;55;115
+Waals Gewest;Alle specialiteiten;9527;4011;5516;9;428;528;536;621;491;405;340;653;5;257;324;404;511;543;695;687;2090
+Waals Gewest;Geriatrie;115;85;30;0;18;13;15;17;9;8;1;4;0;1;2;3;4;2;2;6;10
+Waals Gewest;Urgentiegeneeskunde;89;32;57;0;11;14;3;2;2;0;0;0;0;9;17;8;11;6;3;2;1
+Waals Gewest;Gerechtelijke geneeskunde;8;2;6;0;0;0;1;1;0;0;0;0;0;0;2;3;0;0;0;0;1
+Waals Gewest;Beheer van gezondheidsgegevens;21;7;14;0;0;0;0;0;2;3;2;0;0;0;0;0;1;2;5;3;3
+Waals Gewest;Anesthesie-reanimatie;866;330;536;2;31;52;44;65;32;25;13;66;0;41;49;62;69;60;72;66;117
+Waals Gewest;Heelkunde;589;117;472;0;13;21;13;21;15;13;14;7;0;13;23;37;40;38;61;63;197
+Waals Gewest;Neurochirurgie;68;11;57;0;2;3;1;1;1;2;1;0;0;8;4;4;9;5;8;7;12
+Waals Gewest;Plastische, reconstructieve en esthetische heelkunde;80;23;57;0;3;4;3;4;2;4;2;1;0;5;10;8;3;9;10;3;9
+Waals Gewest;Urologie;150;22;128;0;3;2;7;2;3;2;3;0;0;9;13;11;16;12;11;11;45
+Waals Gewest;Orthopedische heelkunde;400;42;358;0;6;9;5;10;1;4;4;3;0;15;37;28;33;42;49;44;110
+Waals Gewest;Neurologie;216;102;114;0;8;19;19;19;13;10;6;8;0;9;6;11;11;17;18;16;26
+Waals Gewest;Psychiatrie;426;184;242;0;1;9;10;32;37;22;29;44;0;0;5;5;22;19;28;29;134
+Waals Gewest;Neuropsychiatrie;65;14;51;0;0;0;0;0;0;0;1;13;0;0;0;0;0;0;2;2;47
+Waals Gewest;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;74;54;20;0;8;16;9;12;3;0;1;5;0;2;1;5;3;3;1;1;4
+Waals Gewest;Psychiatrie, meer bepaald volwassenpsychiatrie;145;91;54;0;13;19;24;24;5;1;3;2;0;5;9;16;9;9;1;1;4
+Waals Gewest;Pneumologie;225;90;135;0;9;13;20;18;9;5;4;12;0;7;6;13;15;15;19;22;38
+Waals Gewest;Gastro-enterologie;266;89;177;0;14;22;12;9;8;9;5;10;0;6;4;16;19;22;28;24;58
+Waals Gewest;Cardiologie;441;117;324;0;17;19;20;17;15;12;10;7;0;16;18;27;35;34;45;37;112
+Waals Gewest;Inwendige geneeskunde;668;255;413;0;38;35;52;41;35;15;13;26;1;15;18;25;48;40;66;50;150
+Waals Gewest;Reumatologie;99;49;50;0;3;7;4;9;7;6;1;12;0;2;1;2;2;3;9;7;24
+Waals Gewest;Acute geneeskunde;136;60;76;0;0;1;6;22;15;6;8;2;0;1;2;2;16;20;18;8;9
+Waals Gewest;Gynaecologie-verloskunde;598;326;272;0;50;47;45;43;45;30;28;38;0;9;10;13;24;25;30;41;120
+Waals Gewest;Oftalmologie;382;222;160;2;23;24;26;21;20;25;18;63;4;14;10;14;11;19;14;19;55
+Waals Gewest;Otorhinolaryngologie;261;122;139;1;11;20;15;17;22;14;10;12;0;7;4;6;12;9;22;16;63
+Waals Gewest;Stomatologie;99;23;76;0;4;0;6;4;2;1;2;4;0;5;6;3;5;9;6;6;36
+Waals Gewest;Dermato-venereologie;266;187;79;4;20;23;20;21;26;21;14;38;0;2;4;4;4;5;10;9;41
+Waals Gewest;Pediatrie;680;446;234;0;66;62;66;63;46;38;28;77;0;10;11;16;15;20;16;20;126
+Waals Gewest;Fysische geneeskunde en revalidatie;200;98;102;0;12;11;13;14;14;9;7;18;0;5;7;10;4;7;11;16;42
+Waals Gewest;Klinische biologie;243;123;120;0;6;4;9;8;7;12;18;59;0;1;4;3;2;2;10;16;82
+Waals Gewest;Rontgendiagnose;643;195;448;0;22;25;25;22;27;33;16;25;0;27;30;27;29;46;60;58;171
+Waals Gewest;Radiotherapie - oncologie;74;39;35;0;4;7;2;4;2;6;6;8;0;2;3;5;7;5;1;4;8
+Waals Gewest;Nucleaire geneeskunde;130;51;79;0;2;3;5;5;6;17;4;9;0;1;2;3;4;5;8;8;48
+Waals Gewest;Pathologische anatomie;107;65;42;0;3;7;4;10;10;11;5;15;0;5;2;3;1;2;7;7;15
+Waals Gewest;Medische oncologie;100;52;48;0;7;12;2;9;11;2;3;6;0;4;3;3;5;9;8;6;10
+Waals Gewest;Klinische genetica;18;11;7;0;0;2;3;2;3;0;0;1;0;0;0;2;3;0;2;0;0
+Waals Gewest;Arbeidsgeneeskunde;330;200;130;0;0;3;25;48;25;30;34;35;0;1;1;5;13;13;10;18;69
+Waals Gewest;Verzekeringsgeneeskunde en medische expertise;249;75;174;0;0;0;2;4;11;9;26;23;0;0;0;1;6;9;24;41;93
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;3901;1903;1998;7;266;266;269;189;189;173;172;372;5;160;141;164;165;166;200;227;770
+Brussels Hoofdstedelijk Gewest;Geriatrie;33;23;10;0;3;6;7;2;2;1;2;0;0;0;1;1;1;1;1;3;2
+Brussels Hoofdstedelijk Gewest;Urgentiegeneeskunde;46;24;22;0;8;9;3;1;1;2;0;0;0;4;7;6;1;2;1;1;0
+Brussels Hoofdstedelijk Gewest;Gerechtelijke geneeskunde;2;1;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Brussels Hoofdstedelijk Gewest;Beheer van gezondheidsgegevens;11;6;5;0;0;0;0;0;4;0;2;0;0;0;0;1;0;0;2;2;0
+Brussels Hoofdstedelijk Gewest;Anesthesie-reanimatie;285;143;142;0;27;18;16;14;14;9;14;31;0;23;20;15;16;22;12;11;23
+Brussels Hoofdstedelijk Gewest;Heelkunde;210;55;155;0;9;9;7;7;3;4;8;8;0;14;12;10;11;17;13;12;66
+Brussels Hoofdstedelijk Gewest;Neurochirurgie;22;3;19;0;1;1;0;1;0;0;0;0;0;1;3;1;3;1;0;4;6
+Brussels Hoofdstedelijk Gewest;Plastische, reconstructieve en esthetische heelkunde;39;10;29;0;2;2;3;0;0;1;1;1;0;1;2;3;6;2;1;4;10
+Brussels Hoofdstedelijk Gewest;Urologie;47;5;42;0;1;1;2;1;0;0;0;0;0;7;3;3;3;1;5;3;17
+Brussels Hoofdstedelijk Gewest;Orthopedische heelkunde;121;21;100;0;4;4;1;1;4;3;1;3;0;12;8;10;9;6;11;9;35
+Brussels Hoofdstedelijk Gewest;Neurologie;86;47;39;0;7;7;10;4;7;4;5;3;1;5;4;5;7;7;5;2;3
+Brussels Hoofdstedelijk Gewest;Psychiatrie;258;111;147;0;0;1;4;12;15;31;14;34;0;0;0;2;11;10;17;25;82
+Brussels Hoofdstedelijk Gewest;Neuropsychiatrie;34;12;22;0;0;0;0;0;0;1;0;11;0;0;0;0;0;0;0;0;22
+Brussels Hoofdstedelijk Gewest;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;52;36;16;0;4;15;7;3;3;2;0;2;0;6;2;4;0;0;0;3;1
+Brussels Hoofdstedelijk Gewest;Psychiatrie, meer bepaald volwassenpsychiatrie;105;63;42;0;13;12;8;10;6;5;3;6;0;5;5;16;6;1;3;3;3
+Brussels Hoofdstedelijk Gewest;Pneumologie;72;34;38;0;6;8;6;5;3;1;1;4;0;2;1;5;1;3;6;6;14
+Brussels Hoofdstedelijk Gewest;Gastro-enterologie;104;38;66;0;5;4;7;7;3;4;1;7;0;4;6;8;5;6;6;6;25
+Brussels Hoofdstedelijk Gewest;Cardiologie;198;70;128;0;6;14;13;6;8;4;11;8;0;9;10;14;13;10;21;11;40
+Brussels Hoofdstedelijk Gewest;Inwendige geneeskunde;339;142;197;0;20;27;36;14;12;9;6;18;0;13;15;15;19;17;18;19;81
+Brussels Hoofdstedelijk Gewest;Reumatologie;40;18;22;0;0;3;3;3;1;2;2;4;0;1;0;0;0;3;4;2;12
+Brussels Hoofdstedelijk Gewest;Acute geneeskunde;36;20;16;1;2;4;1;3;4;1;2;2;0;0;1;1;1;3;4;2;4
+Brussels Hoofdstedelijk Gewest;Gynaecologie-verloskunde;294;182;112;0;36;34;19;17;11;18;20;27;0;4;5;9;8;9;7;13;57
+Brussels Hoofdstedelijk Gewest;Oftalmologie;172;106;66;2;17;14;14;7;6;5;11;30;3;8;3;4;12;3;7;6;20
+Brussels Hoofdstedelijk Gewest;Otorhinolaryngologie;97;40;57;0;9;0;8;5;5;2;1;10;0;4;1;3;0;8;10;8;23
+Brussels Hoofdstedelijk Gewest;Stomatologie;56;21;35;0;2;1;4;0;3;2;3;6;0;4;1;1;3;1;1;6;18
+Brussels Hoofdstedelijk Gewest;Dermato-venereologie;137;100;37;4;15;3;12;9;10;11;7;29;1;1;2;2;2;3;6;4;16
+Brussels Hoofdstedelijk Gewest;Pediatrie;337;236;101;0;33;30;44;23;18;23;11;54;0;5;9;6;6;9;3;8;55
+Brussels Hoofdstedelijk Gewest;Fysische geneeskunde en revalidatie;42;26;16;0;6;1;5;3;4;4;0;3;0;0;1;0;1;0;1;7;6
+Brussels Hoofdstedelijk Gewest;Klinische biologie;102;57;45;0;6;3;2;4;7;5;10;20;0;1;2;2;1;2;5;6;26
+Brussels Hoofdstedelijk Gewest;Rontgendiagnose;213;89;124;0;10;14;13;1;19;6;11;15;0;14;11;10;6;13;13;16;41
+Brussels Hoofdstedelijk Gewest;Radiotherapie - oncologie;23;18;5;0;0;4;0;5;2;1;2;4;0;2;1;0;0;0;0;1;1
+Brussels Hoofdstedelijk Gewest;Nucleaire geneeskunde;46;15;31;0;1;3;3;1;0;2;2;3;0;5;3;1;5;0;2;2;13
+Brussels Hoofdstedelijk Gewest;Pathologische anatomie;49;32;17;0;7;3;2;4;3;1;3;9;0;3;0;1;1;1;2;3;6
+Brussels Hoofdstedelijk Gewest;Medische oncologie;57;30;27;0;4;10;5;3;2;2;1;3;0;2;1;2;6;3;3;3;7
+Brussels Hoofdstedelijk Gewest;Klinische genetica;9;7;2;0;0;1;0;3;1;0;0;2;0;0;0;1;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Arbeidsgeneeskunde;80;44;36;0;1;0;4;7;6;7;10;9;0;0;0;1;0;0;6;8;21
+Brussels Hoofdstedelijk Gewest;Verzekeringsgeneeskunde en medische expertise;47;18;29;0;0;0;0;3;2;0;7;6;0;0;0;1;1;2;4;8;13
+Vlaams Brabant;Alle specialiteiten;4342;1998;2344;6;256;274;338;327;240;209;140;208;0;174;149;222;238;235;314;288;724
+Vlaams Brabant;Geriatrie;48;34;14;0;3;5;6;8;5;2;3;2;0;1;1;1;2;1;2;2;4
+Vlaams Brabant;Urgentiegeneeskunde;30;15;15;0;6;3;2;2;2;0;0;0;0;3;5;2;3;0;1;1;0
+Vlaams Brabant;Gerechtelijke geneeskunde;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+Vlaams Brabant;Beheer van gezondheidsgegevens;11;6;5;0;0;0;0;0;0;3;2;1;0;0;0;0;0;0;0;2;3
+Vlaams Brabant;Anesthesie-reanimatie;368;161;207;0;22;24;24;22;23;12;14;20;0;31;17;25;24;23;35;22;30
+Vlaams Brabant;Heelkunde;279;67;212;0;11;12;17;15;6;0;3;3;0;8;26;19;22;22;22;20;73
+Vlaams Brabant;Neurochirurgie;35;4;31;0;2;1;0;1;0;0;0;0;0;3;4;4;5;3;3;2;7
+Vlaams Brabant;Plastische, reconstructieve en esthetische heelkunde;37;12;25;0;2;2;1;4;2;1;0;0;0;1;1;2;4;5;5;1;6
+Vlaams Brabant;Urologie;67;9;58;0;1;2;3;0;2;1;0;0;0;5;11;2;7;3;9;6;15
+Vlaams Brabant;Orthopedische heelkunde;176;27;149;0;7;5;3;2;3;4;0;3;0;16;14;24;17;15;23;15;25
+Vlaams Brabant;Neurologie;92;48;44;0;12;5;8;2;11;3;4;3;0;3;3;6;6;4;3;6;13
+Vlaams Brabant;Psychiatrie;75;39;36;0;0;0;1;8;11;13;3;3;0;0;0;2;1;8;9;6;10
+Vlaams Brabant;Neuropsychiatrie;33;6;27;0;0;0;0;0;0;0;2;4;0;0;0;0;0;0;0;1;26
+Vlaams Brabant;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;76;66;10;0;9;10;16;16;2;4;1;8;0;1;0;0;2;1;3;1;2
+Vlaams Brabant;Psychiatrie, meer bepaald volwassenpsychiatrie;145;67;78;0;7;10;23;11;1;4;4;7;0;6;3;10;6;1;2;9;41
+Vlaams Brabant;Pneumologie;95;47;48;0;8;8;12;9;3;5;0;2;0;7;1;3;7;3;7;8;12
+Vlaams Brabant;Gastro-enterologie;113;44;69;0;7;10;9;9;4;2;2;1;0;7;5;7;5;9;9;10;17
+Vlaams Brabant;Cardiologie;187;36;151;0;3;7;8;8;4;2;2;2;0;12;16;22;13;21;21;17;29
+Vlaams Brabant;Inwendige geneeskunde;281;116;165;0;15;22;20;24;10;7;13;5;0;9;7;8;25;15;19;14;68
+Vlaams Brabant;Reumatologie;35;15;20;0;2;2;4;3;2;1;0;1;0;0;1;2;4;2;0;2;9
+Vlaams Brabant;Acute geneeskunde;52;23;29;0;6;6;2;3;5;1;0;0;0;2;2;3;6;10;5;0;1
+Vlaams Brabant;Gynaecologie-verloskunde;249;147;102;0;30;17;32;22;17;11;7;11;0;1;3;10;9;9;16;18;36
+Vlaams Brabant;Oftalmologie;200;134;66;2;16;14;19;15;16;14;11;27;0;3;2;8;6;7;7;11;22
+Vlaams Brabant;Otorhinolaryngologie;98;48;50;0;5;10;7;5;9;6;2;4;0;3;4;3;6;1;7;10;16
+Vlaams Brabant;Stomatologie;52;18;34;0;2;4;3;3;1;0;2;3;0;6;1;6;2;2;5;0;12
+Vlaams Brabant;Dermato-venereologie;141;108;33;4;11;12;19;18;10;10;6;18;0;2;2;1;5;6;4;2;11
+Vlaams Brabant;Pediatrie;310;217;93;0;26;39;34;33;30;22;8;25;0;5;5;8;5;10;10;18;32
+Vlaams Brabant;Fysische geneeskunde en revalidatie;89;41;48;0;6;4;7;7;2;7;4;4;0;5;1;3;3;3;3;3;27
+Vlaams Brabant;Klinische biologie;123;52;71;0;3;3;5;7;4;6;8;16;0;3;1;4;2;6;6;11;38
+Vlaams Brabant;Rontgendiagnose;303;106;197;0;15;13;11;18;15;17;6;11;0;23;11;20;20;20;33;19;51
+Vlaams Brabant;Radiotherapie - oncologie;43;28;15;0;6;2;3;6;5;5;1;0;0;2;1;3;1;1;4;2;1
+Vlaams Brabant;Nucleaire geneeskunde;50;24;26;0;2;7;4;1;6;2;0;2;0;1;0;3;3;4;5;2;8
+Vlaams Brabant;Pathologische anatomie;69;41;28;0;3;6;10;6;2;6;5;3;0;2;0;4;1;3;1;5;12
+Vlaams Brabant;Medische oncologie;45;25;20;0;4;5;4;2;3;5;1;1;0;3;0;2;4;4;3;1;3
+Vlaams Brabant;Klinische genetica;22;13;9;0;0;1;2;5;1;3;1;0;0;0;1;0;0;4;1;2;1
+Vlaams Brabant;Arbeidsgeneeskunde;213;115;98;0;3;2;18;27;18;17;16;14;0;0;0;5;9;4;19;20;41
+Vlaams Brabant;Verzekeringsgeneeskunde en medische expertise;98;38;60;0;0;1;1;5;5;13;9;4;0;0;0;0;3;5;12;19;21
+West-Vlaanderen;Alle specialiteiten;2596;910;1686;3;142;117;148;140;107;91;49;113;0;93;102;125;157;137;203;201;668
+West-Vlaanderen;Geriatrie;44;25;19;0;7;2;5;5;1;2;1;2;0;1;2;1;1;0;3;2;9
+West-Vlaanderen;Urgentiegeneeskunde;14;8;6;0;2;5;1;0;0;0;0;0;0;5;0;0;1;0;0;0;0
+West-Vlaanderen;Beheer van gezondheidsgegevens;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0
+West-Vlaanderen;Anesthesie-reanimatie;295;104;191;1;17;9;16;15;17;11;6;12;0;19;11;19;26;23;24;18;51
+West-Vlaanderen;Heelkunde;143;25;118;0;6;4;7;4;0;1;1;2;0;4;10;7;9;10;14;13;51
+West-Vlaanderen;Neurochirurgie;24;2;22;0;0;1;0;1;0;0;0;0;0;1;4;2;4;1;1;4;5
+West-Vlaanderen;Plastische, reconstructieve en esthetische heelkunde;26;6;20;0;1;3;0;0;0;1;0;1;0;0;1;4;4;1;4;0;6
+West-Vlaanderen;Urologie;61;7;54;0;4;1;0;1;1;0;0;0;0;4;6;2;10;6;4;6;16
+West-Vlaanderen;Orthopedische heelkunde;148;8;140;0;2;0;2;2;1;1;0;0;0;9;14;14;10;15;17;22;39
+West-Vlaanderen;Neurologie;54;19;35;0;3;5;4;3;3;1;0;0;0;2;1;3;7;0;10;5;7
+West-Vlaanderen;Psychiatrie;34;13;21;0;0;0;1;1;6;3;1;1;0;0;0;0;3;6;9;1;2
+West-Vlaanderen;Neuropsychiatrie;23;3;20;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;20
+West-Vlaanderen;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;25;20;5;0;3;2;6;2;0;1;0;6;0;0;0;0;1;0;0;1;3
+West-Vlaanderen;Psychiatrie, meer bepaald volwassenpsychiatrie;83;34;49;0;5;9;9;1;0;0;3;7;0;5;1;2;5;0;4;4;28
+West-Vlaanderen;Pneumologie;56;23;33;0;4;4;9;1;2;3;0;0;0;2;2;1;2;2;5;6;13
+West-Vlaanderen;Gastro-enterologie;73;19;54;0;5;7;3;2;2;0;0;0;0;2;5;6;6;4;8;7;16
+West-Vlaanderen;Cardiologie;96;12;84;0;1;3;3;1;2;1;0;1;0;5;8;4;15;8;6;9;29
+West-Vlaanderen;Inwendige geneeskunde;117;35;82;0;4;9;9;6;2;3;2;0;0;3;2;5;8;8;4;5;47
+West-Vlaanderen;Reumatologie;21;8;13;0;0;2;0;1;2;1;0;2;0;0;1;2;1;0;1;0;8
+West-Vlaanderen;Acute geneeskunde;23;9;14;0;1;0;3;3;1;1;0;0;0;0;2;4;2;3;1;2;0
+West-Vlaanderen;Gynaecologie-verloskunde;131;57;74;0;15;7;10;9;8;6;1;1;0;3;6;0;4;3;10;8;40
+West-Vlaanderen;Oftalmologie;134;85;49;1;6;7;7;13;12;10;7;22;0;1;2;3;2;4;5;4;28
+West-Vlaanderen;Otorhinolaryngologie;78;21;57;1;5;3;1;0;5;5;1;0;0;1;3;5;8;2;5;7;26
+West-Vlaanderen;Stomatologie;41;7;34;0;3;1;0;1;1;0;1;0;0;4;1;6;4;6;3;3;7
+West-Vlaanderen;Dermato-venereologie;82;52;30;0;9;4;4;10;5;3;4;13;0;1;3;0;2;0;5;3;16
+West-Vlaanderen;Pediatrie;148;94;54;0;14;11;16;11;12;6;4;20;0;3;2;2;1;7;1;6;32
+West-Vlaanderen;Fysische geneeskunde en revalidatie;68;27;41;0;5;3;5;3;4;4;3;0;0;2;5;1;3;1;4;7;18
+West-Vlaanderen;Klinische biologie;55;18;37;0;1;2;1;5;0;3;0;6;0;2;1;4;2;3;1;6;18
+West-Vlaanderen;Rontgendiagnose;203;38;165;0;9;6;6;5;4;4;2;2;0;11;5;16;7;17;31;28;50
+West-Vlaanderen;Radiotherapie - oncologie;26;15;11;0;0;0;4;5;3;2;0;1;0;1;0;3;2;0;1;1;3
+West-Vlaanderen;Nucleaire geneeskunde;33;10;23;0;1;1;2;4;1;1;0;0;0;1;2;1;0;1;2;1;15
+West-Vlaanderen;Pathologische anatomie;40;14;26;0;4;1;2;4;1;0;0;2;0;1;1;4;3;2;1;3;11
+West-Vlaanderen;Medische oncologie;28;19;9;0;3;4;3;4;2;1;1;1;0;0;1;0;2;3;1;0;2
+West-Vlaanderen;Klinische genetica;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+West-Vlaanderen;Arbeidsgeneeskunde;118;63;55;0;2;1;9;14;6;16;7;8;0;0;0;3;2;1;9;8;32
+West-Vlaanderen;Verzekeringsgeneeskunde en medische expertise;48;10;38;0;0;0;0;3;3;0;3;1;0;0;0;0;0;0;9;9;20
+Oost-Vlaanderen;Alle specialiteiten;3518;1537;1981;3;244;215;260;239;188;147;100;141;3;158;122;191;202;187;251;246;621
+Oost-Vlaanderen;Geriatrie;52;32;20;0;8;4;5;7;2;2;2;2;0;2;1;0;1;3;2;4;7
+Oost-Vlaanderen;Urgentiegeneeskunde;25;14;11;0;7;3;3;0;1;0;0;0;0;7;2;2;0;0;0;0;0
+Oost-Vlaanderen;Gerechtelijke geneeskunde;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+Oost-Vlaanderen;Beheer van gezondheidsgegevens;4;2;2;0;0;0;0;1;0;1;0;0;0;0;0;0;1;0;0;1;0
+Oost-Vlaanderen;Anesthesie-reanimatie;342;135;207;0;23;22;19;17;18;18;4;14;2;30;19;23;29;22;23;25;34
+Oost-Vlaanderen;Heelkunde;213;47;166;0;11;6;11;4;7;1;3;4;0;9;12;18;17;20;15;21;54
+Oost-Vlaanderen;Neurochirurgie;33;4;29;0;2;0;0;1;1;0;0;0;0;4;2;6;3;2;2;2;8
+Oost-Vlaanderen;Plastische, reconstructieve en esthetische heelkunde;46;8;38;0;0;2;0;2;1;1;1;1;0;4;2;9;2;3;9;2;7
+Oost-Vlaanderen;Urologie;73;18;55;0;6;6;2;1;2;0;1;0;0;7;3;8;4;2;8;7;16
+Oost-Vlaanderen;Orthopedische heelkunde;157;14;143;0;3;3;1;2;3;2;0;0;0;14;9;19;13;16;21;20;31
+Oost-Vlaanderen;Neurologie;71;41;30;0;5;12;8;5;6;2;1;2;0;3;3;3;6;2;4;1;8
+Oost-Vlaanderen;Psychiatrie;48;25;23;0;0;0;0;3;15;4;0;3;0;0;0;0;8;7;6;0;2
+Oost-Vlaanderen;Neuropsychiatrie;21;5;16;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;4;12
+Oost-Vlaanderen;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;49;43;6;0;9;11;9;7;2;1;1;3;0;1;1;3;0;0;0;1;0
+Oost-Vlaanderen;Psychiatrie, meer bepaald volwassenpsychiatrie;133;68;65;0;9;17;13;7;2;2;4;14;0;2;4;7;8;0;2;15;27
+Oost-Vlaanderen;Pneumologie;82;36;46;0;6;13;7;8;1;0;0;1;0;3;4;4;4;7;4;13;7
+Oost-Vlaanderen;Gastro-enterologie;108;39;69;0;9;7;10;7;3;0;1;2;0;6;6;6;6;9;10;9;17
+Oost-Vlaanderen;Cardiologie;148;36;112;0;4;8;7;8;5;2;1;1;0;6;9;16;16;15;14;9;27
+Oost-Vlaanderen;Inwendige geneeskunde;210;88;122;1;21;17;13;13;5;6;6;6;0;7;7;8;9;7;17;7;60
+Oost-Vlaanderen;Reumatologie;42;21;21;0;2;2;2;2;3;2;4;4;0;1;2;1;0;2;4;6;5
+Oost-Vlaanderen;Acute geneeskunde;15;8;7;0;0;0;3;1;1;1;2;0;0;0;1;1;2;1;0;1;1
+Oost-Vlaanderen;Gynaecologie-verloskunde;183;103;80;0;20;16;18;14;17;10;5;3;0;1;2;4;6;6;13;11;37
+Oost-Vlaanderen;Oftalmologie;161;96;65;0;12;6;14;17;6;9;14;18;1;3;4;4;4;6;9;4;30
+Oost-Vlaanderen;Otorhinolaryngologie;91;40;51;0;5;4;7;7;6;5;2;4;0;4;2;3;6;6;3;10;17
+Oost-Vlaanderen;Stomatologie;55;14;41;0;1;2;3;5;1;0;2;0;0;5;5;3;4;4;3;8;9
+Oost-Vlaanderen;Dermato-venereologie;113;96;17;1;17;8;16;12;18;9;5;10;0;2;1;0;0;0;3;3;8
+Oost-Vlaanderen;Pediatrie;215;146;69;1;29;14;23;20;19;21;7;12;0;6;1;4;6;3;3;7;39
+Oost-Vlaanderen;Fysische geneeskunde en revalidatie;91;43;48;0;8;3;7;6;6;5;5;3;0;7;4;2;4;5;13;4;9
+Oost-Vlaanderen;Klinische biologie;98;50;48;0;2;5;12;10;4;7;2;8;0;0;1;1;4;7;9;4;22
+Oost-Vlaanderen;Rontgendiagnose;209;59;150;0;9;8;14;14;5;4;1;4;0;13;11;14;14;18;27;22;31
+Oost-Vlaanderen;Radiotherapie - oncologie;30;14;16;0;1;3;4;3;2;1;0;0;0;2;1;3;0;3;1;5;1
+Oost-Vlaanderen;Nucleaire geneeskunde;44;14;30;0;4;1;2;0;2;2;2;1;0;4;1;1;4;2;2;2;14
+Oost-Vlaanderen;Pathologische anatomie;59;30;29;0;4;3;6;3;5;4;2;3;0;2;0;5;8;1;4;0;9
+Oost-Vlaanderen;Medische oncologie;34;24;10;0;7;3;4;6;2;1;1;0;0;2;1;1;2;0;2;0;2
+Oost-Vlaanderen;Klinische genetica;13;6;7;0;0;0;1;3;0;0;1;1;0;0;0;2;3;1;1;0;0
+Oost-Vlaanderen;Arbeidsgeneeskunde;173;97;76;0;0;5;16;20;13;20;13;10;0;1;1;9;8;3;6;12;36
+Oost-Vlaanderen;Verzekeringsgeneeskunde en medische expertise;75;21;54;0;0;1;0;3;4;3;6;4;0;0;0;1;0;4;10;5;34
+Antwerpen;Alle specialiteiten;4056;1698;2358;5;257;220;263;282;234;164;118;155;0;167;174;214;243;231;309;292;728
+Antwerpen;Geriatrie;50;25;25;0;2;4;2;5;7;2;2;1;0;1;4;1;1;2;3;5;8
+Antwerpen;Urgentiegeneeskunde;41;24;17;0;10;11;0;2;0;1;0;0;0;9;3;2;2;1;0;0;0
+Antwerpen;Gerechtelijke geneeskunde;2;1;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Antwerpen;Beheer van gezondheidsgegevens;6;1;5;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;1;2;0
+Antwerpen;Anesthesie-reanimatie;407;186;221;0;44;21;27;33;20;15;11;15;0;20;23;24;24;36;23;24;47
+Antwerpen;Heelkunde;266;55;211;0;10;12;8;10;2;5;2;6;0;17;13;19;24;22;24;34;58
+Antwerpen;Neurochirurgie;46;4;42;0;1;1;0;0;2;0;0;0;0;0;6;10;4;7;4;2;9
+Antwerpen;Plastische, reconstructieve en esthetische heelkunde;44;14;30;0;1;3;1;0;0;1;6;2;0;0;3;2;3;6;3;5;8
+Antwerpen;Urologie;82;13;69;0;2;3;3;2;1;1;1;0;0;5;5;10;12;4;9;4;20
+Antwerpen;Orthopedische heelkunde;207;26;181;0;8;5;1;2;6;1;2;1;0;11;15;20;23;19;27;22;44
+Antwerpen;Neurologie;101;48;53;0;11;13;7;7;4;2;2;2;0;7;2;6;5;7;6;10;10
+Antwerpen;Psychiatrie;68;37;31;0;0;0;0;8;18;10;1;0;0;0;0;1;10;10;7;3;0
+Antwerpen;Neuropsychiatrie;34;7;27;0;0;0;0;0;0;1;0;6;0;0;0;0;0;0;0;4;23
+Antwerpen;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;81;64;17;0;8;9;20;15;4;4;2;2;0;1;2;2;4;0;1;1;6
+Antwerpen;Psychiatrie, meer bepaald volwassenpsychiatrie;150;59;91;0;9;9;14;10;2;1;4;10;0;7;2;8;11;1;3;17;42
+Antwerpen;Pneumologie;86;39;47;0;5;5;10;7;5;2;4;1;0;5;3;3;3;4;9;6;14
+Antwerpen;Gastro-enterologie;99;33;66;0;4;12;3;6;4;3;1;0;0;6;3;12;9;4;11;8;13
+Antwerpen;Cardiologie;173;36;137;0;5;9;5;7;4;3;0;3;0;11;15;22;17;17;15;14;26
+Antwerpen;Inwendige geneeskunde;259;110;149;0;16;17;28;14;14;9;7;5;0;9;10;6;12;13;15;9;75
+Antwerpen;Reumatologie;29;13;16;0;3;1;3;4;2;0;0;0;0;1;1;2;0;0;1;1;10
+Antwerpen;Acute geneeskunde;36;14;22;1;0;1;4;5;0;0;2;1;0;2;2;5;4;4;2;3;0
+Antwerpen;Gynaecologie-verloskunde;227;115;112;0;25;15;21;20;14;8;10;2;0;4;2;7;7;12;16;12;52
+Antwerpen;Oftalmologie;190;113;77;3;13;11;13;14;12;19;7;21;0;3;5;5;7;3;11;8;35
+Antwerpen;Otorhinolaryngologie;103;51;52;0;10;8;9;4;7;3;4;6;0;1;5;3;5;6;9;8;15
+Antwerpen;Stomatologie;57;13;44;0;4;2;1;3;1;2;0;0;0;2;6;6;4;4;8;5;9
+Antwerpen;Dermato-venereologie;110;70;40;1;7;5;11;11;12;4;6;13;0;2;3;3;4;2;6;7;13
+Antwerpen;Pediatrie;257;171;86;0;29;17;23;33;24;22;10;13;0;7;4;8;5;7;6;8;41
+Antwerpen;Fysische geneeskunde en revalidatie;84;43;41;0;5;3;4;7;9;8;3;4;0;4;3;3;4;4;8;2;13
+Antwerpen;Klinische biologie;75;43;32;0;3;4;6;4;9;3;5;9;0;2;3;0;2;5;6;5;9
+Antwerpen;Rontgendiagnose;243;67;176;0;9;8;7;8;15;6;5;9;0;17;18;11;16;12;33;22;47
+Antwerpen;Radiotherapie - oncologie;43;22;21;0;4;1;6;2;4;2;2;1;0;2;4;2;2;2;4;3;2
+Antwerpen;Nucleaire geneeskunde;32;6;26;0;1;0;2;1;1;1;0;0;0;3;2;2;3;4;2;3;7
+Antwerpen;Pathologische anatomie;67;35;32;0;2;4;5;6;7;3;4;4;0;2;3;2;3;1;5;3;13
+Antwerpen;Medische oncologie;29;13;16;0;3;2;1;3;2;1;1;0;0;4;1;1;2;3;2;2;1
+Antwerpen;Klinische genetica;9;7;2;0;0;0;1;1;1;2;1;1;0;0;1;0;0;0;0;1;0
+Antwerpen;Arbeidsgeneeskunde;191;97;94;0;2;4;15;26;13;13;9;15;0;2;1;6;7;6;21;15;36
+Antwerpen;Verzekeringsgeneeskunde en medische expertise;72;23;49;0;0;0;2;2;8;5;4;2;0;0;0;0;3;2;8;14;22
+Limburg;Alle specialiteiten;1620;634;986;2;88;93;92;120;94;66;30;49;0;54;58;107;111;88;144;138;286
+Limburg;Geriatrie;26;14;12;0;6;0;1;5;1;1;0;0;0;0;0;2;1;1;2;4;2
+Limburg;Urgentiegeneeskunde;9;6;3;0;1;4;0;1;0;0;0;0;0;2;1;0;0;0;0;0;0
+Limburg;Beheer van gezondheidsgegevens;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0
+Limburg;Anesthesie-reanimatie;160;68;92;0;9;9;9;11;13;7;3;7;0;13;7;15;10;10;12;10;15
+Limburg;Heelkunde;101;20;81;0;3;4;1;5;2;3;2;0;0;4;6;10;12;6;10;6;27
+Limburg;Neurochirurgie;22;4;18;0;0;0;0;2;1;1;0;0;0;2;1;2;4;1;1;4;3
+Limburg;Plastische, reconstructieve en esthetische heelkunde;14;0;14;0;0;0;0;0;0;0;0;0;0;0;1;1;1;2;2;1;6
+Limburg;Urologie;32;2;30;0;1;0;0;0;1;0;0;0;0;3;3;1;5;4;5;4;5
+Limburg;Orthopedische heelkunde;67;6;61;0;1;1;2;2;0;0;0;0;0;4;3;10;8;6;10;7;13
+Limburg;Neurologie;39;20;19;0;4;5;3;1;3;1;1;2;0;2;3;3;2;0;3;2;4
+Limburg;Psychiatrie;42;24;18;0;0;0;0;8;8;8;0;0;0;0;0;0;2;11;4;0;1
+Limburg;Neuropsychiatrie;11;5;6;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;6
+Limburg;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;31;24;7;0;1;8;6;4;3;1;1;0;0;0;2;1;1;0;2;0;1
+Limburg;Psychiatrie, meer bepaald volwassenpsychiatrie;71;30;41;0;3;6;9;6;2;1;3;0;0;0;2;4;6;0;2;5;22
+Limburg;Pneumologie;33;9;24;0;1;2;4;0;1;1;0;0;0;1;3;5;2;1;4;5;3
+Limburg;Gastro-enterologie;45;20;25;0;6;3;5;2;0;1;1;2;0;1;1;4;4;3;5;4;3
+Limburg;Cardiologie;72;9;63;0;2;2;0;2;2;1;0;0;0;4;3;13;6;6;10;7;14
+Limburg;Inwendige geneeskunde;76;26;50;0;2;5;6;7;1;2;1;2;0;1;4;3;3;6;6;3;24
+Limburg;Reumatologie;18;8;10;0;1;2;0;0;1;3;1;0;0;0;1;0;0;1;2;0;6
+Limburg;Acute geneeskunde;14;3;11;0;0;0;0;2;1;0;0;0;0;0;1;1;4;3;0;1;1
+Limburg;Gynaecologie-verloskunde;85;49;36;0;15;5;7;8;7;2;2;3;0;2;0;2;4;4;3;5;16
+Limburg;Oftalmologie;74;50;24;2;9;7;7;6;8;3;2;6;0;2;0;1;2;1;4;4;10
+Limburg;Otorhinolaryngologie;46;22;24;0;4;5;3;5;0;1;2;2;0;3;1;2;1;1;4;8;4
+Limburg;Stomatologie;26;5;21;0;1;0;2;1;1;0;0;0;0;2;2;4;4;1;3;3;2
+Limburg;Dermato-venereologie;52;37;15;0;4;4;5;6;5;7;2;4;0;0;0;2;2;1;1;2;7
+Limburg;Pediatrie;69;38;31;0;4;4;7;9;2;2;1;9;0;0;0;1;3;3;4;6;14
+Limburg;Fysische geneeskunde en revalidatie;41;11;30;0;2;0;3;0;3;1;2;0;0;1;3;2;5;1;3;4;11
+Limburg;Klinische biologie;29;11;18;0;0;2;1;3;4;1;0;0;0;0;3;2;2;1;2;4;4
+Limburg;Rontgendiagnose;109;28;81;0;2;7;2;4;6;5;0;2;0;6;6;9;9;6;14;14;17
+Limburg;Radiotherapie - oncologie;15;8;7;0;2;3;2;1;0;0;0;0;0;0;1;1;0;0;0;4;1
+Limburg;Nucleaire geneeskunde;20;8;12;0;0;2;0;1;3;1;0;1;0;0;0;0;1;0;4;1;6
+Limburg;Pathologische anatomie;26;12;14;0;1;3;0;2;3;2;1;0;0;0;0;1;1;0;2;4;6
+Limburg;Medische oncologie;11;8;3;0;2;0;5;1;0;0;0;0;0;0;0;0;1;1;1;0;0
+Limburg;Klinische genetica;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+Limburg;Arbeidsgeneeskunde;81;36;45;0;1;0;1;12;8;8;3;3;0;1;0;5;4;1;12;8;14
+Limburg;Verzekeringsgeneeskunde en medische expertise;49;12;37;0;0;0;0;3;4;1;0;4;0;0;0;0;0;4;7;8;18
+Waals Brabant;Alle specialiteiten;2048;871;1177;2;81;95;113;119;116;106;107;132;2;45;62;97;103;133;160;144;431
+Waals Brabant;Geriatrie;20;13;7;0;2;1;4;3;3;0;0;0;0;0;0;0;0;1;1;4;1
+Waals Brabant;Urgentiegeneeskunde;18;10;8;0;2;6;0;1;1;0;0;0;0;2;2;1;3;0;0;0;0
+Waals Brabant;Beheer van gezondheidsgegevens;13;5;8;0;0;0;0;0;2;1;2;0;0;0;0;0;1;2;3;1;1
+Waals Brabant;Anesthesie-reanimatie;186;76;110;0;9;10;12;12;6;3;2;22;0;5;21;18;13;11;10;11;21
+Waals Brabant;Heelkunde;122;22;100;0;2;5;1;2;2;0;9;1;0;2;2;6;11;12;13;8;46
+Waals Brabant;Neurochirurgie;7;1;6;0;0;0;0;0;1;0;0;0;0;1;0;0;2;0;2;0;1
+Waals Brabant;Plastische, reconstructieve en esthetische heelkunde;25;7;18;0;2;1;0;1;1;1;1;0;0;0;3;1;1;3;4;1;5
+Waals Brabant;Urologie;28;3;25;0;0;0;1;0;1;1;0;0;0;1;5;2;4;2;2;1;8
+Waals Brabant;Orthopedische heelkunde;88;8;80;0;0;3;1;2;0;1;1;0;0;4;3;4;8;11;12;12;26
+Waals Brabant;Neurologie;51;29;22;0;1;6;4;5;4;5;1;3;0;2;1;5;2;6;2;1;3
+Waals Brabant;Psychiatrie;91;37;54;0;0;0;1;4;9;3;12;8;0;0;1;1;4;4;7;8;29
+Waals Brabant;Neuropsychiatrie;24;7;17;0;0;0;0;0;0;0;1;6;0;0;0;0;0;0;1;0;16
+Waals Brabant;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;21;17;4;0;0;4;4;5;1;0;0;3;0;0;0;1;1;0;0;0;2
+Waals Brabant;Psychiatrie, meer bepaald volwassenpsychiatrie;34;19;15;0;4;3;6;5;0;0;1;0;0;0;2;4;3;3;0;1;2
+Waals Brabant;Pneumologie;35;18;17;0;0;2;4;3;3;2;0;4;0;0;0;3;1;2;2;6;3
+Waals Brabant;Gastro-enterologie;64;18;46;0;2;4;1;2;2;4;2;1;0;3;1;4;3;8;7;7;13
+Waals Brabant;Cardiologie;100;26;74;0;4;2;6;3;2;2;4;3;0;5;3;10;4;11;13;8;20
+Waals Brabant;Inwendige geneeskunde;160;53;107;0;6;4;7;11;9;8;5;3;1;5;5;4;11;8;23;14;36
+Waals Brabant;Reumatologie;14;6;8;0;2;0;1;1;0;0;0;2;0;1;0;0;1;0;2;0;4
+Waals Brabant;Acute geneeskunde;31;9;22;0;0;0;1;3;3;1;1;0;0;1;0;1;6;6;4;2;2
+Waals Brabant;Gynaecologie-verloskunde;108;68;40;0;9;4;12;10;10;7;10;6;0;1;1;0;3;6;5;6;18
+Waals Brabant;Oftalmologie;84;53;31;1;2;8;6;4;5;12;2;13;1;4;0;2;3;4;4;4;9
+Waals Brabant;Otorhinolaryngologie;51;21;30;0;3;6;3;1;4;2;2;0;0;0;1;1;3;2;4;5;14
+Waals Brabant;Stomatologie;30;5;25;0;2;0;0;1;0;0;1;1;0;2;1;2;1;3;2;4;10
+Waals Brabant;Dermato-venereologie;63;50;13;1;3;3;7;7;7;5;8;9;0;0;0;0;1;2;1;0;9
+Waals Brabant;Pediatrie;150;100;50;0;12;9;18;13;13;12;11;12;0;2;1;5;4;3;3;9;23
+Waals Brabant;Fysische geneeskunde en revalidatie;35;16;19;0;4;2;2;2;2;2;0;2;0;0;1;3;0;1;1;2;11
+Waals Brabant;Klinische biologie;68;36;32;0;1;2;3;1;1;6;5;17;0;0;1;1;1;2;2;3;22
+Waals Brabant;Rontgendiagnose;145;52;93;0;7;4;4;7;8;10;8;4;0;3;6;9;4;12;13;13;33
+Waals Brabant;Radiotherapie - oncologie;15;6;9;0;0;0;0;0;0;1;3;2;0;0;1;1;1;1;1;1;3
+Waals Brabant;Nucleaire geneeskunde;29;12;17;0;0;0;1;0;3;6;0;2;0;0;0;0;1;1;2;1;12
+Waals Brabant;Pathologische anatomie;28;16;12;0;1;2;0;2;4;2;3;2;0;0;0;2;0;0;2;3;5
+Waals Brabant;Medische oncologie;18;8;10;0;1;4;0;0;1;0;1;1;0;1;0;2;1;1;1;1;3
+Waals Brabant;Klinische genetica;4;2;2;0;0;0;1;0;1;0;0;0;0;0;0;2;0;0;0;0;0
+Waals Brabant;Arbeidsgeneeskunde;53;31;22;0;0;0;2;7;6;7;8;1;0;0;0;1;1;4;3;3;10
+Waals Brabant;Verzekeringsgeneeskunde en medische expertise;35;11;24;0;0;0;0;1;1;2;3;4;0;0;0;1;0;1;8;4;10
+Henegouwen;Alle specialiteiten;2454;980;1474;1;94;130;126;151;118;91;75;194;1;49;76;88;130;144;196;199;591
+Henegouwen;Geriatrie;34;24;10;0;6;4;3;3;1;4;1;2;0;0;1;2;2;0;1;1;3
+Henegouwen;Urgentiegeneeskunde;23;7;16;0;2;4;1;0;0;0;0;0;0;3;5;1;3;2;1;1;0
+Henegouwen;Beheer van gezondheidsgegevens;4;2;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;1;1;0
+Henegouwen;Anesthesie-reanimatie;196;76;120;0;6;9;8;13;9;8;3;20;0;3;6;12;11;17;28;12;31
+Henegouwen;Heelkunde;176;36;140;0;3;7;6;6;3;2;3;6;0;3;8;9;9;12;16;21;62
+Henegouwen;Neurochirurgie;18;5;13;0;1;2;0;1;0;1;0;0;0;2;1;1;3;1;0;2;3
+Henegouwen;Plastische, reconstructieve en esthetische heelkunde;18;6;12;0;1;1;1;1;1;1;0;0;0;2;1;3;0;2;2;1;1
+Henegouwen;Urologie;43;7;36;0;1;0;3;0;0;1;2;0;0;2;4;3;3;4;4;4;12
+Henegouwen;Orthopedische heelkunde;121;6;115;0;0;1;1;1;0;1;0;2;0;7;12;11;7;19;17;11;31
+Henegouwen;Neurologie;58;21;37;0;0;5;6;4;2;1;1;2;0;1;2;4;4;4;7;6;9
+Henegouwen;Psychiatrie;93;39;54;0;0;4;0;8;7;3;5;12;0;0;1;1;6;5;6;10;25
+Henegouwen;Neuropsychiatrie;18;3;15;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;1;0;14
+Henegouwen;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;17;10;7;0;2;4;1;2;1;0;0;0;0;0;0;2;2;2;0;0;1
+Henegouwen;Psychiatrie, meer bepaald volwassenpsychiatrie;32;22;10;0;3;5;6;4;3;0;1;0;0;1;1;2;3;2;0;0;1
+Henegouwen;Pneumologie;79;26;53;0;1;1;6;5;3;1;3;6;0;1;1;3;6;6;8;8;20
+Henegouwen;Gastro-enterologie;69;20;49;0;4;2;2;3;1;1;0;7;0;1;0;4;9;8;4;7;16
+Henegouwen;Cardiologie;110;22;88;0;4;3;2;2;3;2;2;4;0;1;4;7;7;6;13;13;37
+Henegouwen;Inwendige geneeskunde;179;63;116;0;7;12;13;11;9;2;2;7;0;4;6;5;9;10;22;17;43
+Henegouwen;Reumatologie;30;13;17;0;0;3;2;3;1;0;1;3;0;0;1;0;1;1;3;3;8
+Henegouwen;Acute geneeskunde;37;17;20;0;0;0;3;5;4;3;1;1;0;0;0;0;3;7;4;2;4
+Henegouwen;Gynaecologie-verloskunde;183;92;91;0;13;12;11;14;16;7;4;15;0;4;2;4;10;6;11;16;38
+Henegouwen;Oftalmologie;76;40;36;0;5;1;6;5;4;4;3;12;1;0;2;2;1;3;2;6;19
+Henegouwen;Otorhinolaryngologie;61;27;34;0;2;4;3;3;7;3;3;2;0;1;0;1;4;2;5;4;17
+Henegouwen;Stomatologie;24;9;15;0;1;0;2;2;1;1;0;2;0;0;1;0;1;3;2;1;7
+Henegouwen;Dermato-venereologie;72;51;21;1;3;7;4;6;6;6;5;13;0;0;2;2;1;0;4;3;9
+Henegouwen;Pediatrie;160;104;56;0;12;18;16;17;9;7;5;20;0;1;3;1;2;6;3;4;36
+Henegouwen;Fysische geneeskunde en revalidatie;45;21;24;0;4;3;2;4;1;1;1;5;0;1;1;1;2;1;2;4;12
+Henegouwen;Klinische biologie;56;27;29;0;3;1;1;2;1;3;4;12;0;1;1;0;1;0;2;5;19
+Henegouwen;Rontgendiagnose;160;56;104;0;7;6;9;6;6;8;3;11;0;4;5;5;6;10;11;13;50
+Henegouwen;Radiotherapie - oncologie;18;9;9;0;1;3;0;2;0;0;0;3;0;0;2;0;4;0;0;2;1
+Henegouwen;Nucleaire geneeskunde;28;11;17;0;0;3;1;1;1;2;1;2;0;0;0;0;0;2;3;1;11
+Henegouwen;Pathologische anatomie;35;19;16;0;1;2;1;2;1;5;0;7;0;3;2;1;1;0;1;1;7
+Henegouwen;Medische oncologie;26;13;13;0;1;2;0;1;7;0;1;1;0;2;1;0;1;1;4;1;3
+Henegouwen;Klinische genetica;3;2;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+Henegouwen;Arbeidsgeneeskunde;86;57;29;0;0;1;5;12;8;9;11;11;0;1;0;1;5;1;2;5;14
+Henegouwen;Verzekeringsgeneeskunde en medische expertise;66;17;49;0;0;0;0;1;2;2;9;3;0;0;0;0;3;1;5;13;27
+Luik;Alle specialiteiten;3156;1400;1756;5;179;201;185;218;160;131;96;225;2;114;120;128;155;174;190;215;658
+Luik;Geriatrie;34;28;6;0;6;5;4;7;4;1;0;1;0;0;1;1;0;1;0;1;2
+Luik;Urgentiegeneeskunde;33;13;20;0;7;2;2;1;1;0;0;0;0;2;8;5;3;1;1;0;0
+Luik;Gerechtelijke geneeskunde;7;2;5;0;0;0;1;1;0;0;0;0;0;0;2;2;0;0;0;0;1
+Luik;Beheer van gezondheidsgegevens;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+Luik;Anesthesie-reanimatie;323;117;206;2;12;22;14;26;10;12;2;17;0;27;16;23;31;24;17;23;45
+Luik;Heelkunde;164;35;129;0;3;6;2;7;8;8;1;0;0;7;8;10;7;7;19;22;49
+Luik;Neurochirurgie;25;4;21;0;1;1;0;0;0;1;1;0;0;2;3;2;2;2;4;2;4
+Luik;Plastische, reconstructieve en esthetische heelkunde;29;8;21;0;0;2;2;1;0;1;1;1;0;3;4;4;1;3;3;0;3
+Luik;Urologie;51;6;45;0;1;2;1;0;1;0;1;0;0;4;3;3;6;3;5;5;16
+Luik;Orthopedische heelkunde;93;18;75;0;5;2;2;5;0;1;3;0;0;1;11;5;7;8;8;10;25
+Luik;Neurologie;69;26;43;0;4;5;5;4;3;1;2;2;0;5;3;2;4;6;6;7;10
+Luik;Psychiatrie;175;86;89;0;1;3;8;15;15;10;11;23;0;0;3;2;5;8;7;7;57
+Luik;Neuropsychiatrie;16;3;13;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;2;11
+Luik;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;22;16;6;0;6;3;4;1;1;0;1;0;0;2;1;1;0;0;1;1;0
+Luik;Psychiatrie, meer bepaald volwassenpsychiatrie;49;33;16;0;4;7;8;12;1;1;0;0;0;2;2;6;1;4;0;0;1
+Luik;Pneumologie;69;30;39;0;6;6;6;7;2;1;1;1;0;2;2;6;5;4;4;4;12
+Luik;Gastro-enterologie;88;39;49;0;8;11;7;4;4;2;1;2;0;1;2;5;3;5;10;5;18
+Luik;Cardiologie;153;50;103;0;6;9;10;9;6;7;3;0;0;4;8;6;15;12;10;11;37
+Luik;Inwendige geneeskunde;191;86;105;0;17;11;20;10;11;1;2;14;0;5;3;8;11;12;12;12;42
+Luik;Reumatologie;34;21;13;0;0;3;0;2;4;5;0;7;0;1;0;1;0;1;2;2;6
+Luik;Acute geneeskunde;32;11;21;0;0;0;0;6;2;1;2;0;0;0;1;0;5;4;6;3;2
+Luik;Gynaecologie-verloskunde;209;112;97;0;22;18;13;11;15;9;12;12;0;4;5;4;8;9;10;14;43
+Luik;Oftalmologie;150;93;57;1;12;12;9;9;9;7;10;24;2;8;4;7;3;8;3;3;19
+Luik;Otorhinolaryngologie;97;51;46;1;4;9;6;11;5;3;3;9;0;4;3;2;3;4;7;3;20
+Luik;Stomatologie;17;3;14;0;1;0;2;0;0;0;0;0;0;0;1;1;0;1;1;1;9
+Luik;Dermato-venereologie;91;60;31;1;6;10;7;7;9;7;1;12;0;2;2;2;1;3;2;6;13
+Luik;Pediatrie;246;164;82;0;28;29;22;22;16;11;9;27;0;5;4;4;7;8;5;5;44
+Luik;Fysische geneeskunde en revalidatie;86;41;45;0;4;4;6;5;7;4;4;7;0;3;5;4;2;3;7;9;12
+Luik;Klinische biologie;66;31;35;0;1;1;2;2;2;2;3;18;0;0;1;1;0;0;5;6;22
+Luik;Rontgendiagnose;201;48;153;0;6;7;6;3;6;12;3;5;0;14;11;5;15;15;20;20;53
+Luik;Radiotherapie - oncologie;22;10;12;0;1;2;0;1;1;1;1;3;0;2;0;2;1;3;0;1;3
+Luik;Nucleaire geneeskunde;49;19;30;0;2;0;2;1;2;6;2;4;0;1;2;3;1;1;0;6;16
+Luik;Pathologische anatomie;33;21;12;0;1;2;2;3;4;4;1;4;0;2;0;0;0;1;3;3;3
+Luik;Medische oncologie;36;22;14;0;4;3;1;7;3;1;0;3;0;1;0;1;1;4;2;1;4
+Luik;Klinische genetica;10;6;4;0;0;2;1;1;1;0;0;1;0;0;0;0;3;0;1;0;0
+Luik;Arbeidsgeneeskunde;101;57;44;0;0;2;9;16;4;8;6;12;0;0;1;0;3;3;3;5;29
+Luik;Verzekeringsgeneeskunde en medische expertise;84;30;54;0;0;0;1;1;3;3;9;13;0;0;0;0;1;6;6;15;26
+Namen;Alle specialiteiten;1378;557;821;1;56;75;80;95;69;55;48;78;0;44;57;70;93;65;105;93;294
+Namen;Geriatrie;15;10;5;0;1;1;1;3;1;2;0;1;0;1;0;0;2;0;0;0;2
+Namen;Urgentiegeneeskunde;10;1;9;0;0;1;0;0;0;0;0;0;0;2;1;1;1;2;1;1;0
+Namen;Gerechtelijke geneeskunde;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+Namen;Beheer van gezondheidsgegevens;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+Namen;Anesthesie-reanimatie;119;44;75;0;3;7;6;11;4;1;6;6;0;5;4;8;12;7;13;14;12
+Namen;Heelkunde;95;15;80;0;2;2;2;3;2;3;1;0;0;1;4;10;10;5;10;9;31
+Namen;Neurochirurgie;15;1;14;0;0;0;1;0;0;0;0;0;0;3;0;1;2;2;2;2;2
+Namen;Plastische, reconstructieve en esthetische heelkunde;7;1;6;0;0;0;0;1;0;0;0;0;0;0;2;0;1;1;1;1;0
+Namen;Urologie;18;5;13;0;1;0;1;2;1;0;0;0;0;2;1;1;3;2;0;1;3
+Namen;Orthopedische heelkunde;71;8;63;0;1;3;1;2;0;0;0;1;0;1;9;8;7;1;9;8;20
+Namen;Neurologie;28;19;9;0;3;1;3;5;2;2;2;1;0;1;0;0;1;0;3;1;3
+Namen;Psychiatrie;48;16;32;0;0;2;0;4;5;5;0;0;0;0;0;1;6;1;5;4;15
+Namen;Neuropsychiatrie;4;1;3;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;3
+Namen;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;9;6;3;0;0;4;0;1;0;0;0;1;0;0;0;1;0;1;0;0;1
+Namen;Psychiatrie, meer bepaald volwassenpsychiatrie;24;13;11;0;1;3;4;2;1;0;1;1;0;2;4;3;2;0;0;0;0
+Namen;Pneumologie;34;14;20;0;2;3;4;2;1;1;0;1;0;3;2;1;2;3;4;2;3
+Namen;Gastro-enterologie;36;9;27;0;0;4;2;0;0;2;1;0;0;1;1;1;3;1;5;5;10
+Namen;Cardiologie;59;15;44;0;2;3;2;3;4;1;0;0;0;5;3;3;6;5;6;4;12
+Namen;Inwendige geneeskunde;106;43;63;0;7;8;8;7;5;2;4;2;0;1;4;4;11;8;7;6;22
+Namen;Reumatologie;17;7;10;0;1;0;1;3;2;0;0;0;0;0;0;1;0;1;1;2;5
+Namen;Acute geneeskunde;30;20;10;0;0;1;2;7;6;1;2;1;0;0;1;1;2;2;3;0;1
+Namen;Gynaecologie-verloskunde;66;39;27;0;3;8;7;6;2;6;2;5;0;0;1;4;2;1;1;3;15
+Namen;Oftalmologie;55;27;28;0;3;3;4;2;1;2;1;11;0;2;4;3;3;3;3;5;5
+Namen;Otorhinolaryngologie;41;17;24;0;2;1;1;2;3;5;2;1;0;2;0;2;2;1;4;4;9
+Namen;Stomatologie;22;3;19;0;0;0;1;0;1;0;1;0;0;3;3;0;3;1;1;0;8
+Namen;Dermato-venereologie;32;20;12;1;7;3;1;1;3;1;0;3;0;0;0;0;1;0;2;0;9
+Namen;Pediatrie;87;51;36;0;11;4;5;6;5;5;1;14;0;2;2;6;1;3;3;1;18
+Namen;Fysische geneeskunde en revalidatie;27;17;10;0;0;1;3;1;4;2;2;4;0;1;0;1;0;1;1;1;5
+Namen;Klinische biologie;42;24;18;0;1;0;3;3;2;0;5;10;0;0;1;1;0;0;1;2;13
+Namen;Rontgendiagnose;98;29;69;0;2;7;4;5;5;2;1;3;0;6;8;5;3;5;8;6;28
+Namen;Radiotherapie - oncologie;17;13;4;0;2;2;2;1;1;3;2;0;0;0;0;2;1;1;0;0;0
+Namen;Nucleaire geneeskunde;19;7;12;0;0;0;1;2;0;3;1;0;0;0;0;0;1;1;3;0;7
+Namen;Pathologische anatomie;9;7;2;0;0;1;1;2;1;0;1;1;0;0;0;0;0;1;1;0;0
+Namen;Medische oncologie;16;7;9;0;1;2;1;0;0;1;1;1;0;0;2;0;2;2;1;2;0
+Namen;Arbeidsgeneeskunde;56;36;20;0;0;0;7;7;5;3;8;6;0;0;0;0;1;3;1;4;11
+Namen;Verzekeringsgeneeskunde en medische expertise;42;12;30;0;0;0;1;1;2;2;3;3;0;0;0;0;2;0;4;4;20
+Luxemburg;Alle specialiteiten;491;203;288;0;18;27;32;38;28;22;14;24;0;5;9;21;30;27;44;36;116
+Luxemburg;Geriatrie;12;10;2;0;3;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+Luxemburg;Urgentiegeneeskunde;5;1;4;0;0;1;0;0;0;0;0;0;0;0;1;0;1;1;0;0;1
+Luxemburg;Anesthesie-reanimatie;42;17;25;0;1;4;4;3;3;1;0;1;0;1;2;1;2;1;4;6;8
+Luxemburg;Heelkunde;32;9;23;0;3;1;2;3;0;0;0;0;0;0;1;2;3;2;3;3;9
+Luxemburg;Neurochirurgie;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2
+Luxemburg;Plastische, reconstructieve en esthetische heelkunde;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Luxemburg;Urologie;10;1;9;0;0;0;1;0;0;0;0;0;0;0;0;2;0;1;0;0;6
+Luxemburg;Orthopedische heelkunde;27;2;25;0;0;0;0;0;1;1;0;0;0;2;2;0;4;3;3;3;8
+Luxemburg;Neurologie;10;7;3;0;0;2;1;1;2;1;0;0;0;0;0;0;0;1;0;1;1
+Luxemburg;Psychiatrie;19;6;13;0;0;0;1;1;1;1;1;1;0;0;0;0;1;1;3;0;8
+Luxemburg;Neuropsychiatrie;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+Luxemburg;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;5;5;0;0;0;1;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0
+Luxemburg;Psychiatrie, meer bepaald volwassenpsychiatrie;6;4;2;0;1;1;0;1;0;0;0;1;0;0;0;1;0;0;1;0;0
+Luxemburg;Pneumologie;8;2;6;0;0;1;0;1;0;0;0;0;0;1;1;0;1;0;1;2;0
+Luxemburg;Gastro-enterologie;9;3;6;0;0;1;0;0;1;0;1;0;0;0;0;2;1;0;2;0;1
+Luxemburg;Cardiologie;19;4;15;0;1;2;0;0;0;0;1;0;0;1;0;1;3;0;3;1;6
+Luxemburg;Inwendige geneeskunde;32;10;22;0;1;0;4;2;1;2;0;0;0;0;0;4;6;2;2;1;7
+Luxemburg;Reumatologie;4;2;2;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;1
+Luxemburg;Acute geneeskunde;6;3;3;0;0;0;0;1;0;0;2;0;0;0;0;0;0;1;1;1;0
+Luxemburg;Gynaecologie-verloskunde;32;15;17;0;3;5;2;2;2;1;0;0;0;0;1;1;1;3;3;2;6
+Luxemburg;Oftalmologie;17;9;8;0;1;0;1;1;1;0;2;3;0;0;0;0;1;1;2;1;3
+Luxemburg;Otorhinolaryngologie;11;6;5;0;0;0;2;0;3;1;0;0;0;0;0;0;0;0;2;0;3
+Luxemburg;Stomatologie;6;3;3;0;0;0;1;1;0;0;0;1;0;0;0;0;0;1;0;0;2
+Luxemburg;Dermato-venereologie;8;6;2;0;1;0;1;0;1;2;0;1;0;0;0;0;0;0;1;0;1
+Luxemburg;Pediatrie;37;27;10;0;3;2;5;5;3;3;2;4;0;0;1;0;1;0;2;1;5
+Luxemburg;Fysische geneeskunde en revalidatie;7;3;4;0;0;1;0;2;0;0;0;0;0;0;0;1;0;1;0;0;2
+Luxemburg;Klinische biologie;11;5;6;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;6
+Luxemburg;Rontgendiagnose;39;10;29;0;0;1;2;1;2;1;1;2;0;0;0;3;1;4;8;6;7
+Luxemburg;Radiotherapie - oncologie;2;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+Luxemburg;Nucleaire geneeskunde;5;2;3;0;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;2
+Luxemburg;Pathologische anatomie;2;2;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0
+Luxemburg;Medische oncologie;4;2;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0
+Luxemburg;Klinische genetica;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+Luxemburg;Arbeidsgeneeskunde;34;19;15;0;0;0;2;6;2;3;1;5;0;0;0;3;3;2;1;1;5
+Luxemburg;Verzekeringsgeneeskunde en medische expertise;22;5;17;0;0;0;0;0;3;0;2;0;0;0;0;0;0;1;1;5;10
+Brussels Hoofdstedelijk Gewest;Alle specialiteiten;3901;1903;1998;7;266;266;269;189;189;173;172;372;5;160;141;164;165;166;200;227;770
+Brussels Hoofdstedelijk Gewest;Geriatrie;33;23;10;0;3;6;7;2;2;1;2;0;0;0;1;1;1;1;1;3;2
+Brussels Hoofdstedelijk Gewest;Urgentiegeneeskunde;46;24;22;0;8;9;3;1;1;2;0;0;0;4;7;6;1;2;1;1;0
+Brussels Hoofdstedelijk Gewest;Gerechtelijke geneeskunde;2;1;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+Brussels Hoofdstedelijk Gewest;Beheer van gezondheidsgegevens;11;6;5;0;0;0;0;0;4;0;2;0;0;0;0;1;0;0;2;2;0
+Brussels Hoofdstedelijk Gewest;Anesthesie-reanimatie;285;143;142;0;27;18;16;14;14;9;14;31;0;23;20;15;16;22;12;11;23
+Brussels Hoofdstedelijk Gewest;Heelkunde;210;55;155;0;9;9;7;7;3;4;8;8;0;14;12;10;11;17;13;12;66
+Brussels Hoofdstedelijk Gewest;Neurochirurgie;22;3;19;0;1;1;0;1;0;0;0;0;0;1;3;1;3;1;0;4;6
+Brussels Hoofdstedelijk Gewest;Plastische, reconstructieve en esthetische heelkunde;39;10;29;0;2;2;3;0;0;1;1;1;0;1;2;3;6;2;1;4;10
+Brussels Hoofdstedelijk Gewest;Urologie;47;5;42;0;1;1;2;1;0;0;0;0;0;7;3;3;3;1;5;3;17
+Brussels Hoofdstedelijk Gewest;Orthopedische heelkunde;121;21;100;0;4;4;1;1;4;3;1;3;0;12;8;10;9;6;11;9;35
+Brussels Hoofdstedelijk Gewest;Neurologie;86;47;39;0;7;7;10;4;7;4;5;3;1;5;4;5;7;7;5;2;3
+Brussels Hoofdstedelijk Gewest;Psychiatrie;258;111;147;0;0;1;4;12;15;31;14;34;0;0;0;2;11;10;17;25;82
+Brussels Hoofdstedelijk Gewest;Neuropsychiatrie;34;12;22;0;0;0;0;0;0;1;0;11;0;0;0;0;0;0;0;0;22
+Brussels Hoofdstedelijk Gewest;Psychiatrie, meer bepaald kinder- en jeugdpsychiatrie;52;36;16;0;4;15;7;3;3;2;0;2;0;6;2;4;0;0;0;3;1
+Brussels Hoofdstedelijk Gewest;Psychiatrie, meer bepaald volwassenpsychiatrie;105;63;42;0;13;12;8;10;6;5;3;6;0;5;5;16;6;1;3;3;3
+Brussels Hoofdstedelijk Gewest;Pneumologie;72;34;38;0;6;8;6;5;3;1;1;4;0;2;1;5;1;3;6;6;14
+Brussels Hoofdstedelijk Gewest;Gastro-enterologie;104;38;66;0;5;4;7;7;3;4;1;7;0;4;6;8;5;6;6;6;25
+Brussels Hoofdstedelijk Gewest;Cardiologie;198;70;128;0;6;14;13;6;8;4;11;8;0;9;10;14;13;10;21;11;40
+Brussels Hoofdstedelijk Gewest;Inwendige geneeskunde;339;142;197;0;20;27;36;14;12;9;6;18;0;13;15;15;19;17;18;19;81
+Brussels Hoofdstedelijk Gewest;Reumatologie;40;18;22;0;0;3;3;3;1;2;2;4;0;1;0;0;0;3;4;2;12
+Brussels Hoofdstedelijk Gewest;Acute geneeskunde;36;20;16;1;2;4;1;3;4;1;2;2;0;0;1;1;1;3;4;2;4
+Brussels Hoofdstedelijk Gewest;Gynaecologie-verloskunde;294;182;112;0;36;34;19;17;11;18;20;27;0;4;5;9;8;9;7;13;57
+Brussels Hoofdstedelijk Gewest;Oftalmologie;172;106;66;2;17;14;14;7;6;5;11;30;3;8;3;4;12;3;7;6;20
+Brussels Hoofdstedelijk Gewest;Otorhinolaryngologie;97;40;57;0;9;0;8;5;5;2;1;10;0;4;1;3;0;8;10;8;23
+Brussels Hoofdstedelijk Gewest;Stomatologie;56;21;35;0;2;1;4;0;3;2;3;6;0;4;1;1;3;1;1;6;18
+Brussels Hoofdstedelijk Gewest;Dermato-venereologie;137;100;37;4;15;3;12;9;10;11;7;29;1;1;2;2;2;3;6;4;16
+Brussels Hoofdstedelijk Gewest;Pediatrie;337;236;101;0;33;30;44;23;18;23;11;54;0;5;9;6;6;9;3;8;55
+Brussels Hoofdstedelijk Gewest;Fysische geneeskunde en revalidatie;42;26;16;0;6;1;5;3;4;4;0;3;0;0;1;0;1;0;1;7;6
+Brussels Hoofdstedelijk Gewest;Klinische biologie;102;57;45;0;6;3;2;4;7;5;10;20;0;1;2;2;1;2;5;6;26
+Brussels Hoofdstedelijk Gewest;Rontgendiagnose;213;89;124;0;10;14;13;1;19;6;11;15;0;14;11;10;6;13;13;16;41
+Brussels Hoofdstedelijk Gewest;Radiotherapie - oncologie;23;18;5;0;0;4;0;5;2;1;2;4;0;2;1;0;0;0;0;1;1
+Brussels Hoofdstedelijk Gewest;Nucleaire geneeskunde;46;15;31;0;1;3;3;1;0;2;2;3;0;5;3;1;5;0;2;2;13
+Brussels Hoofdstedelijk Gewest;Pathologische anatomie;49;32;17;0;7;3;2;4;3;1;3;9;0;3;0;1;1;1;2;3;6
+Brussels Hoofdstedelijk Gewest;Medische oncologie;57;30;27;0;4;10;5;3;2;2;1;3;0;2;1;2;6;3;3;3;7
+Brussels Hoofdstedelijk Gewest;Klinische genetica;9;7;2;0;0;1;0;3;1;0;0;2;0;0;0;1;0;0;0;0;1
+Brussels Hoofdstedelijk Gewest;Arbeidsgeneeskunde;80;44;36;0;1;0;4;7;6;7;10;9;0;0;0;1;0;0;6;8;21
+Brussels Hoofdstedelijk Gewest;Verzekeringsgeneeskunde en medische expertise;47;18;29;0;0;0;0;3;2;0;7;6;0;0;0;1;1;2;4;8;13
